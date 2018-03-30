@@ -64,7 +64,7 @@ $Comp
 L D_Small D1
 U 1 1 5AAF23E9
 P 1400 1430
-F 0 "D1" H 1350 1510 50  0000 L CNN
+F 0 "D1" H 1350 1510 30  0000 L CNN
 F 1 "D" V 1250 1350 50  0000 L CNN
 F 2 "" V 1400 1430 50  0001 C CNN
 F 3 "" V 1400 1430 50  0001 C CNN
@@ -86,7 +86,7 @@ $Comp
 L D_Small D2
 U 1 1 5AAF270C
 P 1850 1430
-F 0 "D2" H 1800 1510 50  0000 L CNN
+F 0 "D2" H 1800 1510 30  0000 L CNN
 F 1 "D" V 1700 1350 50  0000 L CNN
 F 2 "" V 1850 1430 50  0001 C CNN
 F 3 "" V 1850 1430 50  0001 C CNN
@@ -108,7 +108,7 @@ $Comp
 L D_Small D3
 U 1 1 5AAF2794
 P 2350 1430
-F 0 "D3" H 2300 1510 50  0000 L CNN
+F 0 "D3" H 2300 1510 30  0000 L CNN
 F 1 "D" V 2200 1350 50  0000 L CNN
 F 2 "" V 2350 1430 50  0001 C CNN
 F 3 "" V 2350 1430 50  0001 C CNN
@@ -394,8 +394,8 @@ $Comp
 L R_Small R1
 U 1 1 5AAF6330
 P 1655 1295
-F 0 "R1" H 1685 1315 50  0000 L CNN
-F 1 "820" H 1685 1255 50  0000 L CNN
+F 0 "R1" H 1685 1315 30  0000 L CNN
+F 1 "820" H 1685 1255 30  0000 L CNN
 F 2 "" H 1655 1295 50  0001 C CNN
 F 3 "" H 1655 1295 50  0001 C CNN
 	1    1655 1295
@@ -2498,8 +2498,52 @@ F 3 "" H 8375 2475 60  0001 C CNN
 	1    8400 2500
 	1    0    0    -1  
 $EndComp
-Text GLabel 650  4725 2    60   Input ~ 0
+Text GLabel 545  4845 3    60   Input ~ 0
 LEDGND
+$Comp
+L VCC #PWR023
+U 1 1 5B338190
+P 8305 695
+F 0 "#PWR023" H 8305 545 50  0001 C CNN
+F 1 "VCC" H 8305 845 50  0000 C CNN
+F 2 "" H 8305 695 50  0001 C CNN
+F 3 "" H 8305 695 50  0001 C CNN
+	1    8305 695 
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX-1.5U K_SPACE2_4
+U 1 1 5AC21C87
+P 4300 5490
+F 0 "K_SPACE2_4" H 4300 5615 60  0000 C CNN
+F 1 "MX-1.5U" H 4300 5540 20  0000 C CNN
+F 2 "" H 4275 5465 60  0001 C CNN
+F 3 "" H 4275 5465 60  0001 C CNN
+	1    4300 5490
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX-2.75U K_SPACE1_3
+U 1 1 5AC291A6
+P 3400 4970
+F 0 "K_SPACE1_3" H 3400 5095 60  0000 C CNN
+F 1 "MX-2.75U" H 3400 5020 20  0000 C CNN
+F 2 "" H 3375 4945 60  0001 C CNN
+F 3 "" H 3375 4945 60  0001 C CNN
+	1    3400 4970
+	1    0    0    -1  
+$EndComp
+$Comp
+L MX-2.75U K_SPACE3_3
+U 1 1 5AC34405
+P 5200 4970
+F 0 "K_SPACE3_3" H 5200 5095 60  0000 C CNN
+F 1 "MX-2.75U" H 5200 5020 20  0000 C CNN
+F 2 "" H 5175 4945 60  0001 C CNN
+F 3 "" H 5175 4945 60  0001 C CNN
+	1    5200 4970
+	1    0    0    -1  
+$EndComp
 Wire Wire Line
 	1525 1275 1400 1275
 Wire Wire Line
@@ -3274,7 +3318,7 @@ Wire Wire Line
 	3130 1775 3125 1775
 Connection ~ 3130 1075
 Wire Wire Line
-	3575 865  3575 4425
+	3575 865  3575 4945
 Connection ~ 3575 1075
 Connection ~ 4025 1075
 Connection ~ 4475 1075
@@ -3283,9 +3327,6 @@ Wire Wire Line
 Wire Wire Line
 	4930 1775 4925 1775
 Connection ~ 4930 1075
-Wire Wire Line
-	5380 1075 5375 1075
-Connection ~ 5380 1075
 Wire Wire Line
 	5830 1075 5825 1075
 Wire Wire Line
@@ -3386,7 +3427,7 @@ Connection ~ 4475 2475
 Connection ~ 4475 3125
 Connection ~ 4475 3775
 Wire Wire Line
-	4475 865  4475 4945
+	4475 865  4475 5465
 Connection ~ 4475 4420
 Wire Wire Line
 	4930 1075 4930 3125
@@ -3512,12 +3553,12 @@ Connection ~ 1400 3345
 Wire Wire Line
 	3375 4625 3115 4625
 Wire Wire Line
-	3115 4625 3115 3990
+	3115 3990 3115 5145
 Connection ~ 3250 3990
 Wire Wire Line
 	4275 4625 3975 4625
 Wire Wire Line
-	3975 3975 3975 5145
+	3975 3975 3975 5665
 Wire Wire Line
 	3975 3975 4155 3975
 Connection ~ 4155 3975
@@ -3535,7 +3576,7 @@ Connection ~ 5950 3975
 Wire Wire Line
 	5175 4625 4880 4625
 Wire Wire Line
-	4880 4625 4880 3985
+	4880 3985 4880 5145
 Connection ~ 5050 3985
 Wire Wire Line
 	5820 5125 6075 5125
@@ -3640,7 +3681,7 @@ Wire Wire Line
 	3625 4095 3505 4095
 Connection ~ 3625 3445
 Wire Wire Line
-	3525 4475 3525 4170
+	3525 4170 3525 4995
 Wire Wire Line
 	3525 4170 3455 4170
 Wire Wire Line
@@ -3678,7 +3719,7 @@ Wire Wire Line
 	4530 4095 4405 4095
 Connection ~ 4530 3445
 Wire Wire Line
-	4425 4155 4425 4995
+	4425 4155 4425 5515
 Wire Wire Line
 	4425 4155 4360 4155
 Wire Wire Line
@@ -3710,7 +3751,7 @@ Wire Wire Line
 Wire Wire Line
 	4925 1075 4925 865 
 Wire Wire Line
-	5375 865  5375 4425
+	5375 865  5375 4945
 Wire Wire Line
 	5830 865  5830 2475
 Wire Wire Line
@@ -3879,11 +3920,11 @@ Connection ~ 6325 910
 Connection ~ 5875 910 
 Connection ~ 6780 910 
 Wire Wire Line
-	8305 905  6780 905 
+	6780 905  8305 905 
 Connection ~ 7225 905 
 Connection ~ 7675 905 
 Wire Wire Line
-	8305 695  8305 905 
+	8305 905  8305 695 
 Connection ~ 8160 905 
 Wire Wire Line
 	7925 1590 7925 1225
@@ -3978,7 +4019,7 @@ Connection ~ 5375 2475
 Connection ~ 5375 3125
 Connection ~ 5375 3775
 Wire Wire Line
-	5325 4475 5325 4140
+	5325 4140 5325 4995
 Wire Wire Line
 	5325 4140 5260 4140
 Wire Wire Line
@@ -4151,7 +4192,7 @@ Wire Wire Line
 	5225 3925 5225 4575
 Connection ~ 6125 4270
 Wire Wire Line
-	4325 3925 4325 5095
+	4325 3925 4325 5615
 Connection ~ 5225 4270
 Wire Wire Line
 	3425 3925 3425 4575
@@ -4184,7 +4225,7 @@ Wire Wire Line
 	1265 4630 1265 3975
 Connection ~ 1400 3975
 Wire Wire Line
-	545  1690 545  4725
+	545  1690 545  4845
 Wire Wire Line
 	545  2340 845  2340
 Connection ~ 845  2340
@@ -4192,8 +4233,6 @@ Connection ~ 545  2340
 Connection ~ 545  3135
 Connection ~ 545  3775
 Connection ~ 545  4425
-Wire Wire Line
-	545  4725 650  4725
 Wire Wire Line
 	6205 1395 6325 1395
 Connection ~ 6325 1395
@@ -4209,18 +4248,32 @@ Wire Wire Line
 Wire Wire Line
 	5825 2475 5825 3125
 Connection ~ 1400 3585
-$Comp
-L VCC #PWR019
-U 1 1 5B338190
-P 8305 695
-F 0 "#PWR019" H 8305 545 50  0001 C CNN
-F 1 "VCC" H 8305 845 50  0000 C CNN
-F 2 "" H 8305 695 50  0001 C CNN
-F 3 "" H 8305 695 50  0001 C CNN
-	1    8305 695 
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	8425 1200 8425 1125
 Connection ~ 8025 1200
+Wire Wire Line
+	3975 5665 4275 5665
+Connection ~ 3975 5145
+Connection ~ 4475 4945
+Connection ~ 4325 5095
+Connection ~ 4425 4995
+Wire Wire Line
+	3115 5145 3375 5145
+Connection ~ 3115 4625
+Connection ~ 3575 4425
+Connection ~ 3525 4475
+Wire Wire Line
+	3425 5095 3425 4570
+Connection ~ 3425 4570
+Wire Wire Line
+	4325 5095 4325 5090
+Wire Wire Line
+	4880 5145 5175 5145
+Connection ~ 4880 4625
+Connection ~ 5375 4425
+Connection ~ 5325 4475
+Wire Wire Line
+	5225 5095 5225 4565
+Connection ~ 5225 4565
+Connection ~ 5375 1075
 $EndSCHEMATC
