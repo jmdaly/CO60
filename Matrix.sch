@@ -2501,10 +2501,10 @@ $EndComp
 Text GLabel 545  4845 3    60   Input ~ 0
 LEDGND
 $Comp
-L VCC #PWR023
+L VCC #PWR027
 U 1 1 5B338190
 P 8305 695
-F 0 "#PWR023" H 8305 545 50  0001 C CNN
+F 0 "#PWR027" H 8305 545 50  0001 C CNN
 F 1 "VCC" H 8305 845 50  0000 C CNN
 F 2 "" H 8305 695 50  0001 C CNN
 F 3 "" H 8305 695 50  0001 C CNN
@@ -3324,8 +3324,6 @@ Connection ~ 4025 1075
 Connection ~ 4475 1075
 Wire Wire Line
 	4930 1075 4925 1075
-Wire Wire Line
-	4930 1775 4925 1775
 Connection ~ 4930 1075
 Wire Wire Line
 	5830 1075 5825 1075
@@ -3433,7 +3431,6 @@ Wire Wire Line
 	4930 1075 4930 3125
 Wire Wire Line
 	4930 2475 4925 2475
-Connection ~ 4930 1770
 Wire Wire Line
 	4930 3125 4925 3125
 Connection ~ 4930 2475
@@ -4276,4 +4273,7 @@ Wire Wire Line
 	5225 5095 5225 4565
 Connection ~ 5225 4565
 Connection ~ 5375 1075
+Wire Wire Line
+	4930 1775 4925 1775
+Connection ~ 4930 1775
 $EndSCHEMATC
