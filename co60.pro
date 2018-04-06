@@ -1,4 +1,4 @@
-update=Thu 15 Mar 2018 09:44:54 PM EDT
+update=Thu 05 Apr 2018 09:08:53 PM EDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -65,3 +65,4 @@ LibName33=MX_Alps_Hybrid.pretty/Schematic Library/MX_Alps_Hybrids
 LibName34=lib/device
 LibName35=lib/aker
 LibName36=Type-C.pretty/Type-C
+LibName37=lib/atmega32u4
