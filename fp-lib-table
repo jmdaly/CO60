@@ -2,4 +2,5 @@
   (lib (name tqfp)(type KiCad)(uri "$(KIPRJMOD)/lib/tqfp.pretty")(options "")(descr ""))
   (lib (name MX_Alps_Hybrid)(type KiCad)(uri "$(KIPRJMOD)/lib/MX_Alps_Hybrid.pretty")(options "")(descr ""))
   (lib (name Type-C)(type KiCad)(uri "$(KIPRJMOD)/lib/Type-C.pretty")(options "")(descr ""))
+  (lib (name ndk)(type KiCad)(uri "$(KIPRJMOD)/lib/ndk.pretty")(options "")(descr ""))
 )
