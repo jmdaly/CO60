@@ -31,10 +31,11 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:MX_Alps_Hybrids
 LIBS:aker
-LIBS:Type-C
 LIBS:atmega32u4
+LIBS:ESD_Protection
+LIBS:MX_Alps_Hybrids
+LIBS:Type-C
 LIBS:co60-cache
 EELAYER 25 0
 EELAYER END
@@ -848,4 +849,61 @@ Connection ~ 6755 3295
 Wire Wire Line
 	7005 3230 7005 3030
 Connection ~ 7005 3030
+$Comp
+L PRTR5V0U2X DP1
+U 1 1 5ADFD2C3
+P 4285 4320
+F 0 "DP1" H 4285 4570 50  0000 C CNN
+F 1 "PRTR5V0U2X" H 4285 4070 50  0000 C CNN
+F 2 "locallib:SOT143B" H 4335 4270 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/PRTR5V0U2X.pdf" H 4335 4270 50  0001 C CNN
+	1    4285 4320
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR025
+U 1 1 5ADFD846
+P 3855 4630
+F 0 "#PWR025" H 3855 4380 50  0001 C CNN
+F 1 "GND" H 3855 4480 50  0000 C CNN
+F 2 "" H 3855 4630 50  0001 C CNN
+F 3 "" H 3855 4630 50  0001 C CNN
+	1    3855 4630
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3985 4420 3855 4420
+Wire Wire Line
+	3855 4420 3855 4630
+$Comp
+L VCC #PWR026
+U 1 1 5ADFDCBF
+P 3850 4125
+F 0 "#PWR026" H 3850 3975 50  0001 C CNN
+F 1 "VCC" H 3850 4275 50  0000 C CNN
+F 2 "" H 3850 4125 50  0001 C CNN
+F 3 "" H 3850 4125 50  0001 C CNN
+	1    3850 4125
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3985 4220 3850 4220
+Wire Wire Line
+	3850 4220 3850 4125
+Wire Wire Line
+	4585 4220 4585 4015
+Wire Wire Line
+	4585 4015 3930 4015
+Wire Wire Line
+	3930 4015 3930 3605
+Connection ~ 3930 3605
+Wire Wire Line
+	4585 4420 4630 4420
+Wire Wire Line
+	4630 4420 4630 3950
+Wire Wire Line
+	4630 3950 4060 3950
+Wire Wire Line
+	4060 3950 4060 3780
+Connection ~ 4060 3780
 $EndSCHEMATC

@@ -1,4 +1,4 @@
-update=Thu 05 Apr 2018 09:08:53 PM EDT
+update=Mon 09 Apr 2018 09:57:49 PM EDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -61,8 +61,9 @@ LibName29=opto
 LibName30=atmel
 LibName31=contrib
 LibName32=valves
-LibName33=MX_Alps_Hybrid.pretty/Schematic Library/MX_Alps_Hybrids
-LibName34=lib/device
-LibName35=lib/aker
-LibName36=Type-C.pretty/Type-C
-LibName37=lib/atmega32u4
+LibName33=lib/device
+LibName34=lib/aker
+LibName35=lib/atmega32u4
+LibName36=ESD_Protection
+LibName37=lib/MX_Alps_Hybrid.pretty/Schematic Library/MX_Alps_Hybrids
+LibName38=lib/Type-C.pretty/Type-C
