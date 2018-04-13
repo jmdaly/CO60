@@ -481,7 +481,7 @@
   )
 
   (module Capacitors_SMD:C_0603 (layer F.Cu) (tedit 59958EE7) (tstamp 5ACEFCCA)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Capacitor SMD 0603, reflow soldering, AVX (see smccp.pdf)")
     (tags "capacitor 0603")
     (path /5AAB494D)
@@ -517,7 +517,7 @@
   )
 
   (module Capacitors_SMD:C_0603 (layer F.Cu) (tedit 59958EE7) (tstamp 5ACEFCDB)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Capacitor SMD 0603, reflow soldering, AVX (see smccp.pdf)")
     (tags "capacitor 0603")
     (path /5AAB499C)
@@ -553,7 +553,7 @@
   )
 
   (module Capacitors_SMD:C_0603 (layer F.Cu) (tedit 59958EE7) (tstamp 5ACEFCEC)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Capacitor SMD 0603, reflow soldering, AVX (see smccp.pdf)")
     (tags "capacitor 0603")
     (path /5AAB4F8A)
@@ -589,7 +589,7 @@
   )
 
   (module Capacitors_SMD:C_0603 (layer F.Cu) (tedit 59958EE7) (tstamp 5ACEFCFD)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Capacitor SMD 0603, reflow soldering, AVX (see smccp.pdf)")
     (tags "capacitor 0603")
     (path /5AAB5B4D)
@@ -625,7 +625,7 @@
   )
 
   (module Capacitors_SMD:C_0603 (layer F.Cu) (tedit 59958EE7) (tstamp 5ACEFD0E)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Capacitor SMD 0603, reflow soldering, AVX (see smccp.pdf)")
     (tags "capacitor 0603")
     (path /5AAB5B9C)
@@ -661,7 +661,7 @@
   )
 
   (module Capacitors_SMD:C_0603 (layer F.Cu) (tedit 59958EE7) (tstamp 5ACEFD1F)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Capacitor SMD 0603, reflow soldering, AVX (see smccp.pdf)")
     (tags "capacitor 0603")
     (path /5AAB5BD5)
@@ -697,7 +697,7 @@
   )
 
   (module Capacitors_SMD:C_0603 (layer F.Cu) (tedit 59958EE7) (tstamp 5ACEFD30)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Capacitor SMD 0603, reflow soldering, AVX (see smccp.pdf)")
     (tags "capacitor 0603")
     (path /5AAB5C07)
@@ -733,7 +733,7 @@
   )
 
   (module Capacitors_SMD:C_0603 (layer F.Cu) (tedit 59958EE7) (tstamp 5ACEFD41)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Capacitor SMD 0603, reflow soldering, AVX (see smccp.pdf)")
     (tags "capacitor 0603")
     (path /5AAB5CBF)
@@ -769,7 +769,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACEFD5A)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AAF23E9)
@@ -813,7 +813,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACEFD73)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AAF270C)
@@ -857,7 +857,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACEFD8C)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AAF2794)
@@ -901,7 +901,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACEFDA5)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AAF2823)
@@ -945,7 +945,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACEFDBE)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AAF28CD)
@@ -989,7 +989,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACEFDD7)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AAF2C9D)
@@ -1033,7 +1033,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACEFDF0)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AAF2DAB)
@@ -1077,7 +1077,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACEFE09)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AAF2F4F)
@@ -1121,7 +1121,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACEFE22)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AAF3BBD)
@@ -1165,7 +1165,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACEFE3B)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AAF3E55)
@@ -1209,7 +1209,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACEFE54)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AAF3F3F)
@@ -1253,7 +1253,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACEFE6D)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AAF43C1)
@@ -1297,7 +1297,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACEFE86)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AAF4613)
@@ -1341,7 +1341,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACEFE9F)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AAF4753)
@@ -1385,7 +1385,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACEFEB8)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AAF4ACD)
@@ -1429,7 +1429,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACEFED1)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AAFC266)
@@ -1473,7 +1473,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACEFEEA)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AAFCD17)
@@ -1517,7 +1517,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACEFF03)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AAFD1BF)
@@ -1561,7 +1561,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACEFF1C)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AAFD547)
@@ -1605,7 +1605,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACEFF35)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AAFD7FF)
@@ -1649,7 +1649,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACEFF4E)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AAFDBCB)
@@ -1693,7 +1693,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACEFF67)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AAFE0FF)
@@ -1737,7 +1737,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACEFF80)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AAFE741)
@@ -1781,7 +1781,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACEFF99)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AAFEF2A)
@@ -1825,7 +1825,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACEFFB2)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB0063D)
@@ -1869,7 +1869,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACEFFCB)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB00D37)
@@ -1913,7 +1913,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACEFFE4)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB01122)
@@ -1957,7 +1957,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACEFFFD)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB014D0)
@@ -2001,7 +2001,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACF0016)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB018F7)
@@ -2045,7 +2045,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACF002F)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB07529)
@@ -2089,7 +2089,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACF0048)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB0CC0E)
@@ -2133,7 +2133,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACF0061)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB0D2E8)
@@ -2177,7 +2177,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACF007A)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB0D748)
@@ -2221,7 +2221,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACF0093)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB0DBBA)
@@ -2265,7 +2265,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACF00AC)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB0E179)
@@ -2309,7 +2309,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACF00C5)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB0E8A9)
@@ -2353,7 +2353,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACF00DE)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB0ED69)
@@ -2397,7 +2397,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACF00F7)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB1125B)
@@ -2441,7 +2441,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACF0110)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB11757)
@@ -2485,7 +2485,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACF0129)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB11F45)
@@ -2529,7 +2529,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACF0142)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB1247D)
@@ -2573,7 +2573,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACF015B)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB12BD3)
@@ -2617,7 +2617,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACF0174)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB136F2)
@@ -2661,7 +2661,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACF018D)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB1DF6A)
@@ -2705,7 +2705,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACF01A6)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB1DAD3)
@@ -2749,7 +2749,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACF01BF)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB20DB0)
@@ -2793,7 +2793,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACF01D8)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB2144A)
@@ -2837,7 +2837,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACF01F1)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB22E3B)
@@ -2881,7 +2881,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACF020A)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB23477)
@@ -2925,7 +2925,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACF0223)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB26140)
@@ -2969,7 +2969,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACF023C)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB268F3)
@@ -3013,7 +3013,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACF0255)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB273E3)
@@ -3057,7 +3057,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACF026E)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB27BE3)
@@ -3101,7 +3101,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACF0287)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB29C39)
@@ -3145,7 +3145,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACF02A0)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB2AC91)
@@ -3189,7 +3189,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACF02B9)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB2BA52)
@@ -3233,7 +3233,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACF02D2)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB4B503)
@@ -3277,7 +3277,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACF02EB)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB5B637)
@@ -3321,7 +3321,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACF0304)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB5BF15)
@@ -3365,7 +3365,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACF031D)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB80966)
@@ -3409,7 +3409,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACF0336)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB87829)
@@ -3453,7 +3453,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACF034F)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB8E197)
@@ -3497,7 +3497,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACF0368)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5ABA037D)
@@ -3541,7 +3541,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACF0381)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5ABAD2B2)
@@ -3585,7 +3585,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACF039A)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5ABB6702)
@@ -3629,7 +3629,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACF03B3)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5ABB6B73)
@@ -3673,7 +3673,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5ACF03CC)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5ABB7AA0)
@@ -3717,7 +3717,7 @@
   )
 
   (module locallib:SOT143B (layer F.Cu) (tedit 5A6FCBCD) (tstamp 5ACF03E2)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5ADFD2C3)
     (fp_text reference DP1 (at 0 2.45) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3750,7 +3750,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 5A9F3A9A) (tstamp 5ACF03FB)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AAF3F39)
     (fp_text reference K_#0_1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3788,7 +3788,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 5A9F3A9A) (tstamp 5ACF0414)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AAF2706)
     (fp_text reference K_#1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3826,7 +3826,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 5A9F3A9A) (tstamp 5ACF042D)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AAF278E)
     (fp_text reference K_#2 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3864,7 +3864,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 5A9F3A9A) (tstamp 5ACF0446)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AAF281D)
     (fp_text reference K_#3 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3902,7 +3902,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 5A9F3A9A) (tstamp 5ACF045F)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AAF28C7)
     (fp_text reference K_#4 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3940,7 +3940,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 5A9F3A9A) (tstamp 5ACF0478)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AAF2C97)
     (fp_text reference K_#5 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3978,7 +3978,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 5A9F3A9A) (tstamp 5ACF0491)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AAF2DA5)
     (fp_text reference K_#6 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4016,7 +4016,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 5A9F3A9A) (tstamp 5ACF04AA)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AAF2F49)
     (fp_text reference K_#7 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4054,7 +4054,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 5A9F3A9A) (tstamp 5ACF04C3)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AAF3BB7)
     (fp_text reference K_#8 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4092,7 +4092,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 5A9F3A9A) (tstamp 5ACF04DC)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AAF3E4F)
     (fp_text reference K_#9 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4130,7 +4130,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 5A9F3A9A) (tstamp 5ACF04F5)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AB12477)
     (fp_text reference K_'1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4168,7 +4168,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 5A9F3A9A) (tstamp 5ACF050E)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AB27BDD)
     (fp_text reference K_,1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4206,7 +4206,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 5A9F3A9A) (tstamp 5ACF0527)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AAF43BB)
     (fp_text reference K_-1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4244,7 +4244,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 5A9F3A9A) (tstamp 5ACF0540)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AB29C33)
     (fp_text reference K_.1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4282,7 +4282,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 5A9F3A9A) (tstamp 5ACF0559)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AB11F3F)
     (fp_text reference K_;1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4320,7 +4320,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 5A9F3A9A) (tstamp 5ACF0572)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AAF460D)
     (fp_text reference K_=1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4358,7 +4358,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 5A9F3A9A) (tstamp 5ACF058B)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AB0CC08)
     (fp_text reference K_A1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4396,7 +4396,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 5A9F3A9A) (tstamp 5ACF05A4)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AB2613A)
     (fp_text reference K_B1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4434,7 +4434,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 5A9F3A9A) (tstamp 5ACF05BD)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AAF4AC7)
     (fp_text reference K_BACK1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4472,7 +4472,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 5A9F3A9A) (tstamp 5ACF05D6)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AAF4C1B)
     (fp_text reference K_BACK2 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4510,7 +4510,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 5A9F3A9A) (tstamp 5ACF05EF)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AB22E35)
     (fp_text reference K_C1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4548,7 +4548,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1.75U (layer F.Cu) (tedit 5A9F3CCD) (tstamp 5ACF0608)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AB04991)
     (fp_text reference K_CAPS1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4586,7 +4586,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1.25U-FLIPPED (layer F.Cu) (tedit 5A9F3BE7) (tstamp 5ACF0621)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AB04BCE)
     (fp_text reference K_CAPS2 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4624,7 +4624,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 5A9F3A9A) (tstamp 5ACF063A)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AB0D742)
     (fp_text reference K_D1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4662,7 +4662,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 5A9F3A9A) (tstamp 5ACF0653)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AAF474D)
     (fp_text reference K_DEL1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4700,7 +4700,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 5A9F3A9A) (tstamp 5ACF066C)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AAFD541)
     (fp_text reference K_E1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4738,7 +4738,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-2.25U (layer F.Cu) (tedit 5A9F4181) (tstamp 5ACF0689)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AB13207)
     (fp_text reference K_ENTER1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4780,7 +4780,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 5A9F3A9A) (tstamp 5ACF06A2)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AAF20E1)
     (fp_text reference K_ESC1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4818,7 +4818,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 5A9F3A9A) (tstamp 5ACF06BB)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AB0DBB4)
     (fp_text reference K_F1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4856,7 +4856,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 5A9F3A9A) (tstamp 5ACF06D4)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AB2AC8B)
     (fp_text reference K_FN1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4894,7 +4894,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1.75U (layer F.Cu) (tedit 5A9F3CCD) (tstamp 5ACF06ED)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AB2C0A0)
     (fp_text reference K_FN2 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4932,7 +4932,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 5A9F3A9A) (tstamp 5ACF0706)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AB0E173)
     (fp_text reference K_G1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4970,7 +4970,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 5A9F3A9A) (tstamp 5ACF071F)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AB0E8A3)
     (fp_text reference K_H1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5008,7 +5008,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 5A9F3A9A) (tstamp 5ACF0738)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AAFEF24)
     (fp_text reference K_I1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5046,7 +5046,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 5A9F3A9A) (tstamp 5ACF0751)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AB12BCD)
     (fp_text reference K_ISO#1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5084,7 +5084,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-ISO (layer F.Cu) (tedit 5A9F485F) (tstamp 5ACF0772)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AEF6989)
     (fp_text reference K_ISOENTER1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5132,7 +5132,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 5A9F3A9A) (tstamp 5ACF078B)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AB1DACD)
     (fp_text reference K_ISO\1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5170,7 +5170,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 5A9F3A9A) (tstamp 5ACF07A4)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AB0ED63)
     (fp_text reference K_J1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5208,7 +5208,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 5A9F3A9A) (tstamp 5ACF07BD)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AB11255)
     (fp_text reference K_K1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5246,7 +5246,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 5A9F3A9A) (tstamp 5ACF07D6)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AB11751)
     (fp_text reference K_L1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5284,7 +5284,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1.25U (layer F.Cu) (tedit 5A9F3BE7) (tstamp 5ACF07EF)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AB5BF0F)
     (fp_text reference K_LALT1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5322,7 +5322,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1.5U (layer F.Cu) (tedit 5A9F3C23) (tstamp 5ACF0808)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AD8F05F)
     (fp_text reference K_LALT2 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5360,7 +5360,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1.25U (layer F.Cu) (tedit 5A9F3BE7) (tstamp 5ACF0821)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AB49885)
     (fp_text reference K_LCTL1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5398,7 +5398,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1.5U (layer F.Cu) (tedit 5A9F3C23) (tstamp 5ACF083A)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AB7C8DD)
     (fp_text reference K_LCTL2 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5436,7 +5436,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1.25U (layer F.Cu) (tedit 5A9F3BE7) (tstamp 5ACF0853)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AB5B631)
     (fp_text reference K_LGUI1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5474,7 +5474,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 5A9F3A9A) (tstamp 5ACF086C)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AB7DD78)
     (fp_text reference K_LGUI2 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5512,7 +5512,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-2.25U (layer F.Cu) (tedit 5A9F4181) (tstamp 5ACF0889)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AB18290)
     (fp_text reference K_LSHIFT1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5554,7 +5554,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1.25U (layer F.Cu) (tedit 5A9F3BE7) (tstamp 5ACF08A2)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AB1D454)
     (fp_text reference K_LSHIFT2 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5592,7 +5592,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 5A9F3A9A) (tstamp 5ACF08BB)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AB273DD)
     (fp_text reference K_M1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5630,7 +5630,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 5A9F3A9A) (tstamp 5ACF08D4)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AB268ED)
     (fp_text reference K_N1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5668,7 +5668,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 5A9F3A9A) (tstamp 5ACF08ED)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AB00637)
     (fp_text reference K_O1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5706,7 +5706,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 5A9F3A9A) (tstamp 5ACF0906)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AB00D31)
     (fp_text reference K_P1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5744,7 +5744,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 5A9F3A9A) (tstamp 5ACF091F)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AAFCD11)
     (fp_text reference K_Q1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5782,7 +5782,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 5A9F3A9A) (tstamp 5ACF0938)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AAFD7F9)
     (fp_text reference K_R1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5820,7 +5820,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1.25U (layer F.Cu) (tedit 5A9F3BE7) (tstamp 5ACF0951)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5ABA0377)
     (fp_text reference K_RALT1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5858,7 +5858,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 5A9F3A9A) (tstamp 5ACF096A)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5ABA8AE4)
     (fp_text reference K_RALT3 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5896,7 +5896,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1.25U (layer F.Cu) (tedit 5A9F3BE7) (tstamp 5ACF0983)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5ABB7A9A)
     (fp_text reference K_RCTL1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5934,7 +5934,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 5A9F3A9A) (tstamp 5ACF099C)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AE40C14)
     (fp_text reference K_RCTL2 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5972,7 +5972,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1.5U (layer F.Cu) (tedit 5A9F3C23) (tstamp 5ACF09B5)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AD26C97)
     (fp_text reference K_RCTL3 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -6010,7 +6010,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1.25U (layer F.Cu) (tedit 5A9F3BE7) (tstamp 5ACF09CE)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5ABB6B6D)
     (fp_text reference K_RFN1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -6048,7 +6048,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 5A9F3A9A) (tstamp 5ACF09E7)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AE3B5E8)
     (fp_text reference K_RFN2 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -6086,7 +6086,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 5A9F3A9A) (tstamp 5ACF0A00)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AD26279)
     (fp_text reference K_RFN3 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -6124,7 +6124,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 5A9F3A9A) (tstamp 5ACF0A19)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5ABB66FC)
     (fp_text reference K_RGUI1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -6162,7 +6162,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1.25U (layer F.Cu) (tedit 5A9F3BE7) (tstamp 5ACF0A32)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5ABAD2AC)
     (fp_text reference K_RMOD1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -6200,7 +6200,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 5A9F3A9A) (tstamp 5ACF0A4B)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AD0988A)
     (fp_text reference K_RMOD2 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -6238,7 +6238,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1.5U (layer F.Cu) (tedit 5A9F3C23) (tstamp 5ACF0A64)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AD0C8A7)
     (fp_text reference K_RMOD3 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -6276,7 +6276,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-2.75U-FLIPPED (layer F.Cu) (tedit 5A9F41B2) (tstamp 5ACF0A81)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AB2A627)
     (fp_text reference K_RSHIFT1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -6318,7 +6318,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 5A9F3A9A) (tstamp 5ACF0A9A)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AB33FE3)
     (fp_text reference K_RSHIFT2 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -6356,7 +6356,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1.75U (layer F.Cu) (tedit 5A9F3CCD) (tstamp 5ACF0AB3)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AB3712B)
     (fp_text reference K_RSHIFT3 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -6394,7 +6394,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 5A9F3A9A) (tstamp 5ACF0ACC)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AB0D2E2)
     (fp_text reference K_S1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -6432,7 +6432,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-2.25U (layer F.Cu) (tedit 5A9F4181) (tstamp 5ACF0AE9)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AB7EBD9)
     (fp_text reference K_SPACE1_1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -6474,7 +6474,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-2.75U (layer F.Cu) (tedit 5A9F41B2) (tstamp 5ACF0B06)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AB946B2)
     (fp_text reference K_SPACE1_2 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -6516,7 +6516,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-2.75U (layer F.Cu) (tedit 5A9F41B2) (tstamp 5ACF0B23)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AC291A6)
     (fp_text reference K_SPACE1_3 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -6558,7 +6558,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1.25U (layer F.Cu) (tedit 5A9F3BE7) (tstamp 5ACF0B3C)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AB87823)
     (fp_text reference K_SPACE2_1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -6596,7 +6596,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-6.25U (layer F.Cu) (tedit 5A9F4371) (tstamp 5ACF0B59)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AB952FF)
     (fp_text reference K_SPACE2_2 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -6638,7 +6638,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-7U (layer F.Cu) (tedit 5A9F45A9) (tstamp 5ACF0B76)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5ADA6E62)
     (fp_text reference K_SPACE2_3 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -6680,7 +6680,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1.5U (layer F.Cu) (tedit 5A9F3C23) (tstamp 5ACF0B8F)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AC21C87)
     (fp_text reference K_SPACE2_4 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -6718,7 +6718,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1.25U (layer F.Cu) (tedit 5A9F3BE7) (tstamp 5ACF0BA8)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5ADD0856)
     (fp_text reference K_SPACE2_5 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -6756,7 +6756,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-2.75U (layer F.Cu) (tedit 5A9F41B2) (tstamp 5ACF0BC5)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AB930D0)
     (fp_text reference K_SPACE3_1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -6798,7 +6798,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-2.25U (layer F.Cu) (tedit 5A9F4181) (tstamp 5ACF0BE2)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AB94A96)
     (fp_text reference K_SPACE3_2 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -6840,7 +6840,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-2.75U (layer F.Cu) (tedit 5A9F41B2) (tstamp 5ACF0BFF)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AC34405)
     (fp_text reference K_SPACE3_3 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -6882,7 +6882,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 5A9F3A9A) (tstamp 5ACF0C18)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AAFDBC5)
     (fp_text reference K_T1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -6920,7 +6920,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1.5U (layer F.Cu) (tedit 5A9F3C23) (tstamp 5ACF0C31)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AAFC0E8)
     (fp_text reference K_TAB1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -6958,7 +6958,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 5A9F3A9A) (tstamp 5ACF0C4A)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AAFE73B)
     (fp_text reference K_U1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -6996,7 +6996,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 5A9F3A9A) (tstamp 5ACF0C63)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AB23471)
     (fp_text reference K_V1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -7034,7 +7034,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 5A9F3A9A) (tstamp 5ACF0C7C)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AAFD1B9)
     (fp_text reference K_W1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -7072,7 +7072,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 5A9F3A9A) (tstamp 5ACF0C95)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AB21444)
     (fp_text reference K_X1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -7110,7 +7110,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 5A9F3A9A) (tstamp 5ACF0CAE)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AAFE0F9)
     (fp_text reference K_Y1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -7148,7 +7148,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 5A9F3A9A) (tstamp 5ACF0CC7)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AB20DAA)
     (fp_text reference K_Z1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -7186,7 +7186,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 5A9F3A9A) (tstamp 5ACF0CE0)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AB0111C)
     (fp_text reference K_[1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -7224,7 +7224,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 5A9F3A9A) (tstamp 5ACF0CF9)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AB018F1)
     (fp_text reference K_\1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -7262,7 +7262,7 @@
   )
 
   (module MX_Alps_Hybrid:MX-1U (layer F.Cu) (tedit 5A9F3A9A) (tstamp 5ACF0D12)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AABDE55/5AB014CA)
     (fp_text reference K_]1 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -7300,7 +7300,7 @@
   )
 
   (module TO_SOT_Packages_SMD:SOT-223 (layer F.Cu) (tedit 58CE4E7E) (tstamp 5ACF0D28)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "module CMS SOT223 4 pins")
     (tags "CMS SOT")
     (path /5AC26B07)
@@ -7342,7 +7342,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF0D39)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AAF6330)
@@ -7378,7 +7378,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF0D4A)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AAF744F)
@@ -7414,7 +7414,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF0D5B)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AAF74DC)
@@ -7450,7 +7450,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF0D6C)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AAF7564)
@@ -7486,7 +7486,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF0D7D)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AAF75EB)
@@ -7522,7 +7522,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF0D8E)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AAF7675)
@@ -7558,7 +7558,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF0D9F)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AAF80D6)
@@ -7594,7 +7594,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF0DB0)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AAF8166)
@@ -7630,7 +7630,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF0DC1)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AAF81FD)
@@ -7666,7 +7666,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF0DD2)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AAF8293)
@@ -7702,7 +7702,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF0DE3)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AAF832C)
@@ -7738,7 +7738,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF0DF4)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AAF8BFC)
@@ -7774,7 +7774,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF0E05)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AAF8C9D)
@@ -7810,7 +7810,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF0E16)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AAF8D43)
@@ -7846,7 +7846,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF0E27)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AAF8DE8)
@@ -7882,7 +7882,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF0E38)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AAFC31E)
@@ -7918,7 +7918,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF0E49)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AAFCD1F)
@@ -7954,7 +7954,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF0E5A)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AAFD1C7)
@@ -7990,7 +7990,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF0E6B)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AAFD54F)
@@ -8026,7 +8026,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF0E7C)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AAFD807)
@@ -8062,7 +8062,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF0E8D)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AAFDBD3)
@@ -8098,7 +8098,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF0E9E)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AAFE107)
@@ -8134,7 +8134,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF0EAF)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AAFE749)
@@ -8170,7 +8170,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF0EC0)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AAFEF32)
@@ -8206,7 +8206,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF0ED1)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB00645)
@@ -8242,7 +8242,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF0EE2)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB00D3F)
@@ -8278,7 +8278,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF0EF3)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB0112A)
@@ -8314,7 +8314,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF0F04)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB014D8)
@@ -8350,7 +8350,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF0F15)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB018FF)
@@ -8386,7 +8386,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF0F26)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB07666)
@@ -8422,7 +8422,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF0F37)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB0CC16)
@@ -8458,7 +8458,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF0F48)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB0D2F0)
@@ -8494,7 +8494,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF0F59)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB0D750)
@@ -8530,7 +8530,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF0F6A)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB0DBC2)
@@ -8566,7 +8566,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF0F7B)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB0E181)
@@ -8602,7 +8602,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF0F8C)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB0E8B1)
@@ -8638,7 +8638,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF0F9D)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB0ED71)
@@ -8674,7 +8674,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF0FAE)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB11263)
@@ -8710,7 +8710,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF0FBF)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB1175F)
@@ -8746,7 +8746,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF0FD0)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB11F4D)
@@ -8782,7 +8782,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF0FE1)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB12485)
@@ -8818,7 +8818,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF0FF2)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB12BDB)
@@ -8854,7 +8854,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF1003)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB1354A)
@@ -8890,7 +8890,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF1014)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB1DD9A)
@@ -8926,7 +8926,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF1025)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB1DADB)
@@ -8962,7 +8962,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF1036)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB20DB8)
@@ -8998,7 +8998,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF1047)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB21452)
@@ -9034,7 +9034,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF1058)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB22E43)
@@ -9070,7 +9070,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF1069)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB2347F)
@@ -9106,7 +9106,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF107A)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB26148)
@@ -9142,7 +9142,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF108B)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB268FB)
@@ -9178,7 +9178,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF109C)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB273EB)
@@ -9214,7 +9214,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF10AD)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB27BEB)
@@ -9250,7 +9250,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF10BE)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB29C41)
@@ -9286,7 +9286,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF10CF)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB2AC99)
@@ -9322,7 +9322,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF10E0)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB2B829)
@@ -9358,7 +9358,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF10F1)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB4B73C)
@@ -9394,7 +9394,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF1102)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB5B63D)
@@ -9430,7 +9430,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF1113)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB5BF1B)
@@ -9466,7 +9466,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF1124)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB806FA)
@@ -9502,7 +9502,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF1135)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB8782F)
@@ -9538,7 +9538,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF1146)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB8E191)
@@ -9574,7 +9574,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF1157)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5ABA0383)
@@ -9610,7 +9610,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF1168)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5ABAD2B8)
@@ -9646,7 +9646,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF1179)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5ABB6708)
@@ -9682,7 +9682,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF118A)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5ABB6B79)
@@ -9718,7 +9718,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF119B)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5ABB7AA6)
@@ -9754,7 +9754,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF11AC)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AC284AA)
@@ -9790,7 +9790,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF11BD)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AAF0E91)
@@ -9826,7 +9826,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF11CE)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5ABF0E8F)
@@ -9862,7 +9862,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF11DF)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5ABDC854)
@@ -9898,7 +9898,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF11F0)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5ABDCDB5)
@@ -9934,7 +9934,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF1201)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5ABE0CFC)
@@ -9970,7 +9970,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5ACF1212)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5ABE0F63)
@@ -10006,7 +10006,7 @@
   )
 
   (module Buttons_Switches_SMD:SW_SPST_TL3342 (layer F.Cu) (tedit 58724C2D) (tstamp 5ACF1248)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "Low-profile SMD Tactile Switch, https://www.e-switch.com/system/asset/product_line/data_sheet/165/TL3342.pdf")
     (tags "SPST Tactile Switch")
     (path /5AC1EFB8)
@@ -10081,7 +10081,7 @@
   )
 
   (module tqfp:TQFP44 (layer F.Cu) (tedit 56D07040) (tstamp 5ACF127E)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AC6DA36)
     (attr smd)
     (fp_text reference U1 (at 0 -3.81) (layer F.SilkS)
@@ -10192,7 +10192,7 @@
   )
 
   (module Type-C:Wurth-632723300011 (layer F.Cu) (tedit 5A7B9227) (tstamp 5ACF12A6)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (path /5AAB62B2)
     (fp_text reference USB1 (at 0 11.43) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -10271,7 +10271,7 @@
   )
 
   (module Crystals:Crystal_SMD_2520-4pin_2.5x2.0mm (layer F.Cu) (tedit 58CD2E9C) (tstamp 5ACF12BE)
-    (at 148.5011 105.0036)
+    (at 123.1011 210.2036)
     (descr "SMD Crystal SERIES SMD2520/4 http://www.newxtal.com/UploadFiles/Images/2012-11-12-09-29-09-776.pdf, 2.5x2.0mm^2 package")
     (tags "SMD SMT crystal")
     (path /5ADF9892)
@@ -10316,7 +10316,7 @@
   )
 
   (module Socket_Strips:Socket_Strip_Straight_1x06_Pitch2.00mm (layer F.Cu) (tedit 58CD544D) (tstamp 5AD01836)
-    (at 171.1 249.575001)
+    (at 157 244.575001)
     (descr "Through hole straight socket strip, 1x06, 2.00mm pitch, single row")
     (tags "Through hole socket strip THT 1x06 2.00mm single row")
     (path /5AD0090A)
@@ -10362,9 +10362,9 @@
     )
   )
 
-  (gr_line (start 28.6 239.5) (end 28.6 144.9) (angle 90) (layer Edge.Cuts) (width 0.15))
-  (gr_line (start 313.6 239.5) (end 28.6 239.5) (angle 90) (layer Edge.Cuts) (width 0.15))
-  (gr_line (start 313.6 144.9) (end 313.6 239.5) (angle 90) (layer Edge.Cuts) (width 0.15))
-  (gr_line (start 28.6 144.9) (end 313.6 144.9) (angle 90) (layer Edge.Cuts) (width 0.15))
+  (gr_line (start 72.8 166.8) (end 72.8 72.2) (angle 90) (layer Edge.Cuts) (width 0.15))
+  (gr_line (start 357.8 166.8) (end 72.8 166.8) (angle 90) (layer Edge.Cuts) (width 0.15))
+  (gr_line (start 357.8 72.2) (end 357.8 166.8) (angle 90) (layer Edge.Cuts) (width 0.15))
+  (gr_line (start 72.8 72.2) (end 357.8 72.2) (angle 90) (layer Edge.Cuts) (width 0.15))
 
 )
