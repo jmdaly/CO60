@@ -918,7 +918,7 @@ U 1 1 5AD0090A
 P 10595 2915
 F 0 "J1" H 10595 3215 50  0000 C CNN
 F 1 "Conn_01x06" H 10595 2515 50  0000 C CNN
-F 2 "Socket_Strips:Socket_Strip_Straight_1x06_Pitch2.00mm" H 10595 2915 50  0001 C CNN
+F 2 "Socket_Strips:Socket_Strip_Straight_1x06_Pitch2.54mm" H 10595 2915 50  0001 C CNN
 F 3 "" H 10595 2915 50  0001 C CNN
 	1    10595 2915
 	1    0    0    -1  
