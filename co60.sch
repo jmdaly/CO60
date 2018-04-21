@@ -845,16 +845,14 @@ Wire Wire Line
 	4995 1280 4995 1475
 Wire Wire Line
 	6485 2230 6485 2310
-Connection ~ 3190 4050
 Wire Wire Line
-	2850 4050 3190 4050
+	3190 4050 2850 4050
 Connection ~ 3055 3750
 Wire Wire Line
 	2850 3750 3055 3750
 Connection ~ 3055 3650
 Wire Wire Line
 	2850 3650 3055 3650
-Connection ~ 3190 3350
 Wire Wire Line
 	2850 3350 3190 3350
 Wire Wire Line
@@ -972,15 +970,32 @@ Wire Wire Line
 Wire Wire Line
 	3700 2850 3700 2435
 Wire Wire Line
-	3910 2605 3700 2605
-Connection ~ 3700 2605
-Wire Wire Line
 	3985 4220 3780 4220
 Wire Wire Line
 	3780 4220 3780 2695
 Wire Wire Line
 	3780 2695 3255 2695
 Wire Wire Line
-	3255 2695 3255 2850
+	3255 2610 3255 2850
 Connection ~ 3255 2850
+Wire Wire Line
+	3190 2850 3190 4550
+Connection ~ 3190 2850
+Connection ~ 3190 3350
+Connection ~ 3190 4050
+Wire Wire Line
+	3910 2605 3700 2605
+Connection ~ 3700 2605
+$Comp
+L PWR_FLAG #FLG028
+U 1 1 5AE993DC
+P 3255 2610
+F 0 "#FLG028" H 3255 2685 50  0001 C CNN
+F 1 "PWR_FLAG" H 3255 2760 50  0000 C CNN
+F 2 "" H 3255 2610 50  0001 C CNN
+F 3 "" H 3255 2610 50  0001 C CNN
+	1    3255 2610
+	1    0    0    -1  
+$EndComp
+Connection ~ 3255 2695
 $EndSCHEMATC
