@@ -2,8 +2,8 @@
 
   (general
     (links 577)
-    (no_connects 438)
-    (area 0 0 0 0)
+    (no_connects 499)
+    (area -3.1524 -2.9274 365.409601 236.4298)
     (thickness 1.6)
     (drawings 0)
     (tracks 0)
@@ -87,7 +87,7 @@
       (mirror false)
       (drillshape 1)
       (scaleselection 1)
-      (outputdirectory ""))
+      (outputdirectory /tmp))
   )
 
   (net 0 "")
@@ -4534,7 +4534,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD800AA)
-    (at 0 0)
+    (at 11.90625 -7.14375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AAF23E9)
@@ -4578,7 +4578,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD800B0)
-    (at 0 0)
+    (at 11.90625 -2.38125)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AAF270C)
@@ -4622,7 +4622,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD800B6)
-    (at 0 0)
+    (at 11.90625 2.38125)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AAF2794)
@@ -4666,7 +4666,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD800BC)
-    (at 0 0)
+    (at 11.90625 7.14375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AAF2823)
@@ -4710,7 +4710,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD800C2)
-    (at 0 0)
+    (at 4.7625 -7.14375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AAF28CD)
@@ -4754,7 +4754,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD800C8)
-    (at 0 0)
+    (at 4.7625 -2.38125)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AAF2C9D)
@@ -4798,7 +4798,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD800CE)
-    (at 0 0)
+    (at 4.7625 2.38125)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AAF2DAB)
@@ -4842,7 +4842,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD800D4)
-    (at 0 0)
+    (at 4.7625 7.14375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AAF2F4F)
@@ -4886,7 +4886,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD800DA)
-    (at 0 0)
+    (at -2.38125 -7.14375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AAF3BBD)
@@ -4930,7 +4930,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD800E0)
-    (at 0 0)
+    (at -2.38125 -2.38125)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AAF3E55)
@@ -4974,7 +4974,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD800E6)
-    (at 0 0)
+    (at -2.38125 2.38125)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AAF3F3F)
@@ -5018,7 +5018,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD800EC)
-    (at 0 0)
+    (at -2.38125 7.14375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AAF43C1)
@@ -5062,7 +5062,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD800F2)
-    (at 0 0)
+    (at -9.525 -7.14375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AAF4613)
@@ -5106,7 +5106,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD800F8)
-    (at 0 0)
+    (at -9.525 -2.38125)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AAF4753)
@@ -5150,7 +5150,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD800FE)
-    (at 0 0)
+    (at -9.525 2.38125)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AAF4ACD)
@@ -5194,7 +5194,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD80104)
-    (at 0 0)
+    (at -9.525 7.14375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AAFC266)
@@ -5238,7 +5238,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD8010A)
-    (at 0 0)
+    (at -16.66875 -2.38125)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AAFCD17)
@@ -5282,7 +5282,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD80110)
-    (at 0 0)
+    (at -16.66875 2.38125)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AAFD1BF)
@@ -5326,7 +5326,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD80116)
-    (at 0 0)
+    (at -16.66875 7.14375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AAFD547)
@@ -5370,7 +5370,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD8011C)
-    (at 0 0)
+    (at -23.8125 -2.38125)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AAFD7FF)
@@ -5414,7 +5414,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD80122)
-    (at 0 0)
+    (at -23.8125 2.38125)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AAFDBCB)
@@ -5458,7 +5458,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD80128)
-    (at 0 0)
+    (at -23.8125 7.14375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AAFE0FF)
@@ -5502,7 +5502,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD8012E)
-    (at 0 0)
+    (at -30.95625 -2.38125)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AAFE741)
@@ -5546,7 +5546,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD80134)
-    (at 0 0)
+    (at -30.95625 2.38125)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AAFEF2A)
@@ -5590,7 +5590,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD8013A)
-    (at 0 0)
+    (at -30.95625 7.14375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB0063D)
@@ -5634,7 +5634,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD80140)
-    (at 0 0)
+    (at -38.1 -2.38125)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB00D37)
@@ -5678,7 +5678,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD80146)
-    (at 0 0)
+    (at -38.1 2.38125)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB01122)
@@ -5722,7 +5722,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD8014C)
-    (at 0 0)
+    (at -38.1 7.14375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB014D0)
@@ -5766,7 +5766,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD80152)
-    (at 0 0)
+    (at -45.24375 -2.38125)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB018F7)
@@ -5810,7 +5810,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD80158)
-    (at 0 0)
+    (at -45.24375 2.38125)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB07529)
@@ -5854,7 +5854,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD8015E)
-    (at 0 0)
+    (at -45.24375 7.14375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB0CC0E)
@@ -5898,7 +5898,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD80164)
-    (at 0 0)
+    (at -52.3875 -2.38125)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB0D2E8)
@@ -5942,7 +5942,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD8016A)
-    (at 0 0)
+    (at -52.3875 2.38125)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB0D748)
@@ -5986,7 +5986,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD80170)
-    (at 0 0)
+    (at -52.3875 7.14375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB0DBBA)
@@ -6030,7 +6030,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD80176)
-    (at 0 0)
+    (at -59.53125 -2.38125)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB0E179)
@@ -6074,7 +6074,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD8017C)
-    (at 0 0)
+    (at -59.53125 2.38125)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB0E8A9)
@@ -6118,7 +6118,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD80182)
-    (at 0 0)
+    (at -59.53125 7.14375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB0ED69)
@@ -6162,7 +6162,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD80188)
-    (at 0 0)
+    (at -66.675 -2.38125)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB1125B)
@@ -6206,7 +6206,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD8018E)
-    (at 0 0)
+    (at -66.675 2.38125)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB11757)
@@ -6250,7 +6250,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD80194)
-    (at 0 0)
+    (at -66.675 7.14375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB11F45)
@@ -6294,7 +6294,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD8019A)
-    (at 0 0)
+    (at -73.81875 -2.38125)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB1247D)
@@ -6338,7 +6338,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD801A0)
-    (at 0 0)
+    (at -73.81875 2.38125)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB12BD3)
@@ -6382,7 +6382,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD801A6)
-    (at 0 0)
+    (at -73.81875 7.14375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB136F2)
@@ -6426,7 +6426,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD801AC)
-    (at 0 0)
+    (at -80.9625 -2.38125)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB1DF6A)
@@ -6470,7 +6470,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD801B2)
-    (at 0 0)
+    (at -80.9625 2.38125)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB1DAD3)
@@ -6514,7 +6514,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD801B8)
-    (at 0 0)
+    (at -80.9625 7.14375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB20DB0)
@@ -6558,7 +6558,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD801BE)
-    (at 0 0)
+    (at -88.10625 -2.38125)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB2144A)
@@ -6602,7 +6602,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD801C4)
-    (at 0 0)
+    (at -88.10625 2.38125)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB22E3B)
@@ -6646,7 +6646,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD801CA)
-    (at 0 0)
+    (at -88.10625 7.14375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB23477)
@@ -6690,7 +6690,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD801D0)
-    (at 0 0)
+    (at -88.10625 11.90625)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB26140)
@@ -6734,7 +6734,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD801D6)
-    (at 0 0)
+    (at -95.25 -2.38125)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB268F3)
@@ -6778,7 +6778,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD801DC)
-    (at 0 0)
+    (at -95.25 2.38125)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB273E3)
@@ -6822,7 +6822,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD801E2)
-    (at 0 0)
+    (at -95.25 7.14375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB27BE3)
@@ -6866,7 +6866,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD801E8)
-    (at 0 0)
+    (at -95.25 11.90625)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB29C39)
@@ -6910,7 +6910,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD801EE)
-    (at 0 0)
+    (at -95.25 16.66875)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB2AC91)
@@ -6954,7 +6954,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD801F4)
-    (at 0 0)
+    (at -102.39375 -2.38125)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB2BA52)
@@ -6998,7 +6998,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD801FA)
-    (at 0 0)
+    (at -102.39375 2.38125)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5ADFF6C1)
@@ -7042,7 +7042,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD80200)
-    (at 0 0)
+    (at -102.39375 7.14375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB4B503)
@@ -7086,7 +7086,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD80206)
-    (at 0 0)
+    (at -102.39375 11.90625)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB5B637)
@@ -7130,7 +7130,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD8020C)
-    (at 0 0)
+    (at -102.39375 16.66875)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB5BF15)
@@ -7174,7 +7174,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD80212)
-    (at 0 0)
+    (at -109.5375 -2.38125)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB80966)
@@ -7218,7 +7218,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD80218)
-    (at 0 0)
+    (at -109.5375 2.38125)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB87829)
@@ -7262,7 +7262,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD8021E)
-    (at 0 0)
+    (at -109.5375 7.14375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AB8E197)
@@ -7306,7 +7306,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD80224)
-    (at 0 0)
+    (at -109.5375 11.90625)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5ABA037D)
@@ -7350,7 +7350,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD8022A)
-    (at 0 0)
+    (at -109.5375 16.66875)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5ABAD2B2)
@@ -7394,7 +7394,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD80230)
-    (at 0 0)
+    (at -116.68125 -2.38125)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5ABB6702)
@@ -7438,7 +7438,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD80236)
-    (at 0 0)
+    (at -116.68125 2.38125)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5ABB6B73)
@@ -7482,7 +7482,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer F.Cu) (tedit 58645DC7) (tstamp 5AD8023C)
-    (at 0 0)
+    (at -116.68125 7.14375)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5ABB7AA0)
@@ -7594,7 +7594,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD80258)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AAF6330)
@@ -7630,7 +7630,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD8025E)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AAF744F)
@@ -7666,7 +7666,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD80264)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AAF74DC)
@@ -7702,7 +7702,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD8026A)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AAF7564)
@@ -7738,7 +7738,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD80270)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AAF75EB)
@@ -7774,7 +7774,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD80276)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AAF7675)
@@ -7810,7 +7810,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD8027C)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AAF80D6)
@@ -7846,7 +7846,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD80282)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AAF8166)
@@ -7882,7 +7882,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD80288)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AAF81FD)
@@ -7918,7 +7918,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD8028E)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AAF8293)
@@ -7954,7 +7954,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD80294)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AAF832C)
@@ -7990,7 +7990,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD8029A)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AAF8BFC)
@@ -8026,7 +8026,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD802A0)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AAF8C9D)
@@ -8062,7 +8062,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD802A6)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AAF8D43)
@@ -8098,7 +8098,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD802AC)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AAF8DE8)
@@ -8134,7 +8134,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD802B2)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AAFC31E)
@@ -8170,7 +8170,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD802B8)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AAFCD1F)
@@ -8206,7 +8206,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD802BE)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AAFD1C7)
@@ -8242,7 +8242,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD802C4)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AAFD54F)
@@ -8278,7 +8278,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD802CA)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AAFE749)
@@ -8314,7 +8314,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD802D0)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AAFEF32)
@@ -8350,7 +8350,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD802D6)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB00645)
@@ -8386,7 +8386,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD802DC)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB00D3F)
@@ -8422,7 +8422,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD802E2)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB0112A)
@@ -8458,7 +8458,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD802E8)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB014D8)
@@ -8494,7 +8494,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD802EE)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB018FF)
@@ -8530,7 +8530,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD802F4)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB07666)
@@ -8566,7 +8566,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD802FA)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB0CC16)
@@ -8602,7 +8602,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD80300)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB0D2F0)
@@ -8638,7 +8638,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD80306)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB0D750)
@@ -8674,7 +8674,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD8030C)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB0DBC2)
@@ -8710,7 +8710,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD80312)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB0E181)
@@ -8746,7 +8746,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD80318)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB0E8B1)
@@ -8782,7 +8782,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD8031E)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB0ED71)
@@ -8818,7 +8818,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD80324)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB11263)
@@ -8854,7 +8854,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD8032A)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB1175F)
@@ -8890,7 +8890,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD80330)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB11F4D)
@@ -8926,7 +8926,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD80336)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB12485)
@@ -8962,7 +8962,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD8033C)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB12BDB)
@@ -8998,7 +8998,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD80342)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB1354A)
@@ -9034,7 +9034,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD80348)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB1DD9A)
@@ -9070,7 +9070,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD8034E)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB1DADB)
@@ -9106,7 +9106,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD80354)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB20DB8)
@@ -9142,7 +9142,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD8035A)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB21452)
@@ -9178,7 +9178,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD80360)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB22E43)
@@ -9214,7 +9214,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD80366)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB2347F)
@@ -9250,7 +9250,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD8036C)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB26148)
@@ -9286,7 +9286,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD80372)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB268FB)
@@ -9322,7 +9322,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD80378)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB273EB)
@@ -9358,7 +9358,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD8037E)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB27BEB)
@@ -9394,7 +9394,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD80384)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB29C41)
@@ -9430,7 +9430,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD8038A)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB2AC99)
@@ -9466,7 +9466,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD80390)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB2B829)
@@ -9502,7 +9502,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD80396)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5ADFF375)
@@ -9538,7 +9538,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD8039C)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB4B73C)
@@ -9574,7 +9574,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD803A2)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB5B63D)
@@ -9610,7 +9610,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD803A8)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB5BF1B)
@@ -9646,7 +9646,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD803AE)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB806FA)
@@ -9682,7 +9682,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD803B4)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB8782F)
@@ -9718,7 +9718,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD803BA)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5AB8E191)
@@ -9754,7 +9754,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD803C0)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5ABA0383)
@@ -9790,7 +9790,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD803C6)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5ABAD2B8)
@@ -9826,7 +9826,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD803CC)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5ABB6708)
@@ -9862,7 +9862,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD803D2)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5ABB6B79)
@@ -9898,7 +9898,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5AD803D8)
-    (at 0 0)
+    (at -130.96875 4.7625)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5AABDE55/5ABB7AA6)
@@ -10156,7 +10156,7 @@
   )
 
   (module Resistors_SMD:R_0805 (layer F.Cu) (tedit 58E0A804) (tstamp 5ADAC2B8)
-    (at 0 0)
+    (at -116.68125 14.2875)
     (descr "Resistor SMD 0805, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0805")
     (path /5AE914ED)
