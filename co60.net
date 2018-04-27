@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/jmdaly/git/CO60/co60.sch)
-    (date "Wed 25 Apr 2018 10:40:54 PM EDT")
+    (date "Thu 26 Apr 2018 08:26:12 PM EDT")
     (tool "Eeschema 4.0.7-e2-6376~58~ubuntu16.04.1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -1377,7 +1377,7 @@
       (tstamp 5AE40C14))
     (comp (ref K_ISOENTER1)
       (value MX-ISO)
-      (footprint MX_Alps_Hybrid:MXOnly-ISO-ReversedStabilizers)
+      (footprint MX_Alps_Hybrid:MXOnly-ISO-ROTATED-ReversedStabilizers)
       (libsource (lib MX_Alps_Hybrids) (part MX-ISO))
       (sheetpath (names /Matrix/) (tstamps /5AABDE55/))
       (tstamp 5AEF6989))
