@@ -585,7 +585,7 @@ P 6755 3030
 F 0 "Y1" H 6880 3230 50  0000 L CNN
 F 1 "16MHz" H 6880 3155 50  0000 L CNN
 F 2 "Crystals:Crystal_SMD_2520-4pin_2.5x2.0mm" H 6755 3030 50  0001 C CNN
-F 3 "http://www.newxtal.com/UploadFiles/Images/2012-11-12-09-29-09-776.pdf" H 6755 3030 50  0001 C CNN
+F 3 "https://www.digikey.com/product-detail/en/ndk-america-inc/NX2520SA-16MHZ-STD-CSW-4/644-1168-1-ND/3125557" H 6755 3030 50  0001 C CNN
 	1    6755 3030
 	-1   0    0    1   
 $EndComp
