@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/jmdaly/git/CO60/co60.sch)
-    (date "Sat 28 Apr 2018 11:05:05 PM EDT")
+    (date "Sun 29 Apr 2018 12:59:15 PM EDT")
     (tool "Eeschema 4.0.7-e2-6376~58~ubuntu16.04.1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -219,6 +219,9 @@
     (comp (ref D1)
       (value D_Small)
       (footprint Diodes_SMD:D_SOD-123)
+      (datasheet "http://www.mccsemi.com/up_pdf/1N4148W(SOD123).pdf")
+      (fields
+        (field (name Product) 1N4148W-TP))
       (libsource (lib device) (part D_Small))
       (sheetpath (names /Matrix/) (tstamps /5AABDE55/))
       (tstamp 5AAF23E9))
@@ -381,6 +384,8 @@
     (comp (ref R1)
       (value 560)
       (footprint Resistors_SMD:R_0603)
+      (fields
+        (field (name Product) MCT06030C5600FP500))
       (libsource (lib device) (part R_Small))
       (sheetpath (names /Matrix/) (tstamps /5AABDE55/))
       (tstamp 5AAF6330))
