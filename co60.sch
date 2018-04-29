@@ -58,7 +58,8 @@ P 7005 3380
 F 0 "C2" H 7030 3480 30  0000 L CNN
 F 1 "22p" H 7030 3280 30  0000 L CNN
 F 2 "Capacitors_SMD:C_0603" H 7043 3230 50  0001 C CNN
-F 3 "" H 7005 3380 50  0001 C CNN
+F 3 "http://datasheets.avx.com/C0GNP0-Dielectric.pdf" H 7005 3380 50  0001 C CNN
+F 4 "06035A220JAT2A" H 7005 3380 60  0001 C CNN "Product"
 	1    7005 3380
 	1    0    0    -1  
 $EndComp
@@ -91,7 +92,8 @@ P 6455 3380
 F 0 "C1" H 6480 3480 30  0000 L CNN
 F 1 "22p" H 6480 3280 30  0000 L CNN
 F 2 "Capacitors_SMD:C_0603" H 6493 3230 50  0001 C CNN
-F 3 "" H 6455 3380 50  0001 C CNN
+F 3 "http://datasheets.avx.com/C0GNP0-Dielectric.pdf" H 6455 3380 50  0001 C CNN
+F 4 "06035A220JAT2A" H 6455 3380 60  0001 C CNN "Product"
 	1    6455 3380
 	1    0    0    -1  
 $EndComp
@@ -102,7 +104,8 @@ P 6675 5705
 F 0 "C3" H 6700 5805 50  0000 L CNN
 F 1 "1u" H 6700 5605 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0603" H 6713 5555 50  0001 C CNN
-F 3 "" H 6675 5705 50  0001 C CNN
+F 3 "https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_lowprofile_en.pdf" H 6675 5705 50  0001 C CNN
+F 4 "CGB3B3JB1C105K055AB" H 6675 5705 60  0001 C CNN "Product"
 	1    6675 5705
 	1    0    0    -1  
 $EndComp
@@ -113,7 +116,8 @@ P 1150 1050
 F 0 "C4" H 1175 1150 50  0000 L CNN
 F 1 "100n" H 1175 950 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0603" H 1188 900 50  0001 C CNN
-F 3 "" H 1150 1050 50  0001 C CNN
+F 3 "https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_hightemp_en.pdf" H 1150 1050 50  0001 C CNN
+F 4 "C1608X8R1E104K080AA" H 1150 1050 60  0001 C CNN "Product"
 	1    1150 1050
 	1    0    0    -1  
 $EndComp
@@ -124,7 +128,8 @@ P 1400 1050
 F 0 "C5" H 1425 1150 50  0000 L CNN
 F 1 "100n" H 1425 950 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0603" H 1438 900 50  0001 C CNN
-F 3 "" H 1400 1050 50  0001 C CNN
+F 3 "https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_hightemp_en.pdf" H 1400 1050 50  0001 C CNN
+F 4 "C1608X8R1E104K080AA" H 1400 1050 60  0001 C CNN "Product"
 	1    1400 1050
 	1    0    0    -1  
 $EndComp
@@ -135,7 +140,8 @@ P 1650 1050
 F 0 "C6" H 1675 1150 50  0000 L CNN
 F 1 "100n" H 1675 950 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0603" H 1688 900 50  0001 C CNN
-F 3 "" H 1650 1050 50  0001 C CNN
+F 3 "https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_hightemp_en.pdf" H 1650 1050 50  0001 C CNN
+F 4 "C1608X8R1E104K080AA" H 1650 1050 60  0001 C CNN "Product"
 	1    1650 1050
 	1    0    0    -1  
 $EndComp
@@ -146,7 +152,8 @@ P 1900 1050
 F 0 "C7" H 1925 1150 50  0000 L CNN
 F 1 "100n" H 1925 950 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0603" H 1938 900 50  0001 C CNN
-F 3 "" H 1900 1050 50  0001 C CNN
+F 3 "https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_hightemp_en.pdf" H 1900 1050 50  0001 C CNN
+F 4 "C1608X8R1E104K080AA" H 1900 1050 60  0001 C CNN "Product"
 	1    1900 1050
 	1    0    0    -1  
 $EndComp
@@ -157,7 +164,8 @@ P 900 1050
 F 0 "C8" H 925 1150 50  0000 L CNN
 F 1 "1u" H 925 950 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0603" H 938 900 50  0001 C CNN
-F 3 "" H 900 1050 50  0001 C CNN
+F 3 "https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_lowprofile_en.pdf" H 900 1050 50  0001 C CNN
+F 4 "CGB3B3JB1C105K055AB" H 900 1050 60  0001 C CNN "Product"
 	1    900  1050
 	1    0    0    -1  
 $EndComp
@@ -197,6 +205,7 @@ F 0 "R_MCU_3" V 9845 4905 50  0000 C CNN
 F 1 "10k" V 9765 4905 50  0000 C CNN
 F 2 "Resistors_SMD:R_0603" V 9695 4905 50  0001 C CNN
 F 3 "" H 9765 4905 50  0001 C CNN
+F 4 "ERJ-3GEYJ103V" V 9765 4905 60  0001 C CNN "Product"
 	1    9765 4905
 	1    0    0    -1  
 $EndComp
@@ -230,6 +239,7 @@ F 0 "R_USB_1" V 4590 3605 50  0000 C CNN
 F 1 "22" V 4510 3605 50  0000 C CNN
 F 2 "Resistors_SMD:R_0603" V 4440 3605 50  0001 C CNN
 F 3 "" H 4510 3605 50  0001 C CNN
+F 4 "RC0603JR-0722RL" V 4510 3605 60  0001 C CNN "Product"
 	1    4510 3605
 	0    1    1    0   
 $EndComp
@@ -241,6 +251,7 @@ F 0 "R_USB_2" V 4590 3780 50  0000 C CNN
 F 1 "22" V 4510 3780 50  0000 C CNN
 F 2 "Resistors_SMD:R_0603" V 4440 3780 50  0001 C CNN
 F 3 "" H 4510 3780 50  0001 C CNN
+F 4 "RC0603JR-0722RL" V 4510 3780 60  0001 C CNN "Product"
 	1    4510 3780
 	0    1    1    0   
 $EndComp
@@ -263,6 +274,7 @@ F 0 "R_USB_3" V 3415 3245 50  0000 C CNN
 F 1 "5.1k" V 3335 3245 50  0000 C CNN
 F 2 "Resistors_SMD:R_0603" V 3265 3245 50  0001 C CNN
 F 3 "" H 3335 3245 50  0001 C CNN
+F 4 "RMCF0603JT5K10" V 3335 3245 60  0001 C CNN "Product"
 	1    3335 3245
 	0    1    1    0   
 $EndComp
@@ -274,6 +286,7 @@ F 0 "R_USB_4" V 3390 3415 50  0000 C CNN
 F 1 "5.1k" V 3310 3415 50  0000 C CNN
 F 2 "Resistors_SMD:R_0603" V 3240 3415 50  0001 C CNN
 F 3 "" H 3310 3415 50  0001 C CNN
+F 4 "RMCF0603JT5K10" V 3310 3415 60  0001 C CNN "Product"
 	1    3310 3415
 	0    1    1    0   
 $EndComp
@@ -296,6 +309,7 @@ F 0 "R_MCU_4" V 7095 1915 50  0000 C CNN
 F 1 "10k" V 7015 1915 50  0000 C CNN
 F 2 "Resistors_SMD:R_0603" V 6945 1915 50  0001 C CNN
 F 3 "" H 7015 1915 50  0001 C CNN
+F 4 "ERJ-3GEYJ103V" V 7015 1915 60  0001 C CNN "Product"
 	1    7015 1915
 	1    0    0    -1  
 $EndComp
@@ -306,7 +320,9 @@ P 6685 2230
 F 0 "SW1" H 6735 2330 50  0000 L CNN
 F 1 "SW_Push" H 6685 2170 50  0000 C CNN
 F 2 "Buttons_Switches_SMD:SW_SPST_TL3342" H 6685 2430 50  0001 C CNN
-F 3 "" H 6685 2430 50  0001 C CNN
+F 3 "https://www.e-switch.com/system/asset/product_line/data_sheet/165/TL3342.pdf" H 6685 2430 50  0001 C CNN
+F 4 "TL3342F160QG/TR" H 6685 2230 60  0001 C CNN "Product"
+F 5 "https://www.digikey.ca/product-detail/en/e-switch/TL3342F160QG-TR/EG2531CT-ND/379004" H 6685 2230 60  0001 C CNN "DigiKey Page"
 	1    6685 2230
 	1    0    0    -1  
 $EndComp
@@ -355,6 +371,7 @@ F 0 "RC1" H 4395 1100 50  0000 L CNN
 F 1 "1.5k" H 4395 1040 50  0000 L CNN
 F 2 "Resistors_SMD:R_0603" H 4365 1080 50  0001 C CNN
 F 3 "" H 4365 1080 50  0001 C CNN
+F 4 "RC0603JR-071K5L" H 4365 1080 60  0001 C CNN "Product"
 	1    4365 1080
 	0    1    1    0   
 $EndComp
@@ -586,6 +603,7 @@ F 0 "Y1" H 6880 3230 50  0000 L CNN
 F 1 "16MHz" H 6880 3155 50  0000 L CNN
 F 2 "Crystals:Crystal_SMD_2520-4pin_2.5x2.0mm" H 6755 3030 50  0001 C CNN
 F 3 "https://www.digikey.com/product-detail/en/ndk-america-inc/NX2520SA-16MHZ-STD-CSW-4/644-1168-1-ND/3125557" H 6755 3030 50  0001 C CNN
+F 4 "NX2520SA-16MHZ-STD-CSW-4" H 6755 3030 60  0001 C CNN "Product"
 	1    6755 3030
 	-1   0    0    1   
 $EndComp
@@ -651,7 +669,8 @@ P 3410 2850
 F 0 "F1" V 3335 2850 50  0000 C CNN
 F 1 "500mA" V 3485 2850 50  0000 C CNN
 F 2 "Resistors_SMD:R_0805" H 3460 2650 50  0001 L CNN
-F 3 "" H 3410 2850 50  0001 C CNN
+F 3 "http://www.littelfuse.com/~/media/electronics/datasheets/resettable_ptcs/littelfuse_ptc_0805l_datasheet.pdf.pdf" H 3410 2850 50  0001 C CNN
+F 4 "0805L050WR" V 3410 2850 60  0001 C CNN "Product"
 	1    3410 2850
 	0    1    1    0   
 $EndComp
