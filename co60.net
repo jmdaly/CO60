@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/jmdaly/git/CO60/co60.sch)
-    (date "Mon 30 Apr 2018 09:45:23 PM EDT")
+    (date "Tue 01 May 2018 08:47:17 PM EDT")
     (tool "Eeschema 4.0.7-e2-6376~58~ubuntu16.04.1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -90,11 +90,11 @@
       (sheetpath (names /) (tstamps /))
       (tstamp 5AAB5C07))
     (comp (ref C8)
-      (value 1u)
+      (value 4.7u)
       (footprint Capacitors_SMD:C_0603)
-      (datasheet https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_lowprofile_en.pdf)
+      (datasheet http://www.samsungsem.com/kr/support/product-search/mlcc/__icsFiles/afieldfile/2016/12/21/CL10A475KA8NQNC_161221.pdf)
       (fields
-        (field (name Product) CGB3B3JB1C105K055AB))
+        (field (name Product) CL10A475KA8NQNC))
       (libsource (lib device) (part C))
       (sheetpath (names /) (tstamps /))
       (tstamp 5AAB5CBF))

@@ -162,10 +162,10 @@ L C C8
 U 1 1 5AAB5CBF
 P 900 1050
 F 0 "C8" H 925 1150 50  0000 L CNN
-F 1 "1u" H 925 950 50  0000 L CNN
+F 1 "4.7u" H 925 950 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0603" H 938 900 50  0001 C CNN
-F 3 "https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_lowprofile_en.pdf" H 900 1050 50  0001 C CNN
-F 4 "CGB3B3JB1C105K055AB" H 900 1050 60  0001 C CNN "Product"
+F 3 "http://www.samsungsem.com/kr/support/product-search/mlcc/__icsFiles/afieldfile/2016/12/21/CL10A475KA8NQNC_161221.pdf" H 900 1050 50  0001 C CNN
+F 4 "CL10A475KA8NQNC" H 900 1050 60  0001 C CNN "Product"
 	1    900  1050
 	1    0    0    -1  
 $EndComp
