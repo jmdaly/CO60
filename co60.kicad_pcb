@@ -5435,7 +5435,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer B.Cu) (tedit 58645DC7) (tstamp 5AD800F8)
-    (at 344.090625 55.959375 90)
+    (at 344.678 57.15 90)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AAF4753)
@@ -6007,7 +6007,7 @@
   )
 
   (module Diodes_SMD:D_SOD-123 (layer B.Cu) (tedit 58645DC7) (tstamp 5AD800AA)
-    (at 84.9 55.1)
+    (at 84.836 55.88)
     (descr SOD-123)
     (tags SOD-123)
     (path /5AABDE55/5AAF23E9)
