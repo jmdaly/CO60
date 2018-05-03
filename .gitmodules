@@ -4,3 +4,6 @@
 [submodule "Type-C.pretty"]
 	path = lib/Type-C.pretty
 	url = git@github.com:ai03-2725/Type-C.pretty.git
+[submodule "lib/digikey-kicad-library"]
+	path = lib/digikey-kicad-library
+	url = https://github.com/digikey/digikey-kicad-library.git
