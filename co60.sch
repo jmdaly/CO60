@@ -36,6 +36,7 @@ LIBS:atmega32u4
 LIBS:ESD_Protection
 LIBS:MX_Alps_Hybrids
 LIBS:Type-C
+LIBS:dk_Transistors-Bipolar-BJT-Single
 LIBS:co60-cache
 EELAYER 25 0
 EELAYER END
@@ -337,17 +338,6 @@ F 3 "" H 6485 2310 50  0001 C CNN
 	1    6485 2310
 	1    0    0    -1  
 $EndComp
-$Comp
-L PZT2222A Q1
-U 1 1 5AC26B07
-P 4895 1080
-F 0 "Q1" H 5095 1155 50  0000 L CNN
-F 1 "PZT2222A" H 5095 1080 50  0000 L CNN
-F 2 "TO_SOT_Packages_SMD:SOT-223" H 5095 1005 50  0001 L CIN
-F 3 "http://www.onsemi.com/pub/Collateral/PZT2222AT1-D.PDF" H 4895 1080 50  0001 L CNN
-	1    4895 1080
-	1    0    0    -1  
-$EndComp
 Text GLabel 4030 1080 0    60   Input ~ 0
 LEDPWM
 Text GLabel 4915 685  0    60   Input ~ 0
@@ -355,12 +345,12 @@ LEDGND
 $Comp
 L GND #PWR010
 U 1 1 5AC27CFC
-P 4995 1475
-F 0 "#PWR010" H 4995 1225 50  0001 C CNN
-F 1 "GND" H 4995 1325 50  0000 C CNN
-F 2 "" H 4995 1475 50  0001 C CNN
-F 3 "" H 4995 1475 50  0001 C CNN
-	1    4995 1475
+P 5015 1485
+F 0 "#PWR010" H 5015 1235 50  0001 C CNN
+F 1 "GND" H 5015 1335 50  0000 C CNN
+F 2 "" H 5015 1485 50  0001 C CNN
+F 3 "" H 5015 1485 50  0001 C CNN
+	1    5015 1485
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -674,6 +664,58 @@ F 4 "0805L050WR" V 3410 2850 60  0001 C CNN "Product"
 	1    3410 2850
 	0    1    1    0   
 $EndComp
+$Comp
+L PWR_FLAG #FLG028
+U 1 1 5AE993DC
+P 3255 2610
+F 0 "#FLG028" H 3255 2685 50  0001 C CNN
+F 1 "PWR_FLAG" H 3255 2760 50  0000 C CNN
+F 2 "" H 3255 2610 50  0001 C CNN
+F 3 "" H 3255 2610 50  0001 C CNN
+	1    3255 2610
+	1    0    0    -1  
+$EndComp
+$Comp
+L 12401598E4#2A USB1
+U 1 1 5B26B309
+P 2400 3400
+F 0 "USB1" H 2400 2500 60  0000 C CNN
+F 1 "12401598E4#2A" H 2400 4400 60  0000 C CNN
+F 2 "Type-C:12401598E4#2A" H 1700 3450 60  0001 C CNN
+F 3 "https://media.digikey.com/pdf/Data%20Sheets/Amphenol%20PDFs/12401598E4%232A_Dwg.pdf" H 1700 3450 60  0001 C CNN
+	1    2400 3400
+	1    0    0    -1  
+$EndComp
+NoConn ~ 1850 2550
+NoConn ~ 1850 2650
+NoConn ~ 1850 2850
+NoConn ~ 1850 2950
+NoConn ~ 1850 3050
+NoConn ~ 1850 3150
+NoConn ~ 1850 3350
+NoConn ~ 1850 3450
+NoConn ~ 1850 3650
+NoConn ~ 1850 3550
+$Comp
+L FMMT493TA Q1
+U 1 1 5AEBB130
+P 4915 1080
+F 0 "Q1" H 4765 1230 60  0000 C CNN
+F 1 "FMMT493TA" H 5415 980 60  0000 C CNN
+F 2 "digikey-footprints:SOT-23-3" H 5115 1280 60  0001 L CNN
+F 3 "https://www.diodes.com/assets/Datasheets/FMMT493.pdf" H 5115 1380 60  0001 L CNN
+F 4 "FMMT493CT-ND" H 5115 1480 60  0001 L CNN "Digi-Key_PN"
+F 5 "FMMT493TA" H 5115 1580 60  0001 L CNN "MPN"
+F 6 "Discrete Semiconductor Products" H 5115 1680 60  0001 L CNN "Category"
+F 7 "Transistors - Bipolar (BJT) - Single" H 5115 1780 60  0001 L CNN "Family"
+F 8 "https://www.diodes.com/assets/Datasheets/FMMT493.pdf" H 5115 1880 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/diodes-incorporated/FMMT493TA/FMMT493CT-ND/92663" H 5115 1980 60  0001 L CNN "DK_Detail_Page"
+F 10 "TRANS NPN 100V 1A SOT23-3" H 5115 2080 60  0001 L CNN "Description"
+F 11 "Diodes Incorporated" H 5115 2180 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 5115 2280 60  0001 L CNN "Status"
+	1    4915 1080
+	1    0    0    -1  
+$EndComp
 Wire Wire Line
 	4630 3950 4060 3950
 Wire Wire Line
@@ -814,15 +856,7 @@ Wire Wire Line
 Wire Wire Line
 	3415 4480 3415 4415
 Wire Wire Line
-	4465 1080 4695 1080
-Wire Wire Line
 	4030 1080 4265 1080
-Wire Wire Line
-	4995 685  4995 880 
-Wire Wire Line
-	4915 685  4995 685 
-Wire Wire Line
-	4995 1280 4995 1475
 Wire Wire Line
 	6485 2230 6485 2310
 Connection ~ 1650 1300
@@ -904,29 +938,7 @@ Wire Wire Line
 Wire Wire Line
 	3910 2605 3700 2605
 Connection ~ 3700 2605
-$Comp
-L PWR_FLAG #FLG028
-U 1 1 5AE993DC
-P 3255 2610
-F 0 "#FLG028" H 3255 2685 50  0001 C CNN
-F 1 "PWR_FLAG" H 3255 2760 50  0000 C CNN
-F 2 "" H 3255 2610 50  0001 C CNN
-F 3 "" H 3255 2610 50  0001 C CNN
-	1    3255 2610
-	1    0    0    -1  
-$EndComp
 Connection ~ 3255 2695
-$Comp
-L 12401598E4#2A USB1
-U 1 1 5B26B309
-P 2400 3400
-F 0 "USB1" H 2400 2500 60  0000 C CNN
-F 1 "12401598E4#2A" H 2400 4400 60  0000 C CNN
-F 2 "Type-C:12401598E4#2A" H 1700 3450 60  0001 C CNN
-F 3 "https://media.digikey.com/pdf/Data%20Sheets/Amphenol%20PDFs/12401598E4%232A_Dwg.pdf" H 1700 3450 60  0001 C CNN
-	1    2400 3400
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	3110 3350 3110 4470
 Wire Wire Line
@@ -981,15 +993,6 @@ Wire Wire Line
 Wire Wire Line
 	3540 3245 3540 3650
 Connection ~ 3460 3650
-NoConn ~ 1850 2550
-NoConn ~ 1850 2650
-NoConn ~ 1850 2850
-NoConn ~ 1850 2950
-NoConn ~ 1850 3050
-NoConn ~ 1850 3150
-NoConn ~ 1850 3350
-NoConn ~ 1850 3450
-NoConn ~ 1850 3650
 Wire Wire Line
 	1850 4150 1680 4150
 Wire Wire Line
@@ -1022,5 +1025,12 @@ Connection ~ 3930 3605
 Wire Wire Line
 	1850 3850 1570 3850
 Connection ~ 1570 3950
-NoConn ~ 1850 3550
+Wire Wire Line
+	4465 1080 4565 1080
+Wire Wire Line
+	4915 685  5015 685 
+Wire Wire Line
+	5015 685  5015 780 
+Wire Wire Line
+	5015 1380 5015 1485
 $EndSCHEMATC

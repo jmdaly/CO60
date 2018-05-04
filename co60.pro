@@ -1,4 +1,4 @@
-update=Mon 09 Apr 2018 09:57:49 PM EDT
+update=Thu 03 May 2018 08:26:23 PM EDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -67,3 +67,4 @@ LibName35=lib/atmega32u4
 LibName36=ESD_Protection
 LibName37=lib/MX_Alps_Hybrid.pretty/Schematic Library/MX_Alps_Hybrids
 LibName38=lib/Type-C.pretty/Type-C
+LibName39=lib/digikey-kicad-library/digikey-symbols/dk_Transistors-Bipolar-BJT-Single

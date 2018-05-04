@@ -36,6 +36,7 @@ LIBS:atmega32u4
 LIBS:ESD_Protection
 LIBS:MX_Alps_Hybrids
 LIBS:Type-C
+LIBS:dk_Transistors-Bipolar-BJT-Single
 LIBS:co60-cache
 EELAYER 25 0
 EELAYER END
