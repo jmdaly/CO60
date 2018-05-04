@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/jmdaly/git/CO60/co60.sch)
-    (date "Thu 03 May 2018 08:33:42 PM EDT")
+    (date "Thu 03 May 2018 09:39:21 PM EDT")
     (tool "Eeschema 4.0.7-e2-6376~58~ubuntu16.04.1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -1205,7 +1205,7 @@
       (tstamp 5AB3712B))
     (comp (ref K_LCTL1)
       (value MX-1.25U)
-      (footprint MX_Alps_Hybrid:MXOnly-1.25U)
+      (footprint MX_Alps_Hybrid:MXOnly-1.25U-FLIPPED)
       (libsource (lib MX_Alps_Hybrids) (part MX-1.25U))
       (sheetpath (names /Matrix/) (tstamps /5AABDE55/))
       (tstamp 5AB49885))
@@ -1259,7 +1259,7 @@
       (tstamp 5AB5BF1B))
     (comp (ref K_LCTL2)
       (value MX-1.5U)
-      (footprint MX_Alps_Hybrid:MXOnly-1.5U-FLIPPED)
+      (footprint MX_Alps_Hybrid:MXOnly-1.5U)
       (libsource (lib MX_Alps_Hybrids) (part MX-1.5U))
       (sheetpath (names /Matrix/) (tstamps /5AABDE55/))
       (tstamp 5AB7C8DD))
