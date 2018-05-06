@@ -578,13 +578,13 @@ F 3 "" H 7020 4480 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Text GLabel 4895 3605 2    60   Input ~ 0
-D_PLUS
+D_P
 Text GLabel 4895 3780 2    60   Input ~ 0
-D_MINUS
+D_N
 Text GLabel 6885 4880 0    60   Input ~ 0
-D_PLUS
+D_P
 Text GLabel 6885 4780 0    60   Input ~ 0
-D_MINUS
+D_N
 $Comp
 L Crystal_GND24 Y1
 U 1 1 5ADF9892

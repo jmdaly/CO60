@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/jmdaly/git/CO60/co60.sch)
-    (date "Sat 05 May 2018 07:55:26 PM EDT")
+    (date "Sat 05 May 2018 10:34:44 PM EDT")
     (tool "Eeschema 4.0.7-e2-6376~58~ubuntu16.04.1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -1917,10 +1917,10 @@
     (library (logical dk_Transistors-Bipolar-BJT-Single)
       (uri lib/digikey-kicad-library/digikey-symbols/dk_Transistors-Bipolar-BJT-Single.lib)))
   (nets
-    (net (code 1) (name D_MINUS)
+    (net (code 1) (name D_N)
       (node (ref RC5) (pin 1))
       (node (ref U1) (pin 3)))
-    (net (code 2) (name D_PLUS)
+    (net (code 2) (name D_P)
       (node (ref RC4) (pin 1))
       (node (ref U1) (pin 4)))
     (net (code 3) (name COL5)
