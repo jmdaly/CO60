@@ -3375,7 +3375,6 @@ Wire Wire Line
 Wire Wire Line
 	3060 1445 3060 1590
 Connection ~ 3060 1590
-Connection ~ 3625 1395
 Wire Wire Line
 	3525 1125 3630 1125
 Connection ~ 3630 1125
@@ -3512,9 +3511,6 @@ Wire Wire Line
 	3505 2145 3505 2295
 Connection ~ 3505 2295
 Wire Wire Line
-	3525 1825 3625 1825
-Connection ~ 3625 1825
-Wire Wire Line
 	3975 1825 4080 1825
 Connection ~ 4080 1825
 Wire Wire Line
@@ -3612,9 +3608,9 @@ Connection ~ 8160 1825
 Wire Wire Line
 	8005 2295 8005 2145
 Wire Wire Line
-	1675 1825 1790 1825
+	1790 1825 1675 1825
 Wire Wire Line
-	1225 2525 1790 2525
+	1790 2525 1225 2525
 Wire Wire Line
 	1575 2625 1655 2625
 Wire Wire Line
@@ -3767,7 +3763,7 @@ Wire Wire Line
 	1655 3500 1655 3610
 Connection ~ 1655 3610
 Wire Wire Line
-	1225 3175 1790 3175
+	1790 3175 1225 3175
 Connection ~ 1575 3275
 Connection ~ 1675 3175
 Wire Wire Line
@@ -4018,7 +4014,7 @@ Connection ~ 3505 4270
 Wire Wire Line
 	3625 4475 3525 4475
 Wire Wire Line
-	3425 4575 3425 3925
+	3425 3925 3425 4575
 Wire Wire Line
 	3425 5095 3425 4570
 Connection ~ 3425 4570
@@ -4124,7 +4120,7 @@ Wire Wire Line
 	7555 4150 7555 4275
 Connection ~ 7555 4275
 Wire Wire Line
-	7475 4570 7475 3925
+	7475 3925 7475 4570
 Wire Wire Line
 	7475 5075 7475 4520
 Connection ~ 7475 4520
@@ -4164,4 +4160,9 @@ Wire Wire Line
 Wire Wire Line
 	7925 3925 7925 4625
 Connection ~ 7925 4570
+Wire Wire Line
+	3525 1825 3625 1825
+Connection ~ 3625 1825
+Wire Wire Line
+	3630 1395 3625 1395
 $EndSCHEMATC
