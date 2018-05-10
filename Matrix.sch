@@ -37,6 +37,7 @@ LIBS:ESD_Protection
 LIBS:MX_Alps_Hybrids
 LIBS:Type-C
 LIBS:dk_Transistors-Bipolar-BJT-Single
+LIBS:dk_Tactile-Switches
 LIBS:co60-cache
 EELAYER 25 0
 EELAYER END
@@ -4156,9 +4157,9 @@ Connection ~ 8025 4470
 Wire Wire Line
 	7920 5075 7920 4625
 Wire Wire Line
-	7925 4625 7920 4625
+	7920 4625 7925 4625
 Wire Wire Line
-	7925 3925 7925 4625
+	7925 4625 7925 3925
 Connection ~ 7925 4570
 Wire Wire Line
 	3525 1825 3625 1825
