@@ -2,7 +2,7 @@
 
   (general
     (links 573)
-    (no_connects 1)
+    (no_connects 0)
     (area 77.502099 47.7118 365.460401 151.5907)
     (thickness 1.6)
     (drawings 0)
@@ -11015,9 +11015,9 @@
   (segment (start 245.285625 59.071875) (end 248.840625 59.071875) (width 0.254) (layer B.Cu) (net 15))
   (segment (start 262.09625 56.8325) (end 264.335625 59.071875) (width 0.254) (layer B.Cu) (net 16))
   (segment (start 264.335625 59.071875) (end 267.890625 59.071875) (width 0.254) (layer B.Cu) (net 16))
-  (segment (start 281.14625 56.8325) (end 285.40525 56.8325) (width 0.254) (layer B.Cu) (net 17))
-  (segment (start 285.40525 56.8325) (end 286.940625 58.367875) (width 0.254) (layer B.Cu) (net 17))
-  (segment (start 286.940625 58.367875) (end 286.940625 59.071875) (width 0.254) (layer B.Cu) (net 17))
+  (segment (start 281.14625 56.8325) (end 281.14625 56.83885) (width 0.254) (layer B.Cu) (net 17))
+  (segment (start 281.14625 56.83885) (end 283.379275 59.071875) (width 0.254) (layer B.Cu) (net 17))
+  (segment (start 283.379275 59.071875) (end 286.940625 59.071875) (width 0.254) (layer B.Cu) (net 17))
   (segment (start 300.19625 56.8325) (end 302.435625 59.071875) (width 0.254) (layer B.Cu) (net 18))
   (segment (start 302.435625 59.071875) (end 305.990625 59.071875) (width 0.254) (layer B.Cu) (net 18))
   (segment (start 319.24625 56.8325) (end 321.485625 59.071875) (width 0.254) (layer B.Cu) (net 19))
