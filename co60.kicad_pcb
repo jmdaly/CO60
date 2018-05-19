@@ -1,14 +1,14 @@
 (kicad_pcb (version 4) (host pcbnew 4.0.7-e2-6376~58~ubuntu16.04.1)
 
   (general
-    (links 737)
+    (links 739)
     (no_connects 0)
     (area 77.502099 47.7118 365.460401 151.5907)
     (thickness 1.6)
     (drawings 6)
     (tracks 2780)
     (zones 0)
-    (modules 415)
+    (modules 417)
     (nets 189)
   )
 
@@ -484,6 +484,30 @@
     (add_net GND)
     (add_net LEDGND)
     (add_net VCC)
+  )
+
+  (module VIA-0.6mm (layer F.Cu) (tedit 5AFE3A40) (tstamp 5B009F5C)
+    (at 91.0844 62.992)
+    (fp_text reference REF** (at 0 0.5) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value VIA-0.6mm (at 0 -0.5) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 thru_hole circle (at 0 0) (size 0.6 0.6) (drill 0.3) (layers *.Cu)
+      (net 1 GND) (zone_connect 2))
+  )
+
+  (module VIA-0.6mm (layer F.Cu) (tedit 5AFE3A40) (tstamp 5B009F58)
+    (at 114.4524 63.9826)
+    (fp_text reference REF** (at 0 0.5) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value VIA-0.6mm (at 0 -0.5) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 thru_hole circle (at 0 0) (size 0.6 0.6) (drill 0.3) (layers *.Cu)
+      (net 1 GND) (zone_connect 2))
   )
 
   (module VIA-0.6mm (layer F.Cu) (tedit 5AFE3A40) (tstamp 5AFF85BC)
@@ -20247,6 +20271,12 @@
     )
     (filled_polygon
       (pts
+        (xy 114.890625 63.469315) (xy 116.090625 63.469315) (xy 116.321073 63.425953) (xy 117.373019 64.4779) (xy 113.60823 64.4779)
+        (xy 114.662926 63.423205)
+      )
+    )
+    (filled_polygon
+      (pts
         (xy 228.726535 63.273316) (xy 228.938735 63.418306) (xy 229.190625 63.469315) (xy 230.390625 63.469315) (xy 230.621073 63.425953)
         (xy 231.647619 64.4525) (xy 227.074842 64.4525) (xy 228.393468 63.133875) (xy 228.636807 63.133875)
       )
@@ -20296,6 +20326,12 @@
       (pts
         (xy 343.051278 63.399707) (xy 343.392276 63.7413) (xy 342.08533 63.7413) (xy 342.727066 63.099564) (xy 342.735771 63.086536)
         (xy 342.850767 62.914433)
+      )
+    )
+    (filled_polygon
+      (pts
+        (xy 91.946321 63.5339) (xy 91.934019 63.594649) (xy 91.779199 63.530362) (xy 91.407233 63.530038) (xy 91.063457 63.672083)
+        (xy 91.032286 63.7032) (xy 90.033496 63.7032) (xy 90.333623 63.403596) (xy 90.734692 62.437715) (xy 90.734793 62.322371)
       )
     )
     (filled_polygon
