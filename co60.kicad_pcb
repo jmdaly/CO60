@@ -1,14 +1,14 @@
 (kicad_pcb (version 4) (host pcbnew 4.0.7-e2-6376~58~ubuntu16.04.1)
 
   (general
-    (links 741)
+    (links 744)
     (no_connects 0)
     (area 77.502099 48.003 365.460401 151.5907)
     (thickness 1.6)
     (drawings 6)
     (tracks 2793)
     (zones 0)
-    (modules 419)
+    (modules 422)
     (nets 189)
   )
 
@@ -484,6 +484,42 @@
     (add_net GND)
     (add_net LEDGND)
     (add_net VCC)
+  )
+
+  (module VIA-0.6mm (layer F.Cu) (tedit 5AFE3A40) (tstamp 5B04FD1A)
+    (at 120.2436 124.3838)
+    (fp_text reference REF** (at 0 0.5) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value VIA-0.6mm (at 0 -0.5) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 thru_hole circle (at 0 0) (size 0.6 0.6) (drill 0.3) (layers *.Cu)
+      (net 1 GND) (zone_connect 2))
+  )
+
+  (module VIA-0.6mm (layer F.Cu) (tedit 5AFE3A40) (tstamp 5B04FD15)
+    (at 125.095 107.188)
+    (fp_text reference REF** (at 0 0.5) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value VIA-0.6mm (at 0 -0.5) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 thru_hole circle (at 0 0) (size 0.6 0.6) (drill 0.3) (layers *.Cu)
+      (net 1 GND) (zone_connect 2))
+  )
+
+  (module VIA-0.6mm (layer F.Cu) (tedit 5AFE3A40) (tstamp 5B04FD10)
+    (at 90.805 92.9386)
+    (fp_text reference REF** (at 0 0.5) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value VIA-0.6mm (at 0 -0.5) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad 1 thru_hole circle (at 0 0) (size 0.6 0.6) (drill 0.3) (layers *.Cu)
+      (net 1 GND) (zone_connect 2))
   )
 
   (module VIA-0.6mm (layer F.Cu) (tedit 5AFE3A40) (tstamp 5B030713)
@@ -17096,6 +17132,12 @@
     )
     (filled_polygon
       (pts
+        (xy 126.269879 106.72271) (xy 126.207808 106.784673) (xy 126.065162 107.128201) (xy 126.064838 107.500167) (xy 126.1745 107.76557)
+        (xy 126.1745 108.732854) (xy 123.994646 106.553) (xy 126.10017 106.553)
+      )
+    )
+    (filled_polygon
+      (pts
         (xy 117.230502 90.921543) (xy 125.175313 90.921543) (xy 126.547475 92.293706) (xy 126.547438 92.336367) (xy 126.689483 92.680143)
         (xy 126.952273 92.943392) (xy 127.295801 93.086038) (xy 127.667767 93.086362) (xy 127.889 92.994951) (xy 127.889 99.362505)
         (xy 127.804612 99.158271) (xy 127.380213 98.73313) (xy 126.825425 98.502762) (xy 126.22471 98.502238) (xy 125.669521 98.731638)
@@ -17136,6 +17178,12 @@
         (xy 342.011 96.266) (xy 341.695094 96.328837) (xy 341.427283 96.507783) (xy 340.838846 97.09622) (xy 340.582925 96.476843)
         (xy 340.088261 95.981315) (xy 339.852 95.883211) (xy 339.852 90.013991) (xy 343.42344 86.442552) (xy 343.466101 86.442589)
         (xy 343.809877 86.300544) (xy 344.073126 86.037754) (xy 344.215772 85.694226) (xy 344.216088 85.3313) (xy 347.17381 85.3313)
+      )
+    )
+    (filled_polygon
+      (pts
+        (xy 91.821 93.65005) (xy 91.536315 93.934239) (xy 91.267807 94.580879) (xy 91.267196 95.28105) (xy 91.445469 95.712505)
+        (xy 91.09145 95.712196) (xy 90.599999 95.915259) (xy 90.599999 92.095723) (xy 91.821 90.874722)
       )
     )
     (filled_polygon
@@ -17895,6 +17943,14 @@
         (xy 100.271216 125.376476) (xy 100.382079 125.487532) (xy 100.965341 125.729724) (xy 101.596888 125.730275) (xy 102.180572 125.489102)
         (xy 102.627532 125.042921) (xy 102.869724 124.459659) (xy 102.870275 123.828112) (xy 102.839296 123.753137) (xy 103.511932 123.080501)
         (xy 105.890795 123.080501)
+      )
+    )
+    (filled_polygon
+      (pts
+        (xy 124.53076 124.849339) (xy 124.530762 124.849342) (xy 124.666629 124.940125) (xy 124.798573 125.028288) (xy 125.114479 125.091125)
+        (xy 125.277758 125.091125) (xy 125.159819 125.263735) (xy 125.10881 125.515625) (xy 125.10881 126.015625) (xy 125.153088 126.250942)
+        (xy 125.267343 126.4285) (xy 120.737933 126.4285) (xy 117.868217 123.558783) (xy 117.600406 123.379837) (xy 117.2845 123.317)
+        (xy 114.565338 123.317) (xy 114.535352 123.244428) (xy 114.41763 123.1265) (xy 122.80792 123.1265)
       )
     )
     (filled_polygon
