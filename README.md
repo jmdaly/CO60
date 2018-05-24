@@ -22,3 +22,22 @@ The CO60 aims to meet the following design goals:
   polyfuse on the VCC line.
 
 * Support for per-switch LED backlighting.
+
+## Supported Layouts
+
+The CO60 supports the [the following layouts](http://www.keyboard-layout-editor.com/#/gists/b488496b3a71c8192113c07e298be340).
+
+## Motivation
+
+There are a number of 60% keyboard PCBs available today, so it is
+important to be clear about the reasons for developing another. This
+PCB is the only one, to the best of the designer's knowledge, to
+satisfy ALL of the following criteria:
+
+* Support for MX switches oriented such that the LEDs are South
+  facing, for compatibility with Cherry profile keycaps.
+
+* Support for split spacebars, in both 6.25U and 7U configurations.
+
+* USB Type-C connection that supports both A to C and C to C
+  configurations.
