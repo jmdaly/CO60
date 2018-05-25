@@ -62,14 +62,19 @@ git clone --recursive https://gitlab.com/jmdaly/CO60.git
 
 ## Acknowledgements
 
-This PCB design would not have been possible without the help and
-previous work of a number of people. In particular, great inspiration
-has been derived from the GH60 project, and [ai03's excellent open
-source keyboard designs](https://github.com/ai03-2725). This includes
-the use of ai03's KiCad [switch footprint
-libraries](https://github.com/ai03-2725/MX_Alps_Hybrid.pretty) and his
-[USB Type-C](https://github.com/ai03-2725/Type-C.pretty) KiCad
-footprint libraries.
+This PCB design would not have been possible without the help and previous work
+of a number of people. In particular, great inspiration has been derived from
+the [GH60 project](https://github.com/komar007/gh60), and [ai03's excellent
+open source keyboard designs](https://github.com/ai03-2725). This includes the
+use of ai03's KiCad [switch footprint
+libraries](https://github.com/ai03-2725/MX_Alps_Hybrid.pretty) and his [USB
+Type-C](https://github.com/ai03-2725/Type-C.pretty) KiCad footprint libraries.
+
+The Banana Split V2 PCB provided inspiration for some of the bottom
+row layouts. The Banana Split was the first PCB to popularize the
+split spacebar layout, and the folks at [The Van
+Keyboards](https://thevankeyboards.com/) deserve a lot of credit for
+this development.
 
 The board outline libraries were created by amtra5, and full credit
 goes to him for their design.
