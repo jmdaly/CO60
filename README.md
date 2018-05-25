@@ -32,9 +32,9 @@ The CO60 supports the [the following layouts](http://www.keyboard-layout-editor.
 ## Motivation
 
 There are a number of 60% keyboard PCBs available today, so it is important to
-be clear about the reasons for developing another. This PCB is the only 60%
-keyboard PCB, to the best of the designer's knowledge, to satisfy ALL of the
-following criteria:
+be clear about the reasons for developing a new one. This PCB is the only 60%
+keyboard PCB that, to the best of the designer's knowledge, satisfies ALL of
+the following criteria:
 
 * Support for MX switches oriented such that the LEDs are South
   facing, for compatibility with Cherry profile keycaps.
@@ -48,3 +48,32 @@ following criteria:
   at any point, and doesn't lock the design in with a particular vendor.
 
 * QMK support.
+
+## Obtaining the Files
+
+This repository contains several submodules, which in turn contain
+Kicad libraries used in the PCB design. In order to clone the CO60
+repository, and all of the library submodules, the following command
+must be issued,
+
+```
+git clone --recursive https://gitlab.com/jmdaly/CO60.git
+```
+
+## Acknowledgements
+
+This PCB design would not have been possible without the help and
+previous work of a number of people. In particular, great inspiration
+has been derived from the GH60 project, and [ai03's excellent open
+source keyboard designs](https://github.com/ai03-2725). This includes
+the use of ai03's KiCad [switch footprint
+libraries](https://github.com/ai03-2725/MX_Alps_Hybrid.pretty) and his
+[USB Type-C](https://github.com/ai03-2725/Type-C.pretty) KiCad
+footprint libraries.
+
+The board outline libraries were created by amtra5, and full credit
+goes to him for their design.
+
+There is an active keyboard design community on the /r/mk discord. The
+users there have been very helpful, and I've learned a significant
+amount about PCB design from them.
