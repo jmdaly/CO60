@@ -395,6 +395,7 @@ F 0 "U1" H 7340 5760 50  0000 L BNN
 F 1 "ATMEGA32U4" H 8390 2030 50  0000 L BNN
 F 2 "tqfp:TQFP44" H 8640 1955 50  0001 C CNN
 F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Summary.pdf" H 8140 3930 60  0001 C CNN
+F 4 "Microcontroller" H 8140 3930 60  0001 C CNN "Description"
 	1    8140 3930
 	1    0    0    -1  
 $EndComp
@@ -627,6 +628,7 @@ F 0 "J1" H 10595 3215 50  0000 C CNN
 F 1 "Conn_01x06" H 10595 2515 50  0000 C CNN
 F 2 "Socket_Strips:Socket_Strip_Straight_1x06_Pitch2.54mm" H 10595 2915 50  0001 C CNN
 F 3 "" H 10595 2915 50  0001 C CNN
+F 4 "dnf" H 10595 2915 60  0001 C CNN "Config"
 	1    10595 2915
 	1    0    0    -1  
 $EndComp
@@ -683,6 +685,7 @@ F 0 "USB1" H 2400 2500 60  0000 C CNN
 F 1 "12401598E4#2A" H 2400 4400 60  0000 C CNN
 F 2 "Type-C:12401598E4#2A" H 1700 3450 60  0001 C CNN
 F 3 "https://media.digikey.com/pdf/Data%20Sheets/Amphenol%20PDFs/12401598E4%232A_Dwg.pdf" H 1700 3450 60  0001 C CNN
+F 4 "USB Type-C connector" H 2400 3400 60  0001 C CNN "Description"
 	1    2400 3400
 	1    0    0    -1  
 $EndComp
