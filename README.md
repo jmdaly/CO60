@@ -33,8 +33,8 @@ The CO60 supports the [the following layouts](http://www.keyboard-layout-editor.
 
 There are a number of 60% keyboard PCBs available today, so it is important to
 be clear about the reasons for developing a new one. This PCB is the only 60%
-keyboard PCB that, to the best of the designer's knowledge, satisfies ALL of
-the following criteria:
+keyboard PCB that, to the best of my knowledge, satisfies ALL of the following
+criteria:
 
 * Support for MX switches oriented such that the LEDs are South
   facing, for compatibility with Cherry profile keycaps.
@@ -70,11 +70,11 @@ use of ai03's KiCad [switch footprint
 libraries](https://github.com/ai03-2725/MX_Alps_Hybrid.pretty) and his [USB
 Type-C](https://github.com/ai03-2725/Type-C.pretty) KiCad footprint libraries.
 
-The Banana Split V2 PCB provided inspiration for some of the bottom
-row layouts. The Banana Split was the first PCB to popularize the
-split spacebar layout, and the folks at [The Van
-Keyboards](https://thevankeyboards.com/) deserve a lot of credit for
-this development.
+The Banana Split V2 PCB provided inspiration for some of the bottom row
+layouts. The Banana Split was the first 60% PCB to popularize the split
+spacebar layout, and the folks at [The Van
+Keyboards](https://thevankeyboards.com/) deserve a lot of credit for this
+development.
 
 The board outline libraries were created by amtra5, and full credit
 goes to him for their design.
