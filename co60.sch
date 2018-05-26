@@ -620,7 +620,7 @@ F 2 "locallib:SOT143B" H 4335 4270 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/PRTR5V0U2X.pdf" H 4335 4270 50  0001 C CNN
 F 4 "Rail-to-rail ESD protection circuitry" H 4285 4320 60  0001 C CNN "Description"
 F 5 "1727-3884-1-ND" H 4285 4320 60  0001 C CNN "Digi-Key_PN"
-F 6 "PRTR5V0U2X" H 4285 4320 60  0001 C CNN "Product"
+F 6 "PRTR5V0U2X,215" H 4285 4320 60  0001 C CNN "Product"
 	1    4285 4320
 	1    0    0    -1  
 $EndComp
