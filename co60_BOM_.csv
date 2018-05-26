@@ -16,18 +16,3 @@ SW1,SW_Push,SW_Push,SW_SPST_TL3342,1,EG2531CT-ND,https://www.e-switch.com/system
 U1,ATMEGA32U4,ATMEGA32U4,TQFP44,1,ATMEGA32U4-AURCT-ND,http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Summary.pdf,Microcontroller,ATMEGA32U4-AU,,,,,,,,,
 USB1,12401598E4#2A,12401598E4#2A,12401598E4#2A,1,12401598E4#2ACT-ND,https://media.digikey.com/pdf/Data%20Sheets/Amphenol%20PDFs/12401598E4%232A_Dwg.pdf,USB Type-C connector,12401598E4#2A,,,,,,,,,
 Y1,Crystal_GND24,16MHz,Crystal_SMD_2520-4pin_2.5x2.0mm,1,644-1168-1-ND,https://www.digikey.com/product-detail/en/ndk-america-inc/NX2520SA-16MHZ-STD-CSW-4/644-1168-1-ND/3125557,"Four pin crystal (GND on pins 2 and 4), e.g. in SMD package",NX2520SA-16MHZ-STD-CSW-4,,,,,,,,,
-
-
-
-
-
-Component Groups:,35
-Component Count:,250
-Fitted Components:,158
-Number of PCBs:,1
-Total components:,158
-Schematic Version:,
-Schematic Date:,
-BoM Date:,Sat 26 May 2018 02:04:16 PM EDT
-Schematic Source:,/home/jmdaly/git/CO60/co60.sch
-KiCad Version:,Eeschema 4.0.7-e2-6376~58~ubuntu16.04.1

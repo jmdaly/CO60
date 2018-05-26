@@ -1,8 +1,8 @@
 # CO60 PCB
 
-The CO60 was developed out of the desire to make available a 60% PCB
-that appeals to many people and is readily available. CO60 is a
-portmanteau of Community and 60% keyboard.
+The CO60 was developed out of the desire to produce a 60% PCB that
+appeals to many people and is readily available. CO60 is a portmanteau
+of Community and 60% keyboard.
 
 ## Overview
 
