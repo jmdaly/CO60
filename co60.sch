@@ -406,6 +406,7 @@ F 2 "tqfp:TQFP44" H 8640 1955 50  0001 C CNN
 F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Summary.pdf" H 8140 3930 60  0001 C CNN
 F 4 "Microcontroller" H 8140 3930 60  0001 C CNN "Description"
 F 5 "ATMEGA32U4-AURCT-ND" H 8140 3930 60  0001 C CNN "Digi-Key_PN"
+F 6 "ATMEGA32U4-AU" H 8140 3930 60  0001 C CNN "Product"
 	1    8140 3930
 	1    0    0    -1  
 $EndComp
@@ -619,6 +620,7 @@ F 2 "locallib:SOT143B" H 4335 4270 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/PRTR5V0U2X.pdf" H 4335 4270 50  0001 C CNN
 F 4 "Rail-to-rail ESD protection circuitry" H 4285 4320 60  0001 C CNN "Description"
 F 5 "1727-3884-1-ND" H 4285 4320 60  0001 C CNN "Digi-Key_PN"
+F 6 "PRTR5V0U2X" H 4285 4320 60  0001 C CNN "Product"
 	1    4285 4320
 	1    0    0    -1  
 $EndComp
@@ -701,6 +703,7 @@ F 2 "Type-C:12401598E4#2A" H 1700 3450 60  0001 C CNN
 F 3 "https://media.digikey.com/pdf/Data%20Sheets/Amphenol%20PDFs/12401598E4%232A_Dwg.pdf" H 1700 3450 60  0001 C CNN
 F 4 "USB Type-C connector" H 2400 3400 60  0001 C CNN "Description"
 F 5 "12401598E4#2ACT-ND" H 2400 3400 60  0001 C CNN "Digi-Key_PN"
+F 6 "12401598E4#2A" H 2400 3400 60  0001 C CNN "Product"
 	1    2400 3400
 	1    0    0    -1  
 $EndComp
@@ -731,6 +734,7 @@ F 9 "/product-detail/en/diodes-incorporated/FMMT493TA/FMMT493CT-ND/92663" H 5115
 F 10 "TRANS NPN 100V 1A SOT23-3" H 5115 2080 60  0001 L CNN "Description"
 F 11 "Diodes Incorporated" H 5115 2180 60  0001 L CNN "Manufacturer"
 F 12 "Active" H 5115 2280 60  0001 L CNN "Status"
+F 13 "FMMT493TA" H 4915 1080 60  0001 C CNN "Product"
 	1    4915 1080
 	1    0    0    -1  
 $EndComp
