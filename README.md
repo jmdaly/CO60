@@ -57,7 +57,7 @@ repository, and all of the library submodules, the following command
 must be issued,
 
 ```
-git clone --recursive https://gitlab.com/jmdaly/CO60.git
+git clone --recursive https://github.com/jmdaly/CO60.git
 ```
 
 ## Acknowledgements
