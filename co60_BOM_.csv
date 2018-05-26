@@ -1,21 +1,21 @@
-References,Value,Footprint,Part,Quantity Per PCB,Description,Datasheet,Product,Config,Category,Status,Family,MPN,Digi-Key_PN,DK_Datasheet_Link,DK_Detail_Page,Manufacturer,DigiKey Page
-C4 C5 C6 C7,100n,C_0603,C,4,Unpolarized capacitor,https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_hightemp_en.pdf,C1608X8R1E104K080AA,,,,,,,,,,
-C3,1u,C_0603,C,1,Unpolarized capacitor,https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_lowprofile_en.pdf,CGB3B3JB1C105K055AB,,,,,,,,,,
-C1 C2,22p,C_0603,C,2,Unpolarized capacitor,http://datasheets.avx.com/C0GNP0-Dielectric.pdf,06035A220JAT2A,,,,,,,,,,
-C8,4.7u,C_0603,C,1,Unpolarized capacitor,http://www.samsungsem.com/kr/support/product-search/mlcc/__icsFiles/afieldfile/2016/12/21/CL10A475KA8NQNC_161221.pdf,CL10A475KA8NQNC,,,,,,,,,,
-D1 D2 D3 D4 D5 D6 D7 D8 D9 D10 D11 D12 D13 D14 D15 D16 D17 D18 D19 D20 D21 D22 D23 D24 D25 D26 D27 D28 D29 D30 D31 D32 D33 D34 D35 D36 D37 D38 D39 D40 D41 D42 D43 D44 D45 D46 D47 D48 D49 D50 D51 D52 D53 D54 D55 D56 D57 D58 D59 D60 D61 D62 D63 D64 D65 D66 D67 D68,D_Small,D_SOD-123,D_Small,68,"Diode, small symbol",http://www.mccsemi.com/up_pdf/1N4148W(SOD123).pdf,1N4148W-TP,,,,,,,,,,
-DP1,PRTR5V0U2X,SOT143B,PRTR5V0U2X,1,Rail-to-rail ESD protection circuitry,https://assets.nexperia.com/documents/data-sheet/PRTR5V0U2X.pdf,,,,,,,,,,,
-F1,500mA,R_0805,Polyfuse_Small,1,"resettable fuse, polymeric positive temperature coefficient (PPTC), small symbol",http://www.littelfuse.com/~/media/electronics/datasheets/resettable_ptcs/littelfuse_ptc_0805l_datasheet.pdf.pdf,0805L050WR,,,,,,,,,,
-Q1,FMMT493TA,SOT-23-3,FMMT493TA,1,TRANS NPN 100V 1A SOT23-3,https://www.diodes.com/assets/Datasheets/FMMT493.pdf,,,Discrete Semiconductor Products,Active,Transistors - Bipolar (BJT) - Single,FMMT493TA,FMMT493CT-ND,https://www.diodes.com/assets/Datasheets/FMMT493.pdf,/product-detail/en/diodes-incorporated/FMMT493TA/FMMT493CT-ND/92663,Diodes Incorporated,
-R1 R2 R3 R4 R5 R6 R7 R8 R9 R10 R11 R12 R13 R14 R15 R16 R17 R18 R19 R20 R21 R22 R23 R24 R25 R26 R27 R28 R29 R30 R31 R32 R33 R34 R35 R36 R37 R38 R39 R40 R41 R42 R43 R44 R45 R46 R47 R48 R49 R50 R51 R52 R53 R54 R55 R56 R57 R58 R59 R60 R61 R62 R63 R64 R65 R66 R67 R68,560,R_0603,R_Small,68,"Resistor, small symbol",https://www.mouser.ca/datasheet/2/427/mcx0x0xpro-223600.pdf,MCT06030C5600FP500,,,,,,,,,,
-RC1,1.5k,R_0603,R_Small,1,"Resistor, small symbol",,RC0603JR-071K5L,,,,,,,,,,
-RC2 RC3,10k,R_0603,R,2,Resistor,,ERJ-3GEYJ103V,,,,,,,,,,
-RC4 RC5,22,R_0603,R,2,Resistor,,RC0603JR-0722RL,,,,,,,,,,
-RC6 RC7,5.1k,R_0603,R,2,Resistor,,RMCF0603JT5K10,,,,,,,,,,
-SW1,SW_Push,SW_SPST_TL3342,SW_Push,1,"Push button switch, generic, two pins",https://www.e-switch.com/system/asset/product_line/data_sheet/165/TL3342.pdf,TL3342F160QG/TR,,,,,,,,,,https://www.digikey.ca/product-detail/en/e-switch/TL3342F160QG-TR/EG2531CT-ND/379004
-U1,ATMEGA32U4,TQFP44,ATMEGA32U4,1,Microcontroller,http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Summary.pdf,,,,,,,,,,,
-USB1,12401598E4#2A,12401598E4#2A,12401598E4#2A,1,USB Type-C connector,https://media.digikey.com/pdf/Data%20Sheets/Amphenol%20PDFs/12401598E4%232A_Dwg.pdf,,,,,,,,,,,
-Y1,16MHz,Crystal_SMD_2520-4pin_2.5x2.0mm,Crystal_GND24,1,"Four pin crystal (GND on pins 2 and 4), e.g. in SMD package",https://www.digikey.com/product-detail/en/ndk-america-inc/NX2520SA-16MHZ-STD-CSW-4/644-1168-1-ND/3125557,NX2520SA-16MHZ-STD-CSW-4,,,,,,,,,,
+References,Part,Value,Footprint,Quantity Per PCB,Digi-Key_PN,Datasheet,Description,Product,Config,Category,Status,Family,MPN,DK_Datasheet_Link,DK_Detail_Page,Manufacturer,DigiKey Page
+C4 C5 C6 C7,C,100n,C_0603,4,445-2500-1-ND,https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_hightemp_en.pdf,Unpolarized capacitor,C1608X8R1E104K080AA,,,,,,,,,
+C3,C,1u,C_0603,1,445-13234-1-ND,https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_lowprofile_en.pdf,Unpolarized capacitor,CGB3B3JB1C105K055AB,,,,,,,,,
+C1 C2,C,22p,C_0603,2,478-1167-1-ND,http://datasheets.avx.com/C0GNP0-Dielectric.pdf,Unpolarized capacitor,06035A220JAT2A,,,,,,,,,
+C8,C,4.7u,C_0603,1,1276-1900-1-ND,http://www.samsungsem.com/kr/support/product-search/mlcc/__icsFiles/afieldfile/2016/12/21/CL10A475KA8NQNC_161221.pdf,Unpolarized capacitor,CL10A475KA8NQNC,,,,,,,,,
+D1 D2 D3 D4 D5 D6 D7 D8 D9 D10 D11 D12 D13 D14 D15 D16 D17 D18 D19 D20 D21 D22 D23 D24 D25 D26 D27 D28 D29 D30 D31 D32 D33 D34 D35 D36 D37 D38 D39 D40 D41 D42 D43 D44 D45 D46 D47 D48 D49 D50 D51 D52 D53 D54 D55 D56 D57 D58 D59 D60 D61 D62 D63 D64 D65 D66 D67 D68,D_Small,D_Small,D_SOD-123,68,1N4148WTPMSCT-ND,http://www.mccsemi.com/up_pdf/1N4148W(SOD123).pdf,"Diode, small symbol",1N4148W-TP,,,,,,,,,
+DP1,PRTR5V0U2X,PRTR5V0U2X,SOT143B,1,1727-3884-1-ND,https://assets.nexperia.com/documents/data-sheet/PRTR5V0U2X.pdf,Rail-to-rail ESD protection circuitry,,,,,,,,,,
+F1,Polyfuse_Small,500mA,R_0805,1,F2772CT-ND,http://www.littelfuse.com/~/media/electronics/datasheets/resettable_ptcs/littelfuse_ptc_0805l_datasheet.pdf.pdf,"resettable fuse, polymeric positive temperature coefficient (PPTC), small symbol",0805L050WR,,,,,,,,,
+Q1,FMMT493TA,FMMT493TA,SOT-23-3,1,FMMT493CT-ND,https://www.diodes.com/assets/Datasheets/FMMT493.pdf,TRANS NPN 100V 1A SOT23-3,,,Discrete Semiconductor Products,Active,Transistors - Bipolar (BJT) - Single,FMMT493TA,https://www.diodes.com/assets/Datasheets/FMMT493.pdf,/product-detail/en/diodes-incorporated/FMMT493TA/FMMT493CT-ND/92663,Diodes Incorporated,
+R1 R2 R3 R4 R5 R6 R7 R8 R9 R10 R11 R12 R13 R14 R15 R16 R17 R18 R19 R20 R21 R22 R23 R24 R25 R26 R27 R28 R29 R30 R31 R32 R33 R34 R35 R36 R37 R38 R39 R40 R41 R42 R43 R44 R45 R46 R47 R48 R49 R50 R51 R52 R53 R54 R55 R56 R57 R58 R59 R60 R61 R62 R63 R64 R65 R66 R67 R68,R_Small,560,R_0603,68,MCT0603-560-CFCT-ND,https://www.mouser.ca/datasheet/2/427/mcx0x0xpro-223600.pdf,"Resistor, small symbol",MCT06030C5600FP500,,,,,,,,,
+RC1,R_Small,1.5k,R_0603,1,311-1.5KGRCT-ND,http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_9.pdf,"Resistor, small symbol",RC0603JR-071K5L,,,,,,,,,
+RC2 RC3,R,10k,R_0603,2,P10KGCT-ND,https://industrial.panasonic.com/ww/products/resistors/chip-resistors/general-purpose-chip-resistors/thick-film-chip-resistors/ERJ3GEYJ103V,Resistor,ERJ-3GEYJ103V,,,,,,,,,
+RC4 RC5,R,22,R_0603,2,311-22GRCT-ND,http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_9.pdf,Resistor,RC0603JR-0722RL,,,,,,,,,
+RC6 RC7,R,5.1k,R_0603,2,RMCF0603JT5K10CT-ND,https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf,Resistor,RMCF0603JT5K10,,,,,,,,,
+SW1,SW_Push,SW_Push,SW_SPST_TL3342,1,EG2531CT-ND,https://www.e-switch.com/system/asset/product_line/data_sheet/165/TL3342.pdf,"Push button switch, generic, two pins",TL3342F160QG/TR,,,,,,,,,https://www.digikey.ca/product-detail/en/e-switch/TL3342F160QG-TR/EG2531CT-ND/379004
+U1,ATMEGA32U4,ATMEGA32U4,TQFP44,1,ATMEGA32U4-AURCT-ND,http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Summary.pdf,Microcontroller,,,,,,,,,,
+USB1,12401598E4#2A,12401598E4#2A,12401598E4#2A,1,12401598E4#2ACT-ND,https://media.digikey.com/pdf/Data%20Sheets/Amphenol%20PDFs/12401598E4%232A_Dwg.pdf,USB Type-C connector,,,,,,,,,,
+Y1,Crystal_GND24,16MHz,Crystal_SMD_2520-4pin_2.5x2.0mm,1,644-1168-1-ND,https://www.digikey.com/product-detail/en/ndk-america-inc/NX2520SA-16MHZ-STD-CSW-4/644-1168-1-ND/3125557,"Four pin crystal (GND on pins 2 and 4), e.g. in SMD package",NX2520SA-16MHZ-STD-CSW-4,,,,,,,,,
 
 
 
@@ -28,6 +28,6 @@ Number of PCBs:,1
 Total components:,158
 Schematic Version:,
 Schematic Date:,
-BoM Date:,Thu 24 May 2018 09:50:38 PM EDT
+BoM Date:,Fri 25 May 2018 10:22:10 PM EDT
 Schematic Source:,/home/jmdaly/git/CO60/co60.sch
 KiCad Version:,Eeschema 4.0.7-e2-6376~58~ubuntu16.04.1

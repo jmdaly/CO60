@@ -61,6 +61,7 @@ F 1 "D_Small" V 1250 1350 50  0000 L CNN
 F 2 "Diodes_SMD:D_SOD-123" V 1400 1430 50  0001 C CNN
 F 3 "http://www.mccsemi.com/up_pdf/1N4148W(SOD123).pdf" V 1400 1430 50  0001 C CNN
 F 4 "1N4148W-TP" H 1400 1430 60  0001 C CNN "Product"
+F 5 "1N4148WTPMSCT-ND" H 1400 1430 60  0001 C CNN "Digi-Key_PN"
 	1    1400 1430
 	0    -1   -1   0   
 $EndComp
@@ -371,6 +372,7 @@ F 1 "560" H 1685 1305 30  0000 L CNN
 F 2 "Resistors_SMD:R_0603" H 1655 1345 50  0001 C CNN
 F 3 "https://www.mouser.ca/datasheet/2/427/mcx0x0xpro-223600.pdf" H 1655 1345 50  0001 C CNN
 F 4 "MCT06030C5600FP500" H 1655 1345 60  0001 C CNN "Product"
+F 5 "MCT0603-560-CFCT-ND" H 1655 1345 60  0001 C CNN "Digi-Key_PN"
 	1    1655 1345
 	1    0    0    -1  
 $EndComp
