@@ -52,7 +52,7 @@ criteria:
 ## Obtaining the Files
 
 This repository contains several submodules, which in turn contain
-Kicad libraries used in the PCB design. In order to clone the CO60
+KiCad libraries used in the PCB design. In order to clone the CO60
 repository, and all of the library submodules, the following command
 must be issued,
 
@@ -79,6 +79,6 @@ development.
 The board outline libraries were created by amtra5, and full credit
 goes to him for their design.
 
-There is an active keyboard design community on the /r/mk discord. The
+There is an active keyboard design community on the MechKeys discord. The
 users there have been very helpful, and I've learned a significant
 amount about PCB design from them.
