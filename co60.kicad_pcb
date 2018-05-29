@@ -5,7 +5,7 @@
     (no_connects 0)
     (area 77.502099 45.0534 365.460401 151.5907)
     (thickness 1.6)
-    (drawings 9)
+    (drawings 10)
     (tracks 2797)
     (zones 0)
     (modules 422)
@@ -12242,6 +12242,9 @@
     (pad 1 thru_hole circle (at 136.861522 11.038478) (size 1 1) (drill 0.5) (layers *.Cu *.Mask))
   )
 
+  (gr_text "CO60 PCB - Rev. 1. Design by jmdaly with help from the MechKeys Discord\n" (at 179.1208 110.3376) (layer F.SilkS)
+    (effects (font (size 2 2) (thickness 0.3)))
+  )
   (dimension 18.1991 (width 0.3) (layer Dwgs.User)
     (gr_text "18.199 mm" (at 88.2015 46.2534) (layer Dwgs.User)
       (effects (font (size 1.5 1.5) (thickness 0.3)))
