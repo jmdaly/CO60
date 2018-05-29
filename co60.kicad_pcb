@@ -3,9 +3,9 @@
   (general
     (links 744)
     (no_connects 0)
-    (area 77.502099 45.0534 365.460401 151.5907)
+    (area 65.001001 45.0534 365.460401 154.004001)
     (thickness 1.6)
-    (drawings 16)
+    (drawings 17)
     (tracks 2797)
     (zones 0)
     (modules 422)
@@ -12242,6 +12242,9 @@
     (pad 1 thru_hole circle (at 136.861522 11.038478) (size 1 1) (drill 0.5) (layers *.Cu *.Mask))
   )
 
+  (gr_text https://github.com/jmdaly/CO60 (at 136.398 127.762) (layer F.SilkS)
+    (effects (font (size 1.5 1.5) (thickness 0.3)))
+  )
   (dimension 284.988028 (width 0.3) (layer Dwgs.User)
     (gr_text "284.988 mm" (at 221.234 152.654 359.9744671) (layer Dwgs.User)
       (effects (font (size 1.5 1.5) (thickness 0.3)))
