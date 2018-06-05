@@ -13,6 +13,8 @@ All notable changes to this project will be documented in this file.
   to prevent any issues with the USB housing overlapping with holes in
   the board.
 
+- Clean up some traces near drill holes.
+
 ## Rev. 1 - 2018-05-29
 
 ### Added
