@@ -9,6 +9,10 @@ All notable changes to this project will be documented in this file.
 - More PCB material under USB connector so that its through hole
   pins are entirely within the board.
 
+- Spreadsheet sent to Elecrow for fabrication and assembly. This
+  is the revision of the CO60 that was sent to Elecrow for initial
+  fabrication and assembly.
+
 ### Changed
 - Increase width of one VCC trace that was too thin.
 
@@ -26,9 +30,6 @@ All notable changes to this project will be documented in this file.
 - Move D4 and D10 to ensure compatibility with some cases.
 
 - Move R18 in order to clean up some traces nearby.
-
-- This is the version that was sent to Elecrow for fabrication
-  and assembly.
 
 ## [Rev. 2] - 2018-06-04
 
