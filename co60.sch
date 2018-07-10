@@ -1042,14 +1042,6 @@ Wire Wire Line
 	1850 3850 1570 3850
 Connection ~ 1570 3950
 Wire Wire Line
-	4465 1080 4565 1080
-Wire Wire Line
-	4915 685  5015 685 
-Wire Wire Line
-	5015 685  5015 780 
-Wire Wire Line
-	5015 1380 5015 1485
-Wire Wire Line
 	6920 2630 7140 2630
 Wire Wire Line
 	6470 2630 6470 2830
@@ -1059,4 +1051,12 @@ Wire Wire Line
 	6270 3575 7140 3575
 Wire Wire Line
 	7140 3575 7140 3030
+Wire Wire Line
+	4465 1080 4715 1080
+Wire Wire Line
+	4915 685  5015 685 
+Wire Wire Line
+	5015 685  5015 880 
+Wire Wire Line
+	5015 1280 5015 1485
 $EndSCHEMATC
