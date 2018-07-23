@@ -3,6 +3,16 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## [Rev. 4] - 2018-07-22
+
+### Added
+- Initial versions of plate files to accompany PCB.
+
+### Changed
+- Fix pin assignments on transistor used for LED backlighting.
+  Prior to this fix, backlighting did not work at all. This fix
+  should resolve that issue.
+
 ## [Rev. 3] - 2018-06-20
 
 ### Added
@@ -49,6 +59,7 @@ All notable changes to this project will be documented in this file.
 - Tag to note the first completed revision. This is the version that
   was sent to JLCPCB for initial prototyping.
 
-[Unreleased]: https://github.com/jmdaly/CO60/compare/Rev.3...HEAD
+[Unreleased]: https://github.com/jmdaly/CO60/compare/Rev.4...HEAD
+[Rev. 4]: https://github.com/jmdaly/CO60/compare/Rev.3...Rev.4
 [Rev. 3]: https://github.com/jmdaly/CO60/compare/Rev.2...Rev.3
 [Rev. 2]: https://github.com/jmdaly/CO60/compare/Rev.1...Rev.2
