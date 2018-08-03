@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/jmdaly/git/CO60/co60.sch)
-    (date "Mon 30 Jul 2018 09:06:39 PM EDT")
+    (date "Thu 02 Aug 2018 08:55:35 PM EDT")
     (tool "Eeschema 5.0.0-fee4fd1~65~ubuntu16.04.1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
