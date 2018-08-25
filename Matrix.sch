@@ -1,44 +1,6 @@
-EESchema Schematic File Version 2
-LIBS:power
-LIBS:device
-LIBS:switches
-LIBS:relays
-LIBS:motors
-LIBS:transistors
-LIBS:conn
-LIBS:linear
-LIBS:regul
-LIBS:74xx
-LIBS:cmos4000
-LIBS:adc-dac
-LIBS:memory
-LIBS:xilinx
-LIBS:microcontrollers
-LIBS:dsp
-LIBS:microchip
-LIBS:analog_switches
-LIBS:motorola
-LIBS:texas
-LIBS:intel
-LIBS:audio
-LIBS:interface
-LIBS:digital-audio
-LIBS:philips
-LIBS:display
-LIBS:cypress
-LIBS:siliconi
-LIBS:opto
-LIBS:atmel
-LIBS:contrib
-LIBS:valves
-LIBS:aker
-LIBS:atmega32u4
-LIBS:ESD_Protection
-LIBS:MX_Alps_Hybrids
-LIBS:Type-C
-LIBS:dk_Transistors-Bipolar-BJT-Single
+EESchema Schematic File Version 4
 LIBS:co60-cache
-EELAYER 25 0
+EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -53,7 +15,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L D_Small D1
+L co60-rescue:D_Small D1
 U 1 1 5AAF23E9
 P 1400 1430
 F 0 "D1" H 1350 1510 30  0000 L CNN
@@ -66,7 +28,7 @@ F 5 "1N4148WTPMSCT-ND" H 1400 1430 60  0001 C CNN "Digi-Key_PN"
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX-1U K_#1
+L MX_Alps_Hybrids:MX-1U K_#1
 U 1 1 5AAF2706
 P 2000 1100
 F 0 "K_#1" H 2000 1225 60  0000 C CNN
@@ -78,7 +40,7 @@ F 4 "dnf" H 2000 1100 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D2
+L co60-rescue:D_Small D2
 U 1 1 5AAF270C
 P 1850 1430
 F 0 "D2" H 1800 1510 30  0000 L CNN
@@ -89,7 +51,7 @@ F 3 "" V 1850 1430 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX-1U K_#2
+L MX_Alps_Hybrids:MX-1U K_#2
 U 1 1 5AAF278E
 P 2500 1100
 F 0 "K_#2" H 2500 1225 60  0000 C CNN
@@ -101,7 +63,7 @@ F 4 "dnf" H 2500 1100 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D3
+L co60-rescue:D_Small D3
 U 1 1 5AAF2794
 P 2350 1430
 F 0 "D3" H 2300 1510 30  0000 L CNN
@@ -112,7 +74,7 @@ F 3 "" V 2350 1430 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX-1U K_#3
+L MX_Alps_Hybrids:MX-1U K_#3
 U 1 1 5AAF281D
 P 2950 1100
 F 0 "K_#3" H 2950 1225 60  0000 C CNN
@@ -124,7 +86,7 @@ F 4 "dnf" H 2950 1100 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D4
+L co60-rescue:D_Small D4
 U 1 1 5AAF2823
 P 2800 1430
 F 0 "D4" H 2750 1510 50  0000 L CNN
@@ -135,7 +97,7 @@ F 3 "" V 2800 1430 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX-1U K_#4
+L MX_Alps_Hybrids:MX-1U K_#4
 U 1 1 5AAF28C7
 P 3400 1100
 F 0 "K_#4" H 3400 1225 60  0000 C CNN
@@ -147,7 +109,7 @@ F 4 "dnf" H 3400 1100 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D5
+L co60-rescue:D_Small D5
 U 1 1 5AAF28CD
 P 3250 1430
 F 0 "D5" H 3200 1510 50  0000 L CNN
@@ -158,7 +120,7 @@ F 3 "" V 3250 1430 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX-1U K_#5
+L MX_Alps_Hybrids:MX-1U K_#5
 U 1 1 5AAF2C97
 P 3850 1100
 F 0 "K_#5" H 3850 1225 60  0000 C CNN
@@ -170,7 +132,7 @@ F 4 "dnf" H 3850 1100 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D6
+L co60-rescue:D_Small D6
 U 1 1 5AAF2C9D
 P 3700 1430
 F 0 "D6" H 3650 1510 50  0000 L CNN
@@ -181,7 +143,7 @@ F 3 "" V 3700 1430 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX-1U K_#6
+L MX_Alps_Hybrids:MX-1U K_#6
 U 1 1 5AAF2DA5
 P 4300 1100
 F 0 "K_#6" H 4300 1225 60  0000 C CNN
@@ -193,7 +155,7 @@ F 4 "dnf" H 4300 1100 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D7
+L co60-rescue:D_Small D7
 U 1 1 5AAF2DAB
 P 4150 1430
 F 0 "D7" H 4100 1510 50  0000 L CNN
@@ -204,7 +166,7 @@ F 3 "" V 4150 1430 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX-1U K_#7
+L MX_Alps_Hybrids:MX-1U K_#7
 U 1 1 5AAF2F49
 P 4750 1100
 F 0 "K_#7" H 4750 1225 60  0000 C CNN
@@ -216,7 +178,7 @@ F 4 "dnf" H 4750 1100 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D8
+L co60-rescue:D_Small D8
 U 1 1 5AAF2F4F
 P 4600 1430
 F 0 "D8" H 4550 1510 50  0000 L CNN
@@ -227,7 +189,7 @@ F 3 "" V 4600 1430 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L D_Small D9
+L co60-rescue:D_Small D9
 U 1 1 5AAF3BBD
 P 5050 1430
 F 0 "D9" H 5000 1510 50  0000 L CNN
@@ -238,7 +200,7 @@ F 3 "" V 5050 1430 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX-1U K_#9
+L MX_Alps_Hybrids:MX-1U K_#9
 U 1 1 5AAF3E4F
 P 5650 1100
 F 0 "K_#9" H 5650 1225 60  0000 C CNN
@@ -250,7 +212,7 @@ F 4 "dnf" H 5650 1100 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D10
+L co60-rescue:D_Small D10
 U 1 1 5AAF3E55
 P 5500 1430
 F 0 "D10" H 5450 1510 50  0000 L CNN
@@ -261,7 +223,7 @@ F 3 "" V 5500 1430 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX-1U K_#0_1
+L MX_Alps_Hybrids:MX-1U K_#0_1
 U 1 1 5AAF3F39
 P 6100 1100
 F 0 "K_#0_1" H 6100 1225 60  0000 C CNN
@@ -273,7 +235,7 @@ F 4 "dnf" H 6100 1100 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D11
+L co60-rescue:D_Small D11
 U 1 1 5AAF3F3F
 P 5950 1430
 F 0 "D11" H 5900 1510 50  0000 L CNN
@@ -284,7 +246,7 @@ F 3 "" V 5950 1430 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX-1U K_-1
+L MX_Alps_Hybrids:MX-1U K_-1
 U 1 1 5AAF43BB
 P 6550 1100
 F 0 "K_-1" H 6550 1225 60  0000 C CNN
@@ -296,7 +258,7 @@ F 4 "dnf" H 6550 1100 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D12
+L co60-rescue:D_Small D12
 U 1 1 5AAF43C1
 P 6400 1430
 F 0 "D12" H 6350 1510 50  0000 L CNN
@@ -307,7 +269,7 @@ F 3 "" V 6400 1430 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L D_Small D13
+L co60-rescue:D_Small D13
 U 1 1 5AAF4613
 P 6850 1430
 F 0 "D13" H 6800 1510 50  0000 L CNN
@@ -318,7 +280,7 @@ F 3 "" V 6850 1430 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX-1U K_DEL1
+L MX_Alps_Hybrids:MX-1U K_DEL1
 U 1 1 5AAF474D
 P 7450 1100
 F 0 "K_DEL1" H 7450 1225 60  0000 C CNN
@@ -330,7 +292,7 @@ F 4 "dnf" H 7450 1100 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D14
+L co60-rescue:D_Small D14
 U 1 1 5AAF4753
 P 7300 1430
 F 0 "D14" H 7250 1510 50  0000 L CNN
@@ -341,7 +303,7 @@ F 3 "" V 7300 1430 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L D_Small D15
+L co60-rescue:D_Small D15
 U 1 1 5AAF4ACD
 P 7750 1430
 F 0 "D15" H 7700 1510 50  0000 L CNN
@@ -352,7 +314,7 @@ F 3 "" V 7750 1430 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX-1U K_BACK2
+L MX_Alps_Hybrids:MX-1U K_BACK2
 U 1 1 5AAF4C1B
 P 8300 1100
 F 0 "K_BACK2" H 8300 1225 60  0000 C CNN
@@ -364,7 +326,7 @@ F 4 "dnf" H 8300 1100 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L R_Small R1
+L co60-rescue:R_Small R1
 U 1 1 5AAF6330
 P 1655 1345
 F 0 "R1" H 1685 1365 30  0000 L CNN
@@ -377,7 +339,7 @@ F 5 "MCT0603-560-CFCT-ND" H 1655 1345 60  0001 C CNN "Digi-Key_PN"
 	1    0    0    -1  
 $EndComp
 $Comp
-L R_Small R2
+L co60-rescue:R_Small R2
 U 1 1 5AAF744F
 P 2110 1345
 F 0 "R2" H 2140 1365 50  0000 L CNN
@@ -388,7 +350,7 @@ F 3 "" H 2110 1345 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L R_Small R3
+L co60-rescue:R_Small R3
 U 1 1 5AAF74DC
 P 2605 1345
 F 0 "R3" H 2635 1365 50  0000 L CNN
@@ -399,7 +361,7 @@ F 3 "" H 2605 1345 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L R_Small R4
+L co60-rescue:R_Small R4
 U 1 1 5AAF7564
 P 3060 1345
 F 0 "R4" H 3090 1365 50  0000 L CNN
@@ -410,7 +372,7 @@ F 3 "" H 3060 1345 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L R_Small R5
+L co60-rescue:R_Small R5
 U 1 1 5AAF75EB
 P 3510 1345
 F 0 "R5" H 3540 1365 50  0000 L CNN
@@ -421,7 +383,7 @@ F 3 "" H 3510 1345 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L R_Small R6
+L co60-rescue:R_Small R6
 U 1 1 5AAF7675
 P 3955 1345
 F 0 "R6" H 3985 1365 50  0000 L CNN
@@ -432,7 +394,7 @@ F 3 "" H 3955 1345 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L R_Small R7
+L co60-rescue:R_Small R7
 U 1 1 5AAF80D6
 P 4405 1345
 F 0 "R7" H 4435 1365 50  0000 L CNN
@@ -443,7 +405,7 @@ F 3 "" H 4405 1345 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L R_Small R8
+L co60-rescue:R_Small R8
 U 1 1 5AAF8166
 P 4855 1345
 F 0 "R8" H 4885 1365 50  0000 L CNN
@@ -454,7 +416,7 @@ F 3 "" H 4855 1345 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L R_Small R9
+L co60-rescue:R_Small R9
 U 1 1 5AAF81FD
 P 5305 1345
 F 0 "R9" H 5335 1365 50  0000 L CNN
@@ -465,7 +427,7 @@ F 3 "" H 5305 1345 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L R_Small R10
+L co60-rescue:R_Small R10
 U 1 1 5AAF8293
 P 5755 1345
 F 0 "R10" H 5785 1365 50  0000 L CNN
@@ -476,7 +438,7 @@ F 3 "" H 5755 1345 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L R_Small R11
+L co60-rescue:R_Small R11
 U 1 1 5AAF832C
 P 6205 1345
 F 0 "R11" H 6235 1365 50  0000 L CNN
@@ -487,7 +449,7 @@ F 3 "" H 6205 1345 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L R_Small R12
+L co60-rescue:R_Small R12
 U 1 1 5AAF8BFC
 P 6655 1345
 F 0 "R12" H 6685 1365 50  0000 L CNN
@@ -498,7 +460,7 @@ F 3 "" H 6655 1345 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L R_Small R13
+L co60-rescue:R_Small R13
 U 1 1 5AAF8C9D
 P 7105 1345
 F 0 "R13" H 7135 1365 50  0000 L CNN
@@ -509,7 +471,7 @@ F 3 "" H 7105 1345 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L R_Small R14
+L co60-rescue:R_Small R14
 U 1 1 5AAF8D43
 P 7555 1345
 F 0 "R14" H 7585 1365 50  0000 L CNN
@@ -520,7 +482,7 @@ F 3 "" H 7555 1345 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L R_Small R15
+L co60-rescue:R_Small R15
 U 1 1 5AAF8DE8
 P 8010 1445
 F 0 "R15" H 8040 1465 50  0000 L CNN
@@ -531,7 +493,7 @@ F 3 "" H 8010 1445 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D16
+L co60-rescue:D_Small D16
 U 1 1 5AAFC266
 P 1400 2130
 F 0 "D16" H 1350 2210 50  0000 L CNN
@@ -542,7 +504,7 @@ F 3 "" V 1400 2130 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L R_Small R16
+L co60-rescue:R_Small R16
 U 1 1 5AAFC31E
 P 1655 2045
 F 0 "R16" H 1685 2065 50  0000 L CNN
@@ -553,7 +515,7 @@ F 3 "" H 1655 2045 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-1U K_Q1
+L MX_Alps_Hybrids:MX-1U K_Q1
 U 1 1 5AAFCD11
 P 2500 1800
 F 0 "K_Q1" H 2500 1925 60  0000 C CNN
@@ -565,7 +527,7 @@ F 4 "dnf" H 2500 1800 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D17
+L co60-rescue:D_Small D17
 U 1 1 5AAFCD17
 P 2350 2130
 F 0 "D17" H 2300 2210 50  0000 L CNN
@@ -576,7 +538,7 @@ F 3 "" V 2350 2130 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L R_Small R17
+L co60-rescue:R_Small R17
 U 1 1 5AAFCD1F
 P 2605 2045
 F 0 "R17" H 2635 2065 50  0000 L CNN
@@ -587,7 +549,7 @@ F 3 "" H 2605 2045 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D18
+L co60-rescue:D_Small D18
 U 1 1 5AAFD1BF
 P 2800 2130
 F 0 "D18" H 2750 2210 50  0000 L CNN
@@ -598,7 +560,7 @@ F 3 "" V 2800 2130 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L R_Small R18
+L co60-rescue:R_Small R18
 U 1 1 5AAFD1C7
 P 3055 2045
 F 0 "R18" H 3085 2065 50  0000 L CNN
@@ -609,7 +571,7 @@ F 3 "" H 3055 2045 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-1U K_E1
+L MX_Alps_Hybrids:MX-1U K_E1
 U 1 1 5AAFD541
 P 3400 1800
 F 0 "K_E1" H 3400 1925 60  0000 C CNN
@@ -621,7 +583,7 @@ F 4 "dnf" H 3400 1800 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D19
+L co60-rescue:D_Small D19
 U 1 1 5AAFD547
 P 3250 2130
 F 0 "D19" H 3200 2210 50  0000 L CNN
@@ -632,7 +594,7 @@ F 3 "" V 3250 2130 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L R_Small R19
+L co60-rescue:R_Small R19
 U 1 1 5AAFD54F
 P 3505 2045
 F 0 "R19" H 3535 2065 50  0000 L CNN
@@ -643,7 +605,7 @@ F 3 "" H 3505 2045 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-1U K_R1
+L MX_Alps_Hybrids:MX-1U K_R1
 U 1 1 5AAFD7F9
 P 3850 1800
 F 0 "K_R1" H 3850 1925 60  0000 C CNN
@@ -655,7 +617,7 @@ F 4 "dnf" H 3850 1800 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D20
+L co60-rescue:D_Small D20
 U 1 1 5AAFD7FF
 P 3700 2130
 F 0 "D20" H 3650 2210 50  0000 L CNN
@@ -666,7 +628,7 @@ F 3 "" V 3700 2130 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L R_Small R20
+L co60-rescue:R_Small R20
 U 1 1 5AAFD807
 P 3955 2045
 F 0 "R20" H 3985 2065 50  0000 L CNN
@@ -677,7 +639,7 @@ F 3 "" H 3955 2045 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-1U K_T1
+L MX_Alps_Hybrids:MX-1U K_T1
 U 1 1 5AAFDBC5
 P 4300 1800
 F 0 "K_T1" H 4300 1925 60  0000 C CNN
@@ -689,7 +651,7 @@ F 4 "dnf" H 4300 1800 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D21
+L co60-rescue:D_Small D21
 U 1 1 5AAFDBCB
 P 4150 2130
 F 0 "D21" H 4100 2210 50  0000 L CNN
@@ -700,7 +662,7 @@ F 3 "" V 4150 2130 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L R_Small R21
+L co60-rescue:R_Small R21
 U 1 1 5AAFDBD3
 P 4405 2045
 F 0 "R21" H 4435 2065 50  0000 L CNN
@@ -711,7 +673,7 @@ F 3 "" H 4405 2045 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-1U K_Y1
+L MX_Alps_Hybrids:MX-1U K_Y1
 U 1 1 5AAFE0F9
 P 4750 1800
 F 0 "K_Y1" H 4750 1925 60  0000 C CNN
@@ -723,7 +685,7 @@ F 4 "dnf" H 4750 1800 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D22
+L co60-rescue:D_Small D22
 U 1 1 5AAFE0FF
 P 4600 2130
 F 0 "D22" H 4550 2210 50  0000 L CNN
@@ -734,7 +696,7 @@ F 3 "" V 4600 2130 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L R_Small R22
+L co60-rescue:R_Small R22
 U 1 1 5AAFE107
 P 4855 2045
 F 0 "R22" H 4885 2065 50  0000 L CNN
@@ -745,7 +707,7 @@ F 3 "" H 4855 2045 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-1U K_U1
+L MX_Alps_Hybrids:MX-1U K_U1
 U 1 1 5AAFE73B
 P 5200 1800
 F 0 "K_U1" H 5200 1925 60  0000 C CNN
@@ -757,7 +719,7 @@ F 4 "dnf" H 5200 1800 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D23
+L co60-rescue:D_Small D23
 U 1 1 5AAFE741
 P 5050 2130
 F 0 "D23" H 5000 2210 50  0000 L CNN
@@ -768,7 +730,7 @@ F 3 "" V 5050 2130 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L R_Small R23
+L co60-rescue:R_Small R23
 U 1 1 5AAFE749
 P 5305 2045
 F 0 "R23" H 5335 2065 50  0000 L CNN
@@ -779,7 +741,7 @@ F 3 "" H 5305 2045 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-1U K_I1
+L MX_Alps_Hybrids:MX-1U K_I1
 U 1 1 5AAFEF24
 P 5650 1800
 F 0 "K_I1" H 5650 1925 60  0000 C CNN
@@ -791,7 +753,7 @@ F 4 "dnf" H 5650 1800 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D24
+L co60-rescue:D_Small D24
 U 1 1 5AAFEF2A
 P 5500 2130
 F 0 "D24" H 5450 2210 50  0000 L CNN
@@ -802,7 +764,7 @@ F 3 "" V 5500 2130 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L R_Small R24
+L co60-rescue:R_Small R24
 U 1 1 5AAFEF32
 P 5755 2045
 F 0 "R24" H 5785 2065 50  0000 L CNN
@@ -813,7 +775,7 @@ F 3 "" H 5755 2045 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-1U K_O1
+L MX_Alps_Hybrids:MX-1U K_O1
 U 1 1 5AB00637
 P 6100 1800
 F 0 "K_O1" H 6100 1925 60  0000 C CNN
@@ -825,7 +787,7 @@ F 4 "dnf" H 6100 1800 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D25
+L co60-rescue:D_Small D25
 U 1 1 5AB0063D
 P 5950 2130
 F 0 "D25" H 5900 2210 50  0000 L CNN
@@ -836,7 +798,7 @@ F 3 "" V 5950 2130 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L R_Small R25
+L co60-rescue:R_Small R25
 U 1 1 5AB00645
 P 6205 2045
 F 0 "R25" H 6235 2065 50  0000 L CNN
@@ -847,7 +809,7 @@ F 3 "" H 6205 2045 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-1U K_P1
+L MX_Alps_Hybrids:MX-1U K_P1
 U 1 1 5AB00D31
 P 6550 1800
 F 0 "K_P1" H 6550 1925 60  0000 C CNN
@@ -859,7 +821,7 @@ F 4 "dnf" H 6550 1800 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D26
+L co60-rescue:D_Small D26
 U 1 1 5AB00D37
 P 6400 2130
 F 0 "D26" H 6350 2210 50  0000 L CNN
@@ -870,7 +832,7 @@ F 3 "" V 6400 2130 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L R_Small R26
+L co60-rescue:R_Small R26
 U 1 1 5AB00D3F
 P 6655 2045
 F 0 "R26" H 6685 2065 50  0000 L CNN
@@ -881,7 +843,7 @@ F 3 "" H 6655 2045 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-1U K_[1
+L MX_Alps_Hybrids:MX-1U K_[1
 U 1 1 5AB0111C
 P 7000 1800
 F 0 "K_[1" H 7000 1925 60  0000 C CNN
@@ -893,7 +855,7 @@ F 4 "dnf" H 7000 1800 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D27
+L co60-rescue:D_Small D27
 U 1 1 5AB01122
 P 6850 2130
 F 0 "D27" H 6800 2210 50  0000 L CNN
@@ -904,7 +866,7 @@ F 3 "" V 6850 2130 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L R_Small R27
+L co60-rescue:R_Small R27
 U 1 1 5AB0112A
 P 7105 2045
 F 0 "R27" H 7135 2065 50  0000 L CNN
@@ -915,7 +877,7 @@ F 3 "" H 7105 2045 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-1U K_]1
+L MX_Alps_Hybrids:MX-1U K_]1
 U 1 1 5AB014CA
 P 7450 1800
 F 0 "K_]1" H 7450 1925 60  0000 C CNN
@@ -927,7 +889,7 @@ F 4 "dnf" H 7450 1800 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D28
+L co60-rescue:D_Small D28
 U 1 1 5AB014D0
 P 7300 2130
 F 0 "D28" H 7250 2210 50  0000 L CNN
@@ -938,7 +900,7 @@ F 3 "" V 7300 2130 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L R_Small R28
+L co60-rescue:R_Small R28
 U 1 1 5AB014D8
 P 7555 2045
 F 0 "R28" H 7585 2065 50  0000 L CNN
@@ -949,7 +911,7 @@ F 3 "" H 7555 2045 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-1.5U K_\1
+L MX_Alps_Hybrids:MX-1.5U K_\1
 U 1 1 5AB018F1
 P 7900 1800
 F 0 "K_\\1" H 7900 1925 60  0000 C CNN
@@ -961,7 +923,7 @@ F 4 "dnf" H 7900 1800 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D29
+L co60-rescue:D_Small D29
 U 1 1 5AB018F7
 P 7750 2130
 F 0 "D29" H 7700 2210 50  0000 L CNN
@@ -972,7 +934,7 @@ F 3 "" V 7750 2130 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L R_Small R29
+L co60-rescue:R_Small R29
 U 1 1 5AB018FF
 P 8005 2045
 F 0 "R29" H 8035 2065 50  0000 L CNN
@@ -983,7 +945,7 @@ F 3 "" H 8005 2045 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-1.75U K_CAPS1
+L MX_Alps_Hybrids:MX-1.75U K_CAPS1
 U 1 1 5AB04991
 P 1550 2500
 F 0 "K_CAPS1" H 1550 2625 60  0000 C CNN
@@ -995,7 +957,7 @@ F 4 "dnf" H 1550 2500 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-1.25U K_CAPS2
+L MX_Alps_Hybrids:MX-1.25U K_CAPS2
 U 1 1 5AB04BCE
 P 1100 2500
 F 0 "K_CAPS2" H 1100 2625 60  0000 C CNN
@@ -1007,7 +969,7 @@ F 4 "dnf" H 1100 2500 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D30
+L co60-rescue:D_Small D30
 U 1 1 5AB07529
 P 1400 2830
 F 0 "D30" H 1350 2910 50  0000 L CNN
@@ -1018,7 +980,7 @@ F 3 "" V 1400 2830 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L R_Small R30
+L co60-rescue:R_Small R30
 U 1 1 5AB07666
 P 1655 2745
 F 0 "R30" H 1685 2765 50  0000 L CNN
@@ -1029,7 +991,7 @@ F 3 "" H 1655 2745 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-1U K_A1
+L MX_Alps_Hybrids:MX-1U K_A1
 U 1 1 5AB0CC08
 P 2500 2500
 F 0 "K_A1" H 2500 2625 60  0000 C CNN
@@ -1041,7 +1003,7 @@ F 4 "dnf" H 2500 2500 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D31
+L co60-rescue:D_Small D31
 U 1 1 5AB0CC0E
 P 2350 2830
 F 0 "D31" H 2300 2910 50  0000 L CNN
@@ -1052,7 +1014,7 @@ F 3 "" V 2350 2830 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L R_Small R31
+L co60-rescue:R_Small R31
 U 1 1 5AB0CC16
 P 2605 2745
 F 0 "R31" H 2635 2765 50  0000 L CNN
@@ -1063,7 +1025,7 @@ F 3 "" H 2605 2745 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-1U K_S1
+L MX_Alps_Hybrids:MX-1U K_S1
 U 1 1 5AB0D2E2
 P 2950 2500
 F 0 "K_S1" H 2950 2625 60  0000 C CNN
@@ -1075,7 +1037,7 @@ F 4 "dnf" H 2950 2500 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D32
+L co60-rescue:D_Small D32
 U 1 1 5AB0D2E8
 P 2800 2830
 F 0 "D32" H 2750 2910 50  0000 L CNN
@@ -1086,7 +1048,7 @@ F 3 "" V 2800 2830 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L R_Small R32
+L co60-rescue:R_Small R32
 U 1 1 5AB0D2F0
 P 3055 2745
 F 0 "R32" H 3085 2765 50  0000 L CNN
@@ -1097,7 +1059,7 @@ F 3 "" H 3055 2745 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-1U K_D1
+L MX_Alps_Hybrids:MX-1U K_D1
 U 1 1 5AB0D742
 P 3400 2500
 F 0 "K_D1" H 3400 2625 60  0000 C CNN
@@ -1109,7 +1071,7 @@ F 4 "dnf" H 3400 2500 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D33
+L co60-rescue:D_Small D33
 U 1 1 5AB0D748
 P 3250 2830
 F 0 "D33" H 3200 2910 50  0000 L CNN
@@ -1120,7 +1082,7 @@ F 3 "" V 3250 2830 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L R_Small R33
+L co60-rescue:R_Small R33
 U 1 1 5AB0D750
 P 3505 2740
 F 0 "R33" H 3535 2760 50  0000 L CNN
@@ -1131,7 +1093,7 @@ F 3 "" H 3505 2740 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-1U K_F1
+L MX_Alps_Hybrids:MX-1U K_F1
 U 1 1 5AB0DBB4
 P 3850 2500
 F 0 "K_F1" H 3850 2625 60  0000 C CNN
@@ -1143,7 +1105,7 @@ F 4 "dnf" H 3850 2500 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D34
+L co60-rescue:D_Small D34
 U 1 1 5AB0DBBA
 P 3700 2830
 F 0 "D34" H 3650 2910 50  0000 L CNN
@@ -1154,7 +1116,7 @@ F 3 "" V 3700 2830 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L R_Small R34
+L co60-rescue:R_Small R34
 U 1 1 5AB0DBC2
 P 3955 2740
 F 0 "R34" H 3985 2760 50  0000 L CNN
@@ -1165,7 +1127,7 @@ F 3 "" H 3955 2740 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-1U K_G1
+L MX_Alps_Hybrids:MX-1U K_G1
 U 1 1 5AB0E173
 P 4300 2500
 F 0 "K_G1" H 4300 2625 60  0000 C CNN
@@ -1177,7 +1139,7 @@ F 4 "dnf" H 4300 2500 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D35
+L co60-rescue:D_Small D35
 U 1 1 5AB0E179
 P 4150 2830
 F 0 "D35" H 4100 2910 50  0000 L CNN
@@ -1188,7 +1150,7 @@ F 3 "" V 4150 2830 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L R_Small R35
+L co60-rescue:R_Small R35
 U 1 1 5AB0E181
 P 4405 2740
 F 0 "R35" H 4435 2760 50  0000 L CNN
@@ -1199,7 +1161,7 @@ F 3 "" H 4405 2740 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-1U K_H1
+L MX_Alps_Hybrids:MX-1U K_H1
 U 1 1 5AB0E8A3
 P 4750 2500
 F 0 "K_H1" H 4750 2625 60  0000 C CNN
@@ -1211,7 +1173,7 @@ F 4 "dnf" H 4750 2500 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D36
+L co60-rescue:D_Small D36
 U 1 1 5AB0E8A9
 P 4600 2830
 F 0 "D36" H 4550 2910 50  0000 L CNN
@@ -1222,7 +1184,7 @@ F 3 "" V 4600 2830 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L R_Small R36
+L co60-rescue:R_Small R36
 U 1 1 5AB0E8B1
 P 4855 2740
 F 0 "R36" H 4885 2760 50  0000 L CNN
@@ -1233,7 +1195,7 @@ F 3 "" H 4855 2740 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-1U K_J1
+L MX_Alps_Hybrids:MX-1U K_J1
 U 1 1 5AB0ED63
 P 5200 2500
 F 0 "K_J1" H 5200 2625 60  0000 C CNN
@@ -1245,7 +1207,7 @@ F 4 "dnf" H 5200 2500 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D37
+L co60-rescue:D_Small D37
 U 1 1 5AB0ED69
 P 5050 2830
 F 0 "D37" H 5000 2910 50  0000 L CNN
@@ -1256,7 +1218,7 @@ F 3 "" V 5050 2830 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L R_Small R37
+L co60-rescue:R_Small R37
 U 1 1 5AB0ED71
 P 5305 2740
 F 0 "R37" H 5335 2760 50  0000 L CNN
@@ -1267,7 +1229,7 @@ F 3 "" H 5305 2740 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D38
+L co60-rescue:D_Small D38
 U 1 1 5AB1125B
 P 5500 2830
 F 0 "D38" H 5450 2910 50  0000 L CNN
@@ -1278,7 +1240,7 @@ F 3 "" V 5500 2830 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L R_Small R38
+L co60-rescue:R_Small R38
 U 1 1 5AB11263
 P 5755 2740
 F 0 "R38" H 5785 2760 50  0000 L CNN
@@ -1289,7 +1251,7 @@ F 3 "" H 5755 2740 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-1U K_L1
+L MX_Alps_Hybrids:MX-1U K_L1
 U 1 1 5AB11751
 P 6100 2500
 F 0 "K_L1" H 6100 2625 60  0000 C CNN
@@ -1301,7 +1263,7 @@ F 4 "dnf" H 6100 2500 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D39
+L co60-rescue:D_Small D39
 U 1 1 5AB11757
 P 5950 2830
 F 0 "D39" H 5900 2910 50  0000 L CNN
@@ -1312,7 +1274,7 @@ F 3 "" V 5950 2830 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L R_Small R39
+L co60-rescue:R_Small R39
 U 1 1 5AB1175F
 P 6205 2740
 F 0 "R39" H 6235 2760 50  0000 L CNN
@@ -1323,7 +1285,7 @@ F 3 "" H 6205 2740 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-1U K_;1
+L MX_Alps_Hybrids:MX-1U K_;1
 U 1 1 5AB11F3F
 P 6550 2500
 F 0 "K_;1" H 6550 2625 60  0000 C CNN
@@ -1335,7 +1297,7 @@ F 4 "dnf" H 6550 2500 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D40
+L co60-rescue:D_Small D40
 U 1 1 5AB11F45
 P 6400 2830
 F 0 "D40" H 6350 2910 50  0000 L CNN
@@ -1346,7 +1308,7 @@ F 3 "" V 6400 2830 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L R_Small R40
+L co60-rescue:R_Small R40
 U 1 1 5AB11F4D
 P 6655 2740
 F 0 "R40" H 6685 2760 50  0000 L CNN
@@ -1357,7 +1319,7 @@ F 3 "" H 6655 2740 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D41
+L co60-rescue:D_Small D41
 U 1 1 5AB1247D
 P 6850 2830
 F 0 "D41" H 6800 2910 50  0000 L CNN
@@ -1368,7 +1330,7 @@ F 3 "" V 6850 2830 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L R_Small R41
+L co60-rescue:R_Small R41
 U 1 1 5AB12485
 P 7105 2740
 F 0 "R41" H 7135 2760 50  0000 L CNN
@@ -1379,7 +1341,7 @@ F 3 "" H 7105 2740 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-1U K_ISO#1
+L MX_Alps_Hybrids:MX-1U K_ISO#1
 U 1 1 5AB12BCD
 P 7450 2500
 F 0 "K_ISO#1" H 7450 2625 60  0000 C CNN
@@ -1391,7 +1353,7 @@ F 4 "dnf" H 7450 2500 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D42
+L co60-rescue:D_Small D42
 U 1 1 5AB12BD3
 P 7300 2830
 F 0 "D42" H 7250 2910 50  0000 L CNN
@@ -1402,7 +1364,7 @@ F 3 "" V 7300 2830 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L R_Small R42
+L co60-rescue:R_Small R42
 U 1 1 5AB12BDB
 P 7555 2740
 F 0 "R42" H 7585 2760 50  0000 L CNN
@@ -1413,7 +1375,7 @@ F 3 "" H 7555 2740 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-2.25U K_ENTER1
+L MX_Alps_Hybrids:MX-2.25U K_ENTER1
 U 1 1 5AB13207
 P 7900 2500
 F 0 "K_ENTER1" H 7900 2625 60  0000 C CNN
@@ -1425,7 +1387,7 @@ F 4 "dnf" H 7900 2500 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L R_Small R43
+L co60-rescue:R_Small R43
 U 1 1 5AB1354A
 P 8005 2695
 F 0 "R43" H 8035 2715 50  0000 L CNN
@@ -1436,7 +1398,7 @@ F 3 "" H 8005 2695 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D43
+L co60-rescue:D_Small D43
 U 1 1 5AB136F2
 P 7750 2830
 F 0 "D43" H 7700 2910 50  0000 L CNN
@@ -1447,7 +1409,7 @@ F 3 "" V 7750 2830 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX-1.25U K_LSHIFT2
+L MX_Alps_Hybrids:MX-1.25U K_LSHIFT2
 U 1 1 5AB1D454
 P 1100 3150
 F 0 "K_LSHIFT2" H 1100 3275 60  0000 C CNN
@@ -1459,7 +1421,7 @@ F 4 "dnf" H 1100 3150 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-1U K_ISO\1
+L MX_Alps_Hybrids:MX-1U K_ISO\1
 U 1 1 5AB1DACD
 P 2050 3150
 F 0 "K_ISO\\1" H 2050 3275 60  0000 C CNN
@@ -1471,7 +1433,7 @@ F 4 "dnf" H 2050 3150 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D45
+L co60-rescue:D_Small D45
 U 1 1 5AB1DAD3
 P 1900 3465
 F 0 "D45" H 1850 3545 50  0000 L CNN
@@ -1482,7 +1444,7 @@ F 3 "" V 1900 3465 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L R_Small R45
+L co60-rescue:R_Small R45
 U 1 1 5AB1DADB
 P 2155 3400
 F 0 "R45" H 2185 3420 50  0000 L CNN
@@ -1493,7 +1455,7 @@ F 3 "" H 2155 3400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L R_Small R44
+L co60-rescue:R_Small R44
 U 1 1 5AB1DD9A
 P 1655 3400
 F 0 "R44" H 1685 3420 50  0000 L CNN
@@ -1504,7 +1466,7 @@ F 3 "" H 1655 3400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D44
+L co60-rescue:D_Small D44
 U 1 1 5AB1DF6A
 P 1400 3465
 F 0 "D44" H 1350 3545 50  0000 L CNN
@@ -1515,7 +1477,7 @@ F 3 "" V 1400 3465 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX-1U K_Z1
+L MX_Alps_Hybrids:MX-1U K_Z1
 U 1 1 5AB20DAA
 P 2500 3150
 F 0 "K_Z1" H 2500 3275 60  0000 C CNN
@@ -1527,7 +1489,7 @@ F 4 "dnf" H 2500 3150 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D46
+L co60-rescue:D_Small D46
 U 1 1 5AB20DB0
 P 2350 3480
 F 0 "D46" H 2300 3560 50  0000 L CNN
@@ -1538,7 +1500,7 @@ F 3 "" V 2350 3480 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L R_Small R46
+L co60-rescue:R_Small R46
 U 1 1 5AB20DB8
 P 2605 3400
 F 0 "R46" H 2635 3420 50  0000 L CNN
@@ -1549,7 +1511,7 @@ F 3 "" H 2605 3400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-1U K_X1
+L MX_Alps_Hybrids:MX-1U K_X1
 U 1 1 5AB21444
 P 2950 3150
 F 0 "K_X1" H 2950 3275 60  0000 C CNN
@@ -1561,7 +1523,7 @@ F 4 "dnf" H 2950 3150 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D47
+L co60-rescue:D_Small D47
 U 1 1 5AB2144A
 P 2800 3480
 F 0 "D47" H 2750 3560 50  0000 L CNN
@@ -1572,7 +1534,7 @@ F 3 "" V 2800 3480 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L R_Small R47
+L co60-rescue:R_Small R47
 U 1 1 5AB21452
 P 3055 3400
 F 0 "R47" H 3085 3420 50  0000 L CNN
@@ -1583,7 +1545,7 @@ F 3 "" H 3055 3400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-1U K_C1
+L MX_Alps_Hybrids:MX-1U K_C1
 U 1 1 5AB22E35
 P 3400 3150
 F 0 "K_C1" H 3400 3275 60  0000 C CNN
@@ -1595,7 +1557,7 @@ F 4 "dnf" H 3400 3150 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D48
+L co60-rescue:D_Small D48
 U 1 1 5AB22E3B
 P 3250 3480
 F 0 "D48" H 3200 3560 50  0000 L CNN
@@ -1606,7 +1568,7 @@ F 3 "" V 3250 3480 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L R_Small R48
+L co60-rescue:R_Small R48
 U 1 1 5AB22E43
 P 3505 3400
 F 0 "R48" H 3535 3420 50  0000 L CNN
@@ -1617,7 +1579,7 @@ F 3 "" H 3505 3400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-1U K_V1
+L MX_Alps_Hybrids:MX-1U K_V1
 U 1 1 5AB23471
 P 3850 3150
 F 0 "K_V1" H 3850 3275 60  0000 C CNN
@@ -1629,7 +1591,7 @@ F 4 "dnf" H 3850 3150 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D49
+L co60-rescue:D_Small D49
 U 1 1 5AB23477
 P 3700 3480
 F 0 "D49" H 3650 3560 50  0000 L CNN
@@ -1640,7 +1602,7 @@ F 3 "" V 3700 3480 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L R_Small R49
+L co60-rescue:R_Small R49
 U 1 1 5AB2347F
 P 3955 3400
 F 0 "R49" H 3985 3420 50  0000 L CNN
@@ -1651,7 +1613,7 @@ F 3 "" H 3955 3400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-1U K_B1
+L MX_Alps_Hybrids:MX-1U K_B1
 U 1 1 5AB2613A
 P 4300 3150
 F 0 "K_B1" H 4300 3275 60  0000 C CNN
@@ -1663,7 +1625,7 @@ F 4 "dnf" H 4300 3150 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D50
+L co60-rescue:D_Small D50
 U 1 1 5AB26140
 P 4150 3480
 F 0 "D50" H 4100 3560 50  0000 L CNN
@@ -1674,7 +1636,7 @@ F 3 "" V 4150 3480 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L R_Small R50
+L co60-rescue:R_Small R50
 U 1 1 5AB26148
 P 4405 3400
 F 0 "R50" H 4435 3420 50  0000 L CNN
@@ -1685,7 +1647,7 @@ F 3 "" H 4405 3400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-1U K_N1
+L MX_Alps_Hybrids:MX-1U K_N1
 U 1 1 5AB268ED
 P 4750 3150
 F 0 "K_N1" H 4750 3275 60  0000 C CNN
@@ -1697,7 +1659,7 @@ F 4 "dnf" H 4750 3150 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D51
+L co60-rescue:D_Small D51
 U 1 1 5AB268F3
 P 4600 3480
 F 0 "D51" H 4550 3560 50  0000 L CNN
@@ -1708,7 +1670,7 @@ F 3 "" V 4600 3480 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L R_Small R51
+L co60-rescue:R_Small R51
 U 1 1 5AB268FB
 P 4855 3400
 F 0 "R51" H 4885 3420 50  0000 L CNN
@@ -1719,7 +1681,7 @@ F 3 "" H 4855 3400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D52
+L co60-rescue:D_Small D52
 U 1 1 5AB273E3
 P 5050 3480
 F 0 "D52" H 5000 3560 50  0000 L CNN
@@ -1730,7 +1692,7 @@ F 3 "" V 5050 3480 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L R_Small R52
+L co60-rescue:R_Small R52
 U 1 1 5AB273EB
 P 5305 3400
 F 0 "R52" H 5335 3420 50  0000 L CNN
@@ -1741,7 +1703,7 @@ F 3 "" H 5305 3400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-1U K_,1
+L MX_Alps_Hybrids:MX-1U K_,1
 U 1 1 5AB27BDD
 P 5650 3150
 F 0 "K_,1" H 5650 3275 60  0000 C CNN
@@ -1753,7 +1715,7 @@ F 4 "dnf" H 5650 3150 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D53
+L co60-rescue:D_Small D53
 U 1 1 5AB27BE3
 P 5500 3480
 F 0 "D53" H 5450 3560 50  0000 L CNN
@@ -1764,7 +1726,7 @@ F 3 "" V 5500 3480 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L R_Small R53
+L co60-rescue:R_Small R53
 U 1 1 5AB27BEB
 P 5755 3400
 F 0 "R53" H 5785 3420 50  0000 L CNN
@@ -1775,7 +1737,7 @@ F 3 "" H 5755 3400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-1U K_.1
+L MX_Alps_Hybrids:MX-1U K_.1
 U 1 1 5AB29C33
 P 6100 3150
 F 0 "K_.1" H 6100 3275 60  0000 C CNN
@@ -1787,7 +1749,7 @@ F 4 "dnf" H 6100 3150 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D54
+L co60-rescue:D_Small D54
 U 1 1 5AB29C39
 P 5950 3480
 F 0 "D54" H 5900 3560 50  0000 L CNN
@@ -1798,7 +1760,7 @@ F 3 "" V 5950 3480 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L R_Small R54
+L co60-rescue:R_Small R54
 U 1 1 5AB29C41
 P 6205 3400
 F 0 "R54" H 6235 3420 50  0000 L CNN
@@ -1809,7 +1771,7 @@ F 3 "" H 6205 3400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-1U K_/1
+L MX_Alps_Hybrids:MX-1U K_/1
 U 1 1 5AB2AC8B
 P 6550 3150
 F 0 "K_/1" H 6550 3275 60  0000 C CNN
@@ -1821,7 +1783,7 @@ F 4 "dnf" H 6550 3150 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D55
+L co60-rescue:D_Small D55
 U 1 1 5AB2AC91
 P 6400 3480
 F 0 "D55" H 6350 3560 50  0000 L CNN
@@ -1832,7 +1794,7 @@ F 3 "" V 6400 3480 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L R_Small R55
+L co60-rescue:R_Small R55
 U 1 1 5AB2AC99
 P 6655 3400
 F 0 "R55" H 6685 3420 50  0000 L CNN
@@ -1843,7 +1805,7 @@ F 3 "" H 6655 3400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L R_Small R56
+L co60-rescue:R_Small R56
 U 1 1 5AB2B829
 P 7555 3400
 F 0 "R56" H 7585 3420 50  0000 L CNN
@@ -1854,7 +1816,7 @@ F 3 "" H 7555 3400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D56
+L co60-rescue:D_Small D56
 U 1 1 5AB2BA52
 P 7300 3480
 F 0 "D56" H 7250 3560 50  0000 L CNN
@@ -1865,7 +1827,7 @@ F 3 "" V 7300 3480 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX-1U K_FN1
+L MX_Alps_Hybrids:MX-1U K_FN1
 U 1 1 5AB33FE3
 P 7900 3150
 F 0 "K_FN1" H 7900 3275 60  0000 C CNN
@@ -1877,7 +1839,7 @@ F 4 "dnf" H 7900 3150 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-1.75U K_RSHIFT2
+L MX_Alps_Hybrids:MX-1.75U K_RSHIFT2
 U 1 1 5AB3712B
 P 6965 3150
 F 0 "K_RSHIFT2" H 6965 3275 60  0000 C CNN
@@ -1889,7 +1851,7 @@ F 4 "dnf" H 6965 3150 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-1.25U K_LCTL1
+L MX_Alps_Hybrids:MX-1.25U K_LCTL1
 U 1 1 5AB49885
 P 1550 3800
 F 0 "K_LCTL1" H 1550 3925 60  0000 C CNN
@@ -1901,7 +1863,7 @@ F 4 "dnf" H 1550 3800 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D58
+L co60-rescue:D_Small D58
 U 1 1 5AB4B503
 P 1400 4130
 F 0 "D58" H 1350 4210 50  0000 L CNN
@@ -1912,7 +1874,7 @@ F 3 "" V 1400 4130 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L R_Small R58
+L co60-rescue:R_Small R58
 U 1 1 5AB4B73C
 P 1655 4050
 F 0 "R58" H 1685 4070 50  0000 L CNN
@@ -1923,7 +1885,7 @@ F 3 "" H 1655 4050 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-1.25U K_LGUI1
+L MX_Alps_Hybrids:MX-1.25U K_LGUI1
 U 1 1 5AB5B631
 P 2050 3800
 F 0 "K_LGUI1" H 2050 3925 60  0000 C CNN
@@ -1935,7 +1897,7 @@ F 4 "dnf" H 2050 3800 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D59
+L co60-rescue:D_Small D59
 U 1 1 5AB5B637
 P 1900 4130
 F 0 "D59" H 1850 4210 50  0000 L CNN
@@ -1946,7 +1908,7 @@ F 3 "" V 1900 4130 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L R_Small R59
+L co60-rescue:R_Small R59
 U 1 1 5AB5B63D
 P 2155 4050
 F 0 "R59" H 2185 4070 50  0000 L CNN
@@ -1957,7 +1919,7 @@ F 3 "" H 2155 4050 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-1.25U K_LALT1
+L MX_Alps_Hybrids:MX-1.25U K_LALT1
 U 1 1 5AB5BF0F
 P 2500 3800
 F 0 "K_LALT1" H 2500 3925 60  0000 C CNN
@@ -1969,7 +1931,7 @@ F 4 "dnf" H 2500 3800 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D60
+L co60-rescue:D_Small D60
 U 1 1 5AB5BF15
 P 2350 4130
 F 0 "D60" H 2300 4210 50  0000 L CNN
@@ -1980,7 +1942,7 @@ F 3 "" V 2350 4130 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L R_Small R60
+L co60-rescue:R_Small R60
 U 1 1 5AB5BF1B
 P 2605 4050
 F 0 "R60" H 2635 4070 50  0000 L CNN
@@ -1991,7 +1953,7 @@ F 3 "" H 2605 4050 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-1.5U K_LCTL2
+L MX_Alps_Hybrids:MX-1.5U K_LCTL2
 U 1 1 5AB7C8DD
 P 1550 4455
 F 0 "K_LCTL2" H 1550 4580 60  0000 C CNN
@@ -2003,7 +1965,7 @@ F 4 "dnf" H 1550 4455 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-1U K_LGUI2
+L MX_Alps_Hybrids:MX-1U K_LGUI2
 U 1 1 5AB7DD78
 P 2050 4455
 F 0 "K_LGUI2" H 2050 4580 60  0000 C CNN
@@ -2015,7 +1977,7 @@ F 4 "dnf" H 2050 4455 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L R_Small R61
+L co60-rescue:R_Small R61
 U 1 1 5AB806FA
 P 3505 4050
 F 0 "R61" H 3535 4070 50  0000 L CNN
@@ -2026,7 +1988,7 @@ F 3 "" H 3505 4050 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D61
+L co60-rescue:D_Small D61
 U 1 1 5AB80966
 P 3250 4130
 F 0 "D61" H 3200 4210 50  0000 L CNN
@@ -2037,7 +1999,7 @@ F 3 "" V 3250 4130 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX-1.25U K_SPACE2_1
+L MX_Alps_Hybrids:MX-1.25U K_SPACE2_1
 U 1 1 5AB87823
 P 4300 3800
 F 0 "K_SPACE2_1" H 4300 3925 60  0000 C CNN
@@ -2049,7 +2011,7 @@ F 4 "dnf" H 4300 3800 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D62
+L co60-rescue:D_Small D62
 U 1 1 5AB87829
 P 4150 4130
 F 0 "D62" H 4100 4210 50  0000 L CNN
@@ -2060,7 +2022,7 @@ F 3 "" V 4150 4130 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L R_Small R62
+L co60-rescue:R_Small R62
 U 1 1 5AB8782F
 P 4405 4050
 F 0 "R62" H 4435 4070 50  0000 L CNN
@@ -2071,7 +2033,7 @@ F 3 "" H 4405 4050 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L R_Small R63
+L co60-rescue:R_Small R63
 U 1 1 5AB8E191
 P 5305 4050
 F 0 "R63" H 5335 4070 50  0000 L CNN
@@ -2082,7 +2044,7 @@ F 3 "" H 5305 4050 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D63
+L co60-rescue:D_Small D63
 U 1 1 5AB8E197
 P 5050 4130
 F 0 "D63" H 5000 4210 50  0000 L CNN
@@ -2093,7 +2055,7 @@ F 3 "" V 5050 4130 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX-2.75U K_SPACE3_1
+L MX_Alps_Hybrids:MX-2.75U K_SPACE3_1
 U 1 1 5AB930D0
 P 5200 3800
 F 0 "K_SPACE3_1" H 5200 3925 60  0000 C CNN
@@ -2105,7 +2067,7 @@ F 4 "dnf" H 5200 3800 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-2.75U K_SPACE1_2
+L MX_Alps_Hybrids:MX-2.75U K_SPACE1_2
 U 1 1 5AB946B2
 P 3400 4450
 F 0 "K_SPACE1_2" H 3400 4575 60  0000 C CNN
@@ -2117,7 +2079,7 @@ F 4 "dnf" H 3400 4450 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-2.25U K_SPACE3_2
+L MX_Alps_Hybrids:MX-2.25U K_SPACE3_2
 U 1 1 5AB94A96
 P 5200 4450
 F 0 "K_SPACE3_2" H 5200 4575 60  0000 C CNN
@@ -2129,7 +2091,7 @@ F 4 "dnf" H 5200 4450 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-6.25U K_SPACE2_2
+L MX_Alps_Hybrids:MX-6.25U K_SPACE2_2
 U 1 1 5AB952FF
 P 4300 4450
 F 0 "K_SPACE2_2" H 4300 4575 60  0000 C CNN
@@ -2141,7 +2103,7 @@ F 4 "dnf" H 4300 4450 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-1.25U K_RALT1
+L MX_Alps_Hybrids:MX-1.25U K_RALT1
 U 1 1 5ABA0377
 P 6100 3800
 F 0 "K_RALT1" H 6100 3925 60  0000 C CNN
@@ -2153,7 +2115,7 @@ F 4 "dnf" H 6100 3800 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D64
+L co60-rescue:D_Small D64
 U 1 1 5ABA037D
 P 5950 4130
 F 0 "D64" H 5900 4210 50  0000 L CNN
@@ -2164,7 +2126,7 @@ F 3 "" V 5950 4130 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L R_Small R64
+L co60-rescue:R_Small R64
 U 1 1 5ABA0383
 P 6205 4050
 F 0 "R64" H 6235 4070 50  0000 L CNN
@@ -2175,7 +2137,7 @@ F 3 "" H 6205 4050 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-1U K_RALT3
+L MX_Alps_Hybrids:MX-1U K_RALT3
 U 1 1 5ABA8AE4
 P 6100 4950
 F 0 "K_RALT3" H 6100 5075 60  0000 C CNN
@@ -2187,7 +2149,7 @@ F 4 "dnf" H 6100 4950 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-1.25U K_RMOD1
+L MX_Alps_Hybrids:MX-1.25U K_RMOD1
 U 1 1 5ABAD2AC
 P 6550 3800
 F 0 "K_RMOD1" H 6550 3925 60  0000 C CNN
@@ -2199,7 +2161,7 @@ F 4 "dnf" H 6550 3800 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D65
+L co60-rescue:D_Small D65
 U 1 1 5ABAD2B2
 P 6400 4130
 F 0 "D65" H 6350 4210 50  0000 L CNN
@@ -2210,7 +2172,7 @@ F 3 "" V 6400 4130 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L R_Small R65
+L co60-rescue:R_Small R65
 U 1 1 5ABAD2B8
 P 6655 4050
 F 0 "R65" H 6685 4070 50  0000 L CNN
@@ -2221,7 +2183,7 @@ F 3 "" H 6655 4050 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-1U K_RGUI1
+L MX_Alps_Hybrids:MX-1U K_RGUI1
 U 1 1 5ABB66FC
 P 7000 3800
 F 0 "K_RGUI1" H 7000 3925 60  0000 C CNN
@@ -2233,7 +2195,7 @@ F 4 "dnf" H 7000 3800 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D66
+L co60-rescue:D_Small D66
 U 1 1 5ABB6702
 P 6850 4130
 F 0 "D66" H 6800 4210 50  0000 L CNN
@@ -2244,7 +2206,7 @@ F 3 "" V 6850 4130 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L R_Small R66
+L co60-rescue:R_Small R66
 U 1 1 5ABB6708
 P 7105 4050
 F 0 "R66" H 7135 4070 50  0000 L CNN
@@ -2255,7 +2217,7 @@ F 3 "" H 7105 4050 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D67
+L co60-rescue:D_Small D67
 U 1 1 5ABB6B73
 P 7300 4130
 F 0 "D67" H 7250 4210 50  0000 L CNN
@@ -2266,7 +2228,7 @@ F 3 "" V 7300 4130 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L R_Small R67
+L co60-rescue:R_Small R67
 U 1 1 5ABB6B79
 P 7555 4050
 F 0 "R67" H 7585 4070 50  0000 L CNN
@@ -2277,7 +2239,7 @@ F 3 "" H 7555 4050 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-1.25U K_RCTL1
+L MX_Alps_Hybrids:MX-1.25U K_RCTL1
 U 1 1 5ABB7A9A
 P 7900 3800
 F 0 "K_RCTL1" H 7900 3925 60  0000 C CNN
@@ -2289,7 +2251,7 @@ F 4 "dnf" H 7900 3800 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D68
+L co60-rescue:D_Small D68
 U 1 1 5ABB7AA0
 P 7750 4130
 F 0 "D68" H 7700 4210 50  0000 L CNN
@@ -2300,7 +2262,7 @@ F 3 "" V 7750 4130 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L R_Small R68
+L co60-rescue:R_Small R68
 U 1 1 5ABB7AA6
 P 8005 4050
 F 0 "R68" H 8035 4070 50  0000 L CNN
@@ -2321,7 +2283,7 @@ ROW3
 Text GLabel 880  4235 0    60   Input ~ 0
 ROW4
 $Comp
-L MX-7U K_SPACE2_3
+L MX_Alps_Hybrids:MX-7U K_SPACE2_3
 U 1 1 5ADA6E62
 P 4300 4970
 F 0 "K_SPACE2_3" H 4300 5095 60  0000 C CNN
@@ -2363,7 +2325,7 @@ COL13
 Text GLabel 8075 865  1    60   Input ~ 0
 COL14
 $Comp
-L MX-1U K_RCTL2
+L MX_Alps_Hybrids:MX-1U K_RCTL2
 U 1 1 5AE40C14
 P 7900 4445
 F 0 "K_RCTL2" H 7900 4570 60  0000 C CNN
@@ -2375,7 +2337,7 @@ F 4 "dnf" H 7900 4445 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-ISO K_ISOENTER1
+L MX_Alps_Hybrids:MX-ISO K_ISOENTER1
 U 1 1 5AEF6989
 P 8400 2500
 F 0 "K_ISOENTER1" H 8400 2625 60  0000 C CNN
@@ -2389,7 +2351,7 @@ $EndComp
 Text GLabel 545  4845 3    60   Input ~ 0
 LEDGND
 $Comp
-L VCC #PWR029
+L power:VCC #PWR029
 U 1 1 5B338190
 P 8305 695
 F 0 "#PWR029" H 8305 545 50  0001 C CNN
@@ -2400,7 +2362,7 @@ F 3 "" H 8305 695 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-2.75U K_SPACE1_3
+L MX_Alps_Hybrids:MX-2.75U K_SPACE1_3
 U 1 1 5AC291A6
 P 3400 4970
 F 0 "K_SPACE1_3" H 3400 5095 60  0000 C CNN
@@ -2412,7 +2374,7 @@ F 4 "dnf" H 3400 4970 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-2.75U K_SPACE3_3
+L MX_Alps_Hybrids:MX-2.75U K_SPACE3_3
 U 1 1 5AC34405
 P 5200 4970
 F 0 "K_SPACE3_3" H 5200 5095 60  0000 C CNN
@@ -2424,7 +2386,7 @@ F 4 "dnf" H 5200 4970 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-1U K_RMOD2
+L MX_Alps_Hybrids:MX-1U K_RMOD2
 U 1 1 5AD0988A
 P 6550 4445
 F 0 "K_RMOD2" H 6550 4570 60  0000 C CNN
@@ -2436,7 +2398,7 @@ F 4 "dnf" H 6550 4445 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-1.5U K_RMOD3
+L MX_Alps_Hybrids:MX-1.5U K_RMOD3
 U 1 1 5AD0C8A7
 P 6550 4950
 F 0 "K_RMOD3" H 6550 5075 60  0000 C CNN
@@ -2448,7 +2410,7 @@ F 4 "dnf" H 6550 4950 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-1U K_RFN3
+L MX_Alps_Hybrids:MX-1U K_RFN3
 U 1 1 5AD26279
 P 7450 4950
 F 0 "K_RFN3" H 7450 5075 60  0000 C CNN
@@ -2460,7 +2422,7 @@ F 4 "dnf" H 7450 4950 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-1.5U K_RCTL3
+L MX_Alps_Hybrids:MX-1.5U K_RCTL3
 U 1 1 5AD26C97
 P 7895 4950
 F 0 "K_RCTL3" H 7895 5075 60  0000 C CNN
@@ -2472,7 +2434,7 @@ F 4 "dnf" H 7895 4950 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-1.5U K_LALT2
+L MX_Alps_Hybrids:MX-1.5U K_LALT2
 U 1 1 5AD8F05F
 P 2500 4455
 F 0 "K_LALT2" H 2500 4580 60  0000 C CNN
@@ -2484,7 +2446,7 @@ F 4 "dnf" H 2500 4455 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-1.25U K_SPACE2_5
+L MX_Alps_Hybrids:MX-1.25U K_SPACE2_5
 U 1 1 5ADD0856
 P 4300 6070
 F 0 "K_SPACE2_5" H 4300 6195 60  0000 C CNN
@@ -2496,7 +2458,7 @@ F 4 "dnf" H 4300 6070 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L R_Small R57
+L co60-rescue:R_Small R57
 U 1 1 5ADFF375
 P 8005 3400
 F 0 "R57" H 8035 3420 50  0000 L CNN
@@ -2507,7 +2469,7 @@ F 3 "" H 8005 3400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L D_Small D57
+L co60-rescue:D_Small D57
 U 1 1 5ADFF6C1
 P 7750 3480
 F 0 "D57" H 7700 3560 50  0000 L CNN
@@ -2518,7 +2480,7 @@ F 3 "" V 7750 3480 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX-1U K_ESC1
+L MX_Alps_Hybrids:MX-1U K_ESC1
 U 1 1 5AAF20E1
 P 1550 1100
 F 0 "K_ESC1" H 1550 1225 60  0000 C CNN
@@ -2530,7 +2492,7 @@ F 4 "dnf" H 1550 1100 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-1U K_#8
+L MX_Alps_Hybrids:MX-1U K_#8
 U 1 1 5AAF3BB7
 P 5200 1100
 F 0 "K_#8" H 5200 1225 60  0000 C CNN
@@ -2542,7 +2504,7 @@ F 4 "dnf" H 5200 1100 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-1U K_=1
+L MX_Alps_Hybrids:MX-1U K_=1
 U 1 1 5AAF460D
 P 7000 1100
 F 0 "K_=1" H 7000 1225 60  0000 C CNN
@@ -2554,7 +2516,7 @@ F 4 "dnf" H 7000 1100 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-2U K_BACK1
+L MX_Alps_Hybrids:MX-2U K_BACK1
 U 1 1 5AAF4AC7
 P 7900 1100
 F 0 "K_BACK1" H 7900 1225 60  0000 C CNN
@@ -2566,7 +2528,7 @@ F 4 "dnf" H 7900 1100 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-1.5U K_TAB1
+L MX_Alps_Hybrids:MX-1.5U K_TAB1
 U 1 1 5AAFC0E8
 P 1550 1800
 F 0 "K_TAB1" H 1550 1925 60  0000 C CNN
@@ -2578,7 +2540,7 @@ F 4 "dnf" H 1550 1800 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-1U K_K1
+L MX_Alps_Hybrids:MX-1U K_K1
 U 1 1 5AB11255
 P 5650 2500
 F 0 "K_K1" H 5650 2625 60  0000 C CNN
@@ -2590,7 +2552,7 @@ F 4 "dnf" H 5650 2500 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-1U K_W1
+L MX_Alps_Hybrids:MX-1U K_W1
 U 1 1 5AAFD1B9
 P 2950 1800
 F 0 "K_W1" H 2950 1925 60  0000 C CNN
@@ -2602,7 +2564,7 @@ F 4 "dnf" H 2950 1800 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-1U K_M1
+L MX_Alps_Hybrids:MX-1U K_M1
 U 1 1 5AB273DD
 P 5200 3150
 F 0 "K_M1" H 5200 3275 60  0000 C CNN
@@ -2614,7 +2576,7 @@ F 4 "dnf" H 5200 3150 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-2.75U K_RSHIFT1
+L MX_Alps_Hybrids:MX-2.75U K_RSHIFT1
 U 1 1 5AB2A627
 P 7450 3150
 F 0 "K_RSHIFT1" H 7450 3275 60  0000 C CNN
@@ -2626,7 +2588,7 @@ F 4 "dnf" H 7450 3150 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-2.25U K_LSHIFT1
+L MX_Alps_Hybrids:MX-2.25U K_LSHIFT1
 U 1 1 5AB18290
 P 1550 3150
 F 0 "K_LSHIFT1" H 1550 3275 60  0000 C CNN
@@ -2638,7 +2600,7 @@ F 4 "dnf" H 1550 3150 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-2.25U K_SPACE1_1
+L MX_Alps_Hybrids:MX-2.25U K_SPACE1_1
 U 1 1 5AB7EBD9
 P 3400 3800
 F 0 "K_SPACE1_1" H 3400 3925 60  0000 C CNN
@@ -2650,7 +2612,7 @@ F 4 "dnf" H 3400 3800 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-1.5U K_SPACE2_4
+L MX_Alps_Hybrids:MX-1.5U K_SPACE2_4
 U 1 1 5AC21C87
 P 4300 5490
 F 0 "K_SPACE2_4" H 4300 5615 60  0000 C CNN
@@ -2662,7 +2624,7 @@ F 4 "dnf" H 4300 5490 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-1U K_'1
+L MX_Alps_Hybrids:MX-1U K_'1
 U 1 1 5AB12477
 P 7000 2500
 F 0 "K_'1" H 7000 2625 60  0000 C CNN
@@ -2674,7 +2636,7 @@ F 4 "dnf" H 7000 2500 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-1.25U K_RFN1
+L MX_Alps_Hybrids:MX-1.25U K_RFN1
 U 1 1 5ABB6B6D
 P 7450 3800
 F 0 "K_RFN1" H 7450 3925 60  0000 C CNN
@@ -2686,7 +2648,7 @@ F 4 "dnf" H 7450 3800 60  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L MX-1U K_RFN2
+L MX_Alps_Hybrids:MX-1U K_RFN2
 U 1 1 5AE3B5E8
 P 7450 4445
 F 0 "K_RFN2" H 7450 4570 60  0000 C CNN

@@ -1,0 +1,9 @@
+(sym_lib_table
+  (lib (name co60-rescue)(type Legacy)(uri ${KIPRJMOD}/co60-rescue.lib)(options "")(descr ""))
+  (lib (name device)(type Legacy)(uri ${KIPRJMOD}/lib/device.lib)(options "")(descr ""))
+  (lib (name aker)(type Legacy)(uri ${KIPRJMOD}/lib/aker.lib)(options "")(descr ""))
+  (lib (name atmega32u4)(type Legacy)(uri ${KIPRJMOD}/lib/atmega32u4.lib)(options "")(descr ""))
+  (lib (name MX_Alps_Hybrids)(type Legacy)(uri "${KIPRJMOD}/lib/MX_Alps_Hybrid.pretty/Schematic Library/MX_Alps_Hybrids.lib")(options "")(descr ""))
+  (lib (name Type-C)(type Legacy)(uri ${KIPRJMOD}/lib/Type-C.pretty/Type-C.lib)(options "")(descr ""))
+  (lib (name dk_Transistors-Bipolar-BJT-Single)(type Legacy)(uri ${KIPRJMOD}/lib/digikey-kicad-library/digikey-symbols/dk_Transistors-Bipolar-BJT-Single.lib)(options "")(descr ""))
+)
