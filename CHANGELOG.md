@@ -3,6 +3,14 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## [Rev. 5] - 2018-08-28
+
+### Changed
+- USB connector from Amphenol Type C to Korean HRO Type-C.
+  I believe this new connector will not conflict with switches
+  when they are installed. The legs of the Amphenol connector
+  conflicted with the switches.
+
 ## [Rev. 4] - 2018-07-22
 
 ### Added
