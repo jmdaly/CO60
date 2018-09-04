@@ -68,6 +68,7 @@ All notable changes to this project will be documented in this file.
   was sent to JLCPCB for initial prototyping.
 
 [Unreleased]: https://github.com/jmdaly/CO60/compare/Rev.4...HEAD
+[Rev. 5]: https://github.com/jmdaly/CO60/compare/Rev.4...Rev.5
 [Rev. 4]: https://github.com/jmdaly/CO60/compare/Rev.3...Rev.4
 [Rev. 3]: https://github.com/jmdaly/CO60/compare/Rev.2...Rev.3
 [Rev. 2]: https://github.com/jmdaly/CO60/compare/Rev.1...Rev.2
