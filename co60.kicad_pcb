@@ -12267,6 +12267,7 @@
   (module Type-C:HRO-TYPE-C-31-M-12 (layer B.Cu) (tedit 5B84A17D) (tstamp 5B856040)
     (at 97.182 50.7492)
     (path /5B815E4A)
+    (attr smd)
     (fp_text reference USB1 (at 0 9.25) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
