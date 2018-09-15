@@ -1,8 +1,8 @@
 (export (version D)
   (design
     (source /home/jmdaly/git/CO60/co60.sch)
-    (date "Sun 02 Sep 2018 10:09:18 PM EDT")
-    (tool "Eeschema 5.0.0-fee4fd1~65~ubuntu16.04.1")
+    (date "Fri 14 Sep 2018 09:53:07 PM EDT")
+    (tool "Eeschema 5.0.0-fee4fd1~66~ubuntu16.04.1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
         (title)
@@ -190,7 +190,7 @@
       (tstamp 5AEBB130))
     (comp (ref USB1)
       (value HRO-TYPE-C-31-M-12)
-      (footprint Type-C:HRO-TYPE-C-31-M-12)
+      (footprint Type-C:HRO-TYPE-C-31-M-12-Assembly)
       (libsource (lib Type-C) (part HRO-TYPE-C-31-M-12) (description ""))
       (sheetpath (names /) (tstamps /))
       (tstamp 5B815E4A))
