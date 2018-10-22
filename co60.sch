@@ -939,8 +939,6 @@ NoConn ~ 8195 3855
 NoConn ~ 8195 3955
 NoConn ~ 8195 4255
 NoConn ~ 8195 4355
-NoConn ~ 8195 5155
-NoConn ~ 8195 5255
 NoConn ~ 6895 4755
 NoConn ~ 6895 4855
 NoConn ~ 6895 5055
@@ -1093,4 +1091,66 @@ F 3 "~" H 2095 3120 50  0001 C CNN
 	1    2095 3120
 	1    0    0    -1  
 $EndComp
+$Comp
+L Connector:Conn_01x05_Male J1
+U 1 1 5BCE6702
+P 9500 2250
+F 0 "J1" H 9606 2628 50  0000 C CNN
+F 1 "Conn_01x05_Male" H 9606 2537 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical" H 9500 2250 50  0001 C CNN
+F 3 "~" H 9500 2250 50  0001 C CNN
+	1    9500 2250
+	1    0    0    -1  
+$EndComp
+Text GLabel 8340 5155 2    50   Input ~ 0
+SWDIO
+Text GLabel 8340 5255 2    50   Input ~ 0
+SWCLK
+Wire Wire Line
+	8195 5155 8340 5155
+Wire Wire Line
+	8195 5255 8340 5255
+Text GLabel 6895 2145 1    50   Input ~ 0
+NRST
+Wire Wire Line
+	6895 2145 6895 2285
+Connection ~ 6895 2285
+Text GLabel 9860 2050 2    50   Input ~ 0
+SWDIO
+Wire Wire Line
+	9700 2050 9860 2050
+$Comp
+L power:GND #PWR?
+U 1 1 5BD08882
+P 9860 2150
+F 0 "#PWR?" H 9860 1900 50  0001 C CNN
+F 1 "GND" H 9865 1977 50  0000 C CNN
+F 2 "" H 9860 2150 50  0001 C CNN
+F 3 "" H 9860 2150 50  0001 C CNN
+	1    9860 2150
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	9700 2150 9860 2150
+Text GLabel 9860 2250 2    50   Input ~ 0
+SWCLK
+Wire Wire Line
+	9700 2250 9860 2250
+Text GLabel 9860 2350 2    50   Input ~ 0
+NRST
+Wire Wire Line
+	9700 2350 9860 2350
+$Comp
+L power:+3.3V #PWR?
+U 1 1 5BD39621
+P 9865 2450
+F 0 "#PWR?" H 9865 2300 50  0001 C CNN
+F 1 "+3.3V" H 9880 2623 50  0000 C CNN
+F 2 "" H 9865 2450 50  0001 C CNN
+F 3 "" H 9865 2450 50  0001 C CNN
+	1    9865 2450
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	9700 2450 9865 2450
 $EndSCHEMATC
