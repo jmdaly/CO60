@@ -21,8 +21,9 @@ P 4575 5025
 F 0 "C2" H 4600 5125 30  0000 L CNN
 F 1 "30p" H 4600 4925 30  0000 L CNN
 F 2 "Capacitors_SMD:C_0603" H 4613 4875 50  0001 C CNN
-F 3 "http://datasheets.avx.com/C0GNP0-Dielectric.pdf" H 4575 5025 50  0001 C CNN
-F 4 "06035A220JAT2A" H 4575 5025 60  0001 C CNN "Product"
+F 3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL10C300JB8NNNC_C22397.pdf" H 4575 5025 50  0001 C CNN
+F 4 "CL10C300JB8NNNC" H 4575 5025 60  0001 C CNN "Product"
+F 5 "C22397" H 4575 5025 50  0001 C CNN "LCSC PN"
 	1    4575 5025
 	1    0    0    -1  
 $EndComp
@@ -55,8 +56,8 @@ P 4025 5025
 F 0 "C1" H 4050 5125 30  0000 L CNN
 F 1 "30p" H 4050 4925 30  0000 L CNN
 F 2 "Capacitors_SMD:C_0603" H 4063 4875 50  0001 C CNN
-F 3 "http://datasheets.avx.com/C0GNP0-Dielectric.pdf" H 4025 5025 50  0001 C CNN
-F 4 "06035A220JAT2A" H 4025 5025 60  0001 C CNN "Product"
+F 3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL10C300JB8NNNC_C22397.pdf" H 4025 5025 50  0001 C CNN
+F 4 "CL10C300JB8NNNC" H 4025 5025 60  0001 C CNN "Product"
 F 5 "C22397" H 4025 5025 60  0001 C CNN "LCSC PN"
 	1    4025 5025
 	1    0    0    -1  
@@ -103,6 +104,7 @@ F 2 "Resistors_SMD:R_0603" H 4365 1080 50  0001 C CNN
 F 3 "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_9.pdf" H 4365 1080 50  0001 C CNN
 F 4 "RC0603JR-071K5L" H 4365 1080 60  0001 C CNN "Product"
 F 5 "311-1.5KGRCT-ND" H 4365 1080 60  0001 C CNN "Digi-Key_PN"
+F 6 "C138275" H 4365 1080 50  0001 C CNN "LCSC PN"
 	1    4365 1080
 	0    1    1    0   
 $EndComp
@@ -137,6 +139,7 @@ F 10 "TRANS NPN 100V 1A SOT23-3" H 5115 2080 60  0001 L CNN "Description"
 F 11 "Diodes Incorporated" H 5115 2180 60  0001 L CNN "Manufacturer"
 F 12 "Active" H 5115 2280 60  0001 L CNN "Status"
 F 13 "FMMT493TA" H 4915 1080 60  0001 C CNN "Product"
+F 14 "C47296" H 4915 1080 50  0001 C CNN "LCSC PN"
 	1    4915 1080
 	1    0    0    -1  
 $EndComp
@@ -179,7 +182,8 @@ P 1705 3935
 F 0 "USB1" H 1536 4732 60  0000 C CNN
 F 1 "HRO-TYPE-C-31-M-12" H 1536 4626 60  0000 C CNN
 F 2 "Type-C:HRO-TYPE-C-31-M-12-Assembly" H 1705 3935 60  0001 C CNN
-F 3 "" H 1705 3935 60  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/Korean-Hroparts-Elec-TYPE-C-31-M-12_C165948.pdf" H 1705 3935 60  0001 C CNN
+F 4 "C165948" H 1705 3935 50  0001 C CNN "LCSC PN"
 	1    1705 3935
 	1    0    0    -1  
 $EndComp
@@ -195,6 +199,7 @@ F 2 "Resistors_SMD:R_0805" H 2280 3285 50  0001 L CNN
 F 3 "http://www.littelfuse.com/~/media/electronics/datasheets/resettable_ptcs/littelfuse_ptc_0805l_datasheet.pdf.pdf" H 2230 3485 50  0001 C CNN
 F 4 "0805L050WR" V 2230 3485 60  0001 C CNN "Product"
 F 5 "F2772CT-ND" V 2230 3485 60  0001 C CNN "Digi-Key_PN"
+F 6 "C66452" V 2230 3485 50  0001 C CNN "LCSC PN"
 	1    2230 3485
 	0    1    1    0   
 $EndComp
@@ -233,6 +238,7 @@ F 2 "Resistors_SMD:R_0603" V 2290 3685 50  0001 C CNN
 F 3 "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf" H 2360 3685 50  0001 C CNN
 F 4 "RMCF0603JT5K10" V 2360 3685 60  0001 C CNN "Product"
 F 5 "RMCF0603JT5K10CT-ND" V 2360 3685 60  0001 C CNN "Digi-Key_PN"
+F 6 "C14677" V 2360 3685 50  0001 C CNN "LCSC PN"
 	1    2360 3685
 	0    1    1    0   
 $EndComp
@@ -245,6 +251,7 @@ F 1 "5.1k" V 2390 4285 50  0000 C CNN
 F 2 "Resistors_SMD:R_0603" V 2320 4285 50  0001 C CNN
 F 3 "" H 2390 4285 50  0001 C CNN
 F 4 "RMCF0603JT5K10" V 2390 4285 60  0001 C CNN "Product"
+F 5 "C14677" V 2390 4285 50  0001 C CNN "LCSC PN"
 	1    2390 4285
 	0    1    1    0   
 $EndComp
@@ -271,6 +278,7 @@ F 2 "Resistors_SMD:R_0603" V 2780 4085 50  0001 C CNN
 F 3 "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_9.pdf" H 2850 4085 50  0001 C CNN
 F 4 "RC0603JR-0722RL" V 2850 4085 60  0001 C CNN "Product"
 F 5 "311-22GRCT-ND" V 2850 4085 60  0001 C CNN "Digi-Key_PN"
+F 6 "C108405" V 2850 4085 50  0001 C CNN "LCSC PN"
 	1    2850 4085
 	0    1    1    0   
 $EndComp
@@ -283,6 +291,7 @@ F 1 "22" V 2845 3785 50  0000 C CNN
 F 2 "Resistors_SMD:R_0603" V 2775 3785 50  0001 C CNN
 F 3 "" H 2845 3785 50  0001 C CNN
 F 4 "RC0603JR-0722RL" V 2845 3785 60  0001 C CNN "Product"
+F 5 "C108405" V 2845 3785 50  0001 C CNN "LCSC PN"
 	1    2845 3785
 	0    1    1    0   
 $EndComp
@@ -316,6 +325,7 @@ F 3 "https://assets.nexperia.com/documents/data-sheet/PRTR5V0U2X.pdf" H 3110 456
 F 4 "Rail-to-rail ESD protection circuitry" H 3060 4610 60  0001 C CNN "Description"
 F 5 "1727-3884-1-ND" H 3060 4610 60  0001 C CNN "Digi-Key_PN"
 F 6 "PRTR5V0U2X,215" H 3060 4610 60  0001 C CNN "Product"
+F 7 "C12333" H 3060 4610 50  0001 C CNN "LCSC PN"
 	1    3060 4610
 	1    0    0    -1  
 $EndComp
@@ -537,6 +547,7 @@ F 2 "Capacitors_SMD:C_0603" H 1013 1065 50  0001 C CNN
 F 3 "https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_lowprofile_en.pdf" H 975 1215 50  0001 C CNN
 F 4 "CGB3B3JB1C105K055AB" H 975 1215 60  0001 C CNN "Product"
 F 5 "445-13234-1-ND" H 975 1215 60  0001 C CNN "Digi-Key_PN"
+F 6 "C59782" H 975 1215 50  0001 C CNN "LCSC PN"
 	1    975  1215
 	1    0    0    -1  
 $EndComp
@@ -549,7 +560,9 @@ P 1235 1215
 F 0 "C7" H 1260 1315 50  0000 L CNN
 F 1 "10n" H 1260 1115 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0603" H 1273 1065 50  0001 C CNN
-F 3 "" H 1235 1215 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL10B103KB8NNNC_C1589.pdf" H 1235 1215 50  0001 C CNN
+F 4 "CL10B103KB8NNNC" H 1235 1215 50  0001 C CNN "Product"
+F 5 "C1589" H 1235 1215 50  0001 C CNN "LCSC PN"
 	1    1235 1215
 	1    0    0    -1  
 $EndComp
@@ -645,6 +658,7 @@ F 2 "Capacitors_SMD:C_0603" H 2478 1065 50  0001 C CNN
 F 3 "https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_hightemp_en.pdf" H 2440 1215 50  0001 C CNN
 F 4 "C1608X8R1E104K080AA" H 2440 1215 60  0001 C CNN "Product"
 F 5 "445-2500-1-ND" H 2440 1215 60  0001 C CNN "Digi-Key_PN"
+F 6 "C1590" H 2440 1215 50  0001 C CNN "LCSC PN"
 	1    2440 1215
 	1    0    0    -1  
 $EndComp
@@ -658,6 +672,7 @@ F 2 "Capacitors_SMD:C_0603" H 2208 1065 50  0001 C CNN
 F 3 "https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_hightemp_en.pdf" H 2170 1215 50  0001 C CNN
 F 4 "C1608X8R1E104K080AA" H 2170 1215 60  0001 C CNN "Product"
 F 5 "445-2500-1-ND" H 2170 1215 60  0001 C CNN "Digi-Key_PN"
+F 6 "C1590" H 2170 1215 50  0001 C CNN "LCSC PN"
 	1    2170 1215
 	1    0    0    -1  
 $EndComp
@@ -671,6 +686,7 @@ F 2 "Capacitors_SMD:C_0603" H 1913 1065 50  0001 C CNN
 F 3 "http://www.samsungsem.com/kr/support/product-search/mlcc/__icsFiles/afieldfile/2016/12/21/CL10A475KA8NQNC_161221.pdf" H 1875 1215 50  0001 C CNN
 F 4 "CL10A475KA8NQNC" H 1875 1215 60  0001 C CNN "Product"
 F 5 "1276-1900-1-ND" H 1875 1215 60  0001 C CNN "Digi-Key_PN"
+F 6 "C19666" H 1875 1215 50  0001 C CNN "LCSC PN"
 	1    1875 1215
 	1    0    0    -1  
 $EndComp
@@ -709,6 +725,7 @@ F 3 "https://www.e-switch.com/system/asset/product_line/data_sheet/165/TL3342.pd
 F 4 "TL3342F160QG/TR" H 5350 2915 60  0001 C CNN "Product"
 F 5 "https://www.digikey.ca/product-detail/en/e-switch/TL3342F160QG-TR/EG2531CT-ND/379004" H 5350 2915 60  0001 C CNN "DigiKey Page"
 F 6 "EG2531CT-ND" H 5350 2915 60  0001 C CNN "Digi-Key_PN"
+F 7 "C92584" H 5350 2915 50  0001 C CNN "LCSC PN"
 	1    5350 2915
 	1    0    0    -1  
 $EndComp
@@ -763,6 +780,7 @@ F 2 "Resistors_SMD:R_0603" V 5665 3095 50  0001 C CNN
 F 3 "https://industrial.panasonic.com/ww/products/resistors/chip-resistors/general-purpose-chip-resistors/thick-film-chip-resistors/ERJ3GEYJ103V" H 5735 3095 50  0001 C CNN
 F 4 "ERJ-3GEYJ103V" V 5735 3095 60  0001 C CNN "Product"
 F 5 "P10KGCT-ND" V 5735 3095 60  0001 C CNN "Digi-Key_PN"
+F 6 "C98220" V 5735 3095 50  0001 C CNN "LCSC PN"
 	1    5735 3095
 	1    0    0    -1  
 $EndComp
@@ -797,6 +815,7 @@ F 2 "Resistors_SMD:R_0603" H 2845 3385 50  0001 C CNN
 F 3 "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_9.pdf" H 2845 3385 50  0001 C CNN
 F 4 "RC0603JR-071K5L" H 2845 3385 60  0001 C CNN "Product"
 F 5 "311-1.5KGRCT-ND" H 2845 3385 60  0001 C CNN "Digi-Key_PN"
+F 6 "C138275" H 2845 3385 50  0001 C CNN "LCSC PN"
 	1    2845 3385
 	-1   0    0    1   
 $EndComp
@@ -954,6 +973,7 @@ F 2 "Capacitors_SMD:C_0603" H 2733 1065 50  0001 C CNN
 F 3 "https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_hightemp_en.pdf" H 2695 1215 50  0001 C CNN
 F 4 "C1608X8R1E104K080AA" H 2695 1215 60  0001 C CNN "Product"
 F 5 "445-2500-1-ND" H 2695 1215 60  0001 C CNN "Digi-Key_PN"
+F 6 "C1590" H 2695 1215 50  0001 C CNN "LCSC PN"
 	1    2695 1215
 	1    0    0    -1  
 $EndComp
@@ -1045,6 +1065,7 @@ F 2 "Capacitors_SMD:C_0603" H 1438 6175 50  0001 C CNN
 F 3 "https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_lowprofile_en.pdf" H 1400 6325 50  0001 C CNN
 F 4 "CGB3B3JB1C105K055AB" H 1400 6325 60  0001 C CNN "Product"
 F 5 "445-13234-1-ND" H 1400 6325 60  0001 C CNN "Digi-Key_PN"
+F 6 "C59782" H 1400 6325 50  0001 C CNN "LCSC PN"
 	1    1400 6325
 	1    0    0    -1  
 $EndComp
@@ -1058,6 +1079,7 @@ F 2 "Capacitors_SMD:C_0603" H 2298 6175 50  0001 C CNN
 F 3 "https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_lowprofile_en.pdf" H 2260 6325 50  0001 C CNN
 F 4 "CGB3B3JB1C105K055AB" H 2260 6325 60  0001 C CNN "Product"
 F 5 "445-13234-1-ND" H 2260 6325 60  0001 C CNN "Digi-Key_PN"
+F 6 "C59782" H 2260 6325 50  0001 C CNN "LCSC PN"
 	1    2260 6325
 	1    0    0    -1  
 $EndComp
@@ -1099,6 +1121,7 @@ F 0 "J1" H 9606 2628 50  0000 C CNN
 F 1 "Conn_01x05_Male" H 9606 2537 50  0000 C CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical" H 9500 2250 50  0001 C CNN
 F 3 "~" H 9500 2250 50  0001 C CNN
+F 4 "dnf" H 9500 2250 50  0001 C CNN "Config"
 	1    9500 2250
 	1    0    0    -1  
 $EndComp
@@ -1120,10 +1143,10 @@ SWDIO
 Wire Wire Line
 	9700 2050 9860 2050
 $Comp
-L power:GND #PWR?
+L power:GND #PWR0122
 U 1 1 5BD08882
 P 9860 2150
-F 0 "#PWR?" H 9860 1900 50  0001 C CNN
+F 0 "#PWR0122" H 9860 1900 50  0001 C CNN
 F 1 "GND" H 9865 1977 50  0000 C CNN
 F 2 "" H 9860 2150 50  0001 C CNN
 F 3 "" H 9860 2150 50  0001 C CNN
@@ -1141,10 +1164,10 @@ NRST
 Wire Wire Line
 	9700 2350 9860 2350
 $Comp
-L power:+3.3V #PWR?
+L power:+3.3V #PWR0123
 U 1 1 5BD39621
 P 9865 2450
-F 0 "#PWR?" H 9865 2300 50  0001 C CNN
+F 0 "#PWR0123" H 9865 2300 50  0001 C CNN
 F 1 "+3.3V" H 9880 2623 50  0000 C CNN
 F 2 "" H 9865 2450 50  0001 C CNN
 F 3 "" H 9865 2450 50  0001 C CNN
