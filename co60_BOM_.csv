@@ -4,6 +4,7 @@ C7,C,10n,C_0603,1,,https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-C
 C6 C10 C11,C,1u,C_0603,3,445-13234-1-ND,https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_lowprofile_en.pdf,,CGB3B3JB1C105K055AB,C59782,,,,,,,,,
 C1 C2,C,30p,C_0603,2,,https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL10C300JB8NNNC_C22397.pdf,,CL10C300JB8NNNC,C22397,,,,,,,,,
 C5,C,4.7u,C_0603,1,1276-1900-1-ND,http://www.samsungsem.com/kr/support/product-search/mlcc/__icsFiles/afieldfile/2016/12/21/CL10A475KA8NQNC_161221.pdf,,CL10A475KA8NQNC,C19666,,,,,,,,,
+C12 C13,C,47p,C_0603_1608Metric,2,,https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL10C470JB8NNNC_C1671.pdf,,CL10C470JB8NNNC,C1671,,,,,,,,,
 D1 D2 D3 D4 D5 D6 D7 D8 D9 D10 D11 D12 D13 D14 D15 D16 D17 D18 D19 D20 D21 D22 D23 D24 D25 D26 D27 D28 D29 D30 D31 D32 D33 D34 D35 D36 D37 D38 D39 D40 D41 D42 D43 D44 D45 D46 D47 D48 D49 D50 D51 D52 D53 D54 D55 D56 D57 D58 D59 D60 D61 D62 D63 D64 D65 D66 D67 D68,D_Small,D_Small,D_SOD-123,68,1N4148WTPMSCT-ND,http://www.mccsemi.com/up_pdf/1N4148W(SOD123).pdf,,1N4148W-TP,C83528,,,,,,,,,
 ESD1,PRTR5V0U2X,PRTR5V0U2X,SOT143B,1,1727-3884-1-ND,https://assets.nexperia.com/documents/data-sheet/PRTR5V0U2X.pdf,,"PRTR5V0U2X,215",C12333,,,,,,,,,
 F1,Polyfuse_Small,500mA,R_0805,1,F2772CT-ND,http://www.littelfuse.com/~/media/electronics/datasheets/resettable_ptcs/littelfuse_ptc_0805l_datasheet.pdf.pdf,,0805L050WR,C66452,,,,,,,,,
@@ -23,13 +24,13 @@ Y1,Crystal_GND24,8MHz,Crystal_SMD_5032-4pin_5.0x3.2mm,1,,https://lcsc.com/produc
 
 
 
-Component Groups:,37
-Component Count:,254
-Fitted Components:,162
+Component Groups:,38
+Component Count:,256
+Fitted Components:,164
 Number of PCBs:,1
-Total components:,162
+Total components:,164
 Schematic Version:,
 Schematic Date:,
-BoM Date:,Thu 25 Oct 2018 11:26:16 PM EDT
+BoM Date:,Sun 28 Oct 2018 10:22:52 PM EDT
 Schematic Source:,/home/jmdaly/git/CO60/co60.sch
 KiCad Version:,Eeschema 5.0.1-33cea8e~67~ubuntu16.04.1
