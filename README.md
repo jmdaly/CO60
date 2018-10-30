@@ -49,6 +49,8 @@ criteria:
 
 * QMK support.
 
+* Based on an STM32F303 ARM MCU.
+
 ## Obtaining the Files
 
 This repository contains several submodules, which in turn contain
