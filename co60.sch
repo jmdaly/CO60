@@ -265,33 +265,6 @@ Wire Wire Line
 Wire Wire Line
 	2540 3685 2540 4285
 Connection ~ 2540 4285
-$Comp
-L co60-rescue:R RC4
-U 1 1 5B8E101F
-P 2850 4085
-F 0 "RC4" V 2930 4085 50  0000 C CNN
-F 1 "22" V 2850 4085 50  0000 C CNN
-F 2 "Resistors_SMD:R_0603" V 2780 4085 50  0001 C CNN
-F 3 "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_9.pdf" H 2850 4085 50  0001 C CNN
-F 4 "RC0603JR-0722RL" V 2850 4085 60  0001 C CNN "Product"
-F 5 "311-22GRCT-ND" V 2850 4085 60  0001 C CNN "Digi-Key_PN"
-F 6 "C108405" V 2850 4085 50  0001 C CNN "LCSC PN"
-	1    2850 4085
-	0    1    1    0   
-$EndComp
-$Comp
-L co60-rescue:R RC5
-U 1 1 5B8E1B3E
-P 2845 3785
-F 0 "RC5" V 2925 3785 50  0000 C CNN
-F 1 "22" V 2845 3785 50  0000 C CNN
-F 2 "Resistors_SMD:R_0603" V 2775 3785 50  0001 C CNN
-F 3 "" H 2845 3785 50  0001 C CNN
-F 4 "RC0603JR-0722RL" V 2845 3785 60  0001 C CNN "Product"
-F 5 "C108405" V 2845 3785 50  0001 C CNN "LCSC PN"
-	1    2845 3785
-	0    1    1    0   
-$EndComp
 Wire Wire Line
 	1805 3785 1855 3785
 Wire Wire Line
@@ -299,69 +272,13 @@ Wire Wire Line
 Wire Wire Line
 	1805 3985 1855 3985
 Wire Wire Line
-	1855 3985 1855 3785
-Connection ~ 1855 3785
-Wire Wire Line
-	1855 3785 2660 3785
-Wire Wire Line
 	1805 3885 1920 3885
 Wire Wire Line
-	1920 3885 1920 4085
-Text GLabel 3910 4085 2    60   Input ~ 0
-D_P
-Text GLabel 3910 3785 2    60   Input ~ 0
-D_N
-$Comp
-L co60-rescue:PRTR5V0U2X ESD1
-U 1 1 5B934BCD
-P 3060 4610
-F 0 "ESD1" H 3060 4860 50  0000 C CNN
-F 1 "PRTR5V0U2X" H 3060 4360 50  0000 C CNN
-F 2 "locallib:SOT143B" H 3110 4560 50  0001 C CNN
-F 3 "https://assets.nexperia.com/documents/data-sheet/PRTR5V0U2X.pdf" H 3110 4560 50  0001 C CNN
-F 4 "Rail-to-rail ESD protection circuitry" H 3060 4610 60  0001 C CNN "Description"
-F 5 "1727-3884-1-ND" H 3060 4610 60  0001 C CNN "Digi-Key_PN"
-F 6 "PRTR5V0U2X,215" H 3060 4610 60  0001 C CNN "Product"
-F 7 "C12333" H 3060 4610 50  0001 C CNN "LCSC PN"
-	1    3060 4610
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GND #PWR0102
-U 1 1 5B961582
-P 2690 4800
-F 0 "#PWR0102" H 2690 4550 50  0001 C CNN
-F 1 "GND" H 2695 4627 50  0000 C CNN
-F 2 "" H 2690 4800 50  0001 C CNN
-F 3 "" H 2690 4800 50  0001 C CNN
-	1    2690 4800
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	2760 4710 2690 4710
-Wire Wire Line
-	2690 4710 2690 4800
-Wire Wire Line
-	2005 3485 2005 3615
-Wire Wire Line
-	2610 4510 2610 3615
-Wire Wire Line
-	2610 3615 2005 3615
-Connection ~ 2005 3615
-Wire Wire Line
-	2005 3615 2005 4385
-Wire Wire Line
-	2700 4085 2675 4085
-Connection ~ 1920 4085
-Wire Wire Line
-	3360 4510 3360 4270
-Wire Wire Line
-	3360 4270 2675 4270
-Wire Wire Line
-	2675 4270 2675 4085
-Connection ~ 2675 4085
-Wire Wire Line
-	2675 4085 2575 4085
+	1920 3885 1920 4075
+Text GLabel 2740 4075 2    60   Input ~ 0
+D_PI
+Text GLabel 2740 3825 2    60   Input ~ 0
+D_NI
 $Comp
 L power:VCC #PWR0103
 U 1 1 5B853EB0
@@ -373,19 +290,6 @@ F 3 "" H 1785 3120 50  0001 C CNN
 	1    1785 3120
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	3360 4710 3460 4710
-Wire Wire Line
-	3460 4710 3460 3670
-Wire Wire Line
-	3460 3670 2660 3670
-Wire Wire Line
-	2660 3670 2660 3785
-Wire Wire Line
-	2660 3785 2695 3785
-Connection ~ 2660 3785
-Wire Wire Line
-	2610 4510 2760 4510
 Wire Wire Line
 	1805 3485 1925 3485
 Connection ~ 2005 3485
@@ -483,8 +387,6 @@ F 3 "" H 1795 6570 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	2260 5805 2260 5740
-Wire Wire Line
-	2135 4585 2135 4660
 $Comp
 L power:+3.3V #PWR0108
 U 1 1 5BFE093A
@@ -798,42 +700,6 @@ Text GLabel 6650 4655 0    60   Input ~ 0
 LEDPWM
 Wire Wire Line
 	6895 4655 6650 4655
-$Comp
-L co60-rescue:R_Small RC9
-U 1 1 5C20B25B
-P 2845 3385
-F 0 "RC9" H 2875 3405 50  0000 L CNN
-F 1 "1.5k" H 2875 3345 50  0000 L CNN
-F 2 "Resistors_SMD:R_0603" H 2845 3385 50  0001 C CNN
-F 3 "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_9.pdf" H 2845 3385 50  0001 C CNN
-F 4 "RC0603JR-071K5L" H 2845 3385 60  0001 C CNN "Product"
-F 5 "311-1.5KGRCT-ND" H 2845 3385 60  0001 C CNN "Digi-Key_PN"
-F 6 "C138275" H 2845 3385 50  0001 C CNN "LCSC PN"
-	1    2845 3385
-	-1   0    0    1   
-$EndComp
-Wire Wire Line
-	2845 3485 2845 3560
-Wire Wire Line
-	2845 3560 2575 3560
-Wire Wire Line
-	2575 3560 2575 4085
-Connection ~ 2575 4085
-Wire Wire Line
-	2575 4085 1920 4085
-$Comp
-L power:+3.3V #PWR0120
-U 1 1 5C21772F
-P 2845 3230
-F 0 "#PWR0120" H 2845 3080 50  0001 C CNN
-F 1 "+3.3V" H 2860 3403 50  0000 C CNN
-F 2 "" H 2845 3230 50  0001 C CNN
-F 3 "" H 2845 3230 50  0001 C CNN
-	1    2845 3230
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	2845 3230 2845 3285
 Wire Wire Line
 	4220 5595 4220 5635
 Wire Wire Line
@@ -1011,24 +877,6 @@ Connection ~ 2440 1410
 Wire Wire Line
 	2440 1410 2440 1415
 $Comp
-L power:PWR_FLAG #FLG0102
-U 1 1 5C531D31
-P 1840 4700
-F 0 "#FLG0102" H 1840 4775 50  0001 C CNN
-F 1 "PWR_FLAG" H 1840 4873 50  0000 C CNN
-F 2 "" H 1840 4700 50  0001 C CNN
-F 3 "~" H 1840 4700 50  0001 C CNN
-	1    1840 4700
-	-1   0    0    1   
-$EndComp
-Wire Wire Line
-	1840 4700 1840 4660
-Wire Wire Line
-	1840 4660 2135 4660
-Connection ~ 2135 4660
-Wire Wire Line
-	2135 4660 2135 4695
-$Comp
 L power:PWR_FLAG #FLG0103
 U 1 1 5C5391BC
 P 2245 3335
@@ -1170,63 +1018,79 @@ $EndComp
 Wire Wire Line
 	9700 2450 9865 2450
 Wire Wire Line
-	2995 3785 3615 3785
-Wire Wire Line
-	3000 4085 3845 4085
-$Comp
-L co60-rescue:C C12
-U 1 1 5BD7F84D
-P 3615 4310
-F 0 "C12" H 3640 4410 50  0000 L CNN
-F 1 "47p" H 3640 4210 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0603_1608Metric" H 3653 4160 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL10C470JB8NNNC_C1671.pdf" H 3615 4310 50  0001 C CNN
-F 4 "CL10C470JB8NNNC" H 3615 4310 60  0001 C CNN "Product"
-F 5 "C1671" H 3615 4310 60  0001 C CNN "LCSC PN"
-	1    3615 4310
-	1    0    0    -1  
-$EndComp
-$Comp
-L co60-rescue:C C13
-U 1 1 5BD7FD0E
-P 3845 4310
-F 0 "C13" H 3870 4410 50  0000 L CNN
-F 1 "47p" H 3870 4210 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0603_1608Metric" H 3883 4160 50  0001 C CNN
-F 3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL10C470JB8NNNC_C1671.pdf" H 3845 4310 50  0001 C CNN
-F 4 "CL10C470JB8NNNC" H 3845 4310 60  0001 C CNN "Product"
-F 5 "C1671" H 3845 4310 60  0001 C CNN "LCSC PN"
-	1    3845 4310
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	3615 3785 3615 4160
-Connection ~ 3615 3785
-Wire Wire Line
-	3615 3785 3910 3785
-Wire Wire Line
-	3845 4085 3845 4160
-Connection ~ 3845 4085
-Wire Wire Line
-	3845 4085 3910 4085
-$Comp
-L power:GND #PWR0124
-U 1 1 5BD925A9
-P 3735 4520
-F 0 "#PWR0124" H 3735 4270 50  0001 C CNN
-F 1 "GND" H 3735 4370 50  0000 C CNN
-F 2 "" H 3735 4520 50  0001 C CNN
-F 3 "" H 3735 4520 50  0001 C CNN
-	1    3735 4520
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	3615 4460 3735 4460
-Wire Wire Line
-	3735 4520 3735 4460
-Connection ~ 3735 4460
-Wire Wire Line
-	3735 4460 3845 4460
-Wire Wire Line
 	4520 4895 4340 4895
+$Comp
+L NUF2221W1T2G:NUF2221W1T2G U3
+U 1 1 5BE5208F
+P 3700 2250
+F 0 "U3" H 3700 2250 50  0001 L BNN
+F 1 "NUF2221W1T2G" H 3700 2250 50  0001 L BNN
+F 2 "SOT-363" H 3700 2250 50  0001 L BNN
+F 3 "http://www.onsemi.com/pub/Collateral/NUF2221W1T2-D.PDF" H 3700 2250 50  0001 L BNN
+F 4 "C274624" H 3700 2250 50  0001 C CNN "LCSC PN"
+	1    3700 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0102
+U 1 1 5BE5ADAA
+P 3150 2750
+F 0 "#PWR0102" H 3150 2500 50  0001 C CNN
+F 1 "GND" H 3150 2600 50  0000 C CNN
+F 2 "" H 3150 2750 50  0001 C CNN
+F 3 "" H 3150 2750 50  0001 C CNN
+	1    3150 2750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3300 2650 3150 2650
+Wire Wire Line
+	3150 2650 3150 2750
+Text GLabel 4200 2450 2    60   Input ~ 0
+D_N
+Text GLabel 4200 2350 2    60   Input ~ 0
+D_P
+Wire Wire Line
+	4100 2350 4200 2350
+Wire Wire Line
+	4100 2450 4200 2450
+$Comp
+L power:+3.3V #PWR0120
+U 1 1 5BE77234
+P 3150 2100
+F 0 "#PWR0120" H 3150 1950 50  0001 C CNN
+F 1 "+3.3V" H 3165 2273 50  0000 C CNN
+F 2 "" H 3150 2100 50  0001 C CNN
+F 3 "" H 3150 2100 50  0001 C CNN
+	1    3150 2100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3150 2100 3150 2150
+Wire Wire Line
+	3150 2150 3300 2150
+Text GLabel 3100 2450 0    60   Input ~ 0
+D_NI
+Text GLabel 3100 2350 0    60   Input ~ 0
+D_PI
+Wire Wire Line
+	3300 2350 3100 2350
+Wire Wire Line
+	3300 2450 3100 2450
+Wire Wire Line
+	2005 3485 2005 4385
+Wire Wire Line
+	1855 3785 1855 3825
+Wire Wire Line
+	2740 3825 1855 3825
+Connection ~ 1855 3825
+Wire Wire Line
+	1855 3825 1855 3985
+Wire Wire Line
+	2740 4075 1920 4075
+Connection ~ 1920 4075
+Wire Wire Line
+	1920 4075 1920 4085
+Wire Wire Line
+	2135 4585 2135 4695
 $EndSCHEMATC
