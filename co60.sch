@@ -771,11 +771,11 @@ Wire Wire Line
 Wire Wire Line
 	6550 3255 6895 3255
 Text GLabel 5070 5095 2    50   Input ~ 0
-OSC_IN
+OSC_OUT
 Wire Wire Line
 	4770 5095 5070 5095
 Text GLabel 5070 5195 2    50   Input ~ 0
-OSC_OUT
+OSC_IN
 Wire Wire Line
 	4890 5195 5070 5195
 Wire Wire Line
