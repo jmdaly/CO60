@@ -10212,6 +10212,7 @@
   (module SOT-363 (layer B.Cu) (tedit 59D28875) (tstamp 5BE4F074)
     (at 97.0788 67.1322 180)
     (path /5BE5208F)
+    (attr smd)
     (fp_text reference U3 (at 0 2.75 180) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
