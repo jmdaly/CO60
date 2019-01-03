@@ -4,7 +4,7 @@ EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 2
+Sheet 1 3
 Title ""
 Date ""
 Rev ""
@@ -293,18 +293,6 @@ $EndComp
 Wire Wire Line
 	1805 3485 1925 3485
 Connection ~ 2005 3485
-$Comp
-L MCU_ST_STM32F3:STM32F303CBTx U1
-U 1 1 5BC4A90A
-P 7595 4055
-F 0 "U1" H 7545 2469 50  0000 C CNN
-F 1 "STM32F303CBTx" H 7545 2378 50  0000 C CNN
-F 2 "Housings_QFP:LQFP-48_7x7mm_Pitch0.5mm" H 6995 2655 50  0001 R CNN
-F 3 "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00058181.pdf" H 7595 4055 50  0001 C CNN
-F 4 "C108516" H 7595 4055 50  0001 C CNN "LCSC PN"
-	1    7595 4055
-	1    0    0    -1  
-$EndComp
 $Comp
 L Regulator_Linear:TLV70233_SOT23-5 U2
 U 1 1 5BC4AA7D
@@ -710,58 +698,38 @@ Wire Wire Line
 	4020 5835 4890 5835
 Wire Wire Line
 	4890 5835 4890 5195
-Text GLabel 6620 3855 0    60   Input ~ 0
-ROW0
-Text GLabel 6620 3955 0    60   Input ~ 0
-ROW1
-Text GLabel 6620 4055 0    60   Input ~ 0
-ROW2
-Text GLabel 8340 5355 2    60   Input ~ 0
-ROW3
-Wire Wire Line
-	8195 5355 8340 5355
-Text GLabel 8335 4855 2    60   Input ~ 0
-ROW4
-Wire Wire Line
-	8195 4855 8335 4855
-Text GLabel 8340 4055 2    60   Input ~ 0
-COL0
-Wire Wire Line
-	8195 4055 8340 4055
-Text GLabel 8340 4155 2    60   Input ~ 0
-COL1
-Wire Wire Line
-	8340 4155 8195 4155
-Text GLabel 8340 4455 2    60   Input ~ 0
-COL2
-Wire Wire Line
-	8340 4455 8195 4455
-Text GLabel 6650 5255 0    60   Input ~ 0
-COL3
-Wire Wire Line
-	6650 5255 6895 5255
-Text GLabel 6650 5355 0    60   Input ~ 0
-COL4
-Wire Wire Line
-	6650 5355 6895 5355
 Text GLabel 8340 4655 2    60   Input ~ 0
+ROW0
+Text GLabel 6650 5255 0    60   Input ~ 0
+ROW1
+Text GLabel 6650 5155 0    60   Input ~ 0
+ROW2
+Text GLabel 6620 3955 0    60   Input ~ 0
+ROW3
+Text GLabel 6620 4055 0    60   Input ~ 0
+ROW4
+Text GLabel 8340 4755 2    60   Input ~ 0
+COL1
+Text GLabel 8340 4855 2    60   Input ~ 0
+COL0
+Text GLabel 8340 4155 2    60   Input ~ 0
+COL2
+Text GLabel 8340 4255 2    60   Input ~ 0
+COL3
+Text GLabel 8340 4355 2    60   Input ~ 0
+COL4
+Text GLabel 8340 4455 2    60   Input ~ 0
 COL5
-Wire Wire Line
-	8195 4655 8340 4655
-Text GLabel 8345 4755 2    60   Input ~ 0
-COL6
-Wire Wire Line
-	8345 4755 8195 4755
 Text GLabel 8340 4555 2    60   Input ~ 0
+COL6
+Text GLabel 6620 3855 0    60   Input ~ 0
 COL7
-Wire Wire Line
-	8340 4555 8195 4555
 Text GLabel 6620 4155 0    60   Input ~ 0
-COL8
-Text GLabel 6620 4255 0    60   Input ~ 0
 COL9
-Text GLabel 6620 3555 0    60   Input ~ 0
+Text GLabel 6620 4255 0    60   Input ~ 0
 COL10
+Text GLabel 6620 4355 0    60   Input ~ 0
+COL11
 Text GLabel 6550 3155 0    50   Input ~ 0
 OSC_IN
 Text GLabel 6550 3255 0    50   Input ~ 0
@@ -785,43 +753,22 @@ Wire Wire Line
 Wire Wire Line
 	5810 2915 5735 2915
 Connection ~ 5735 2915
-Wire Wire Line
-	6620 3555 6895 3555
-Text GLabel 6620 3655 0    60   Input ~ 0
-COL11
-Wire Wire Line
-	6620 3655 6895 3655
+Text GLabel 8340 5355 2    60   Input ~ 0
+COL8
 Text GLabel 6620 3455 0    60   Input ~ 0
 COL12
-Wire Wire Line
-	6620 3455 6895 3455
-Wire Wire Line
-	6620 3855 6895 3855
-Wire Wire Line
-	6620 3955 6895 3955
-Wire Wire Line
-	6620 4055 6895 4055
 Wire Wire Line
 	6620 4155 6895 4155
 Wire Wire Line
 	6620 4255 6895 4255
-Text GLabel 6620 4355 0    60   Input ~ 0
+Text GLabel 6620 3555 0    60   Input ~ 0
 COL13
-Wire Wire Line
-	6620 4355 6895 4355
-Text GLabel 6620 4455 0    60   Input ~ 0
+Text GLabel 6620 3655 0    60   Input ~ 0
 COL14
-Wire Wire Line
-	6620 4455 6895 4455
-NoConn ~ 8195 3855
-NoConn ~ 8195 3955
-NoConn ~ 8195 4255
-NoConn ~ 8195 4355
 NoConn ~ 6895 4755
 NoConn ~ 6895 4855
 NoConn ~ 6895 5055
 NoConn ~ 6895 4955
-NoConn ~ 6895 5155
 $Comp
 L co60-rescue:C C8
 U 1 1 5C4F9DA5
@@ -1093,4 +1040,66 @@ Wire Wire Line
 	1920 4075 1920 4085
 Wire Wire Line
 	2135 4585 2135 4695
+$Sheet
+S 7570 1015 1285 745 
+U 5C2DC889
+F0 "rgb_underglow" 50
+F1 "rgb_underglow.sch" 50
+$EndSheet
+Text GLabel 6650 5355 0    50   Input ~ 0
+RGBLED_3V3
+Wire Wire Line
+	6650 5355 6895 5355
+Wire Wire Line
+	8195 4755 8340 4755
+Wire Wire Line
+	8195 4855 8340 4855
+Wire Wire Line
+	8195 4655 8340 4655
+Wire Wire Line
+	6650 5255 6895 5255
+Wire Wire Line
+	6650 5155 6895 5155
+Wire Wire Line
+	6620 4355 6895 4355
+Wire Wire Line
+	6620 3655 6895 3655
+Wire Wire Line
+	6620 3455 6895 3455
+Wire Wire Line
+	6620 3555 6895 3555
+NoConn ~ 6895 4455
+$Comp
+L MCU_ST_STM32F3:STM32F303CBTx U1
+U 1 1 5BC4A90A
+P 7595 4055
+F 0 "U1" H 7545 2469 50  0000 C CNN
+F 1 "STM32F303CBTx" H 7545 2378 50  0000 C CNN
+F 2 "Housings_QFP:LQFP-48_7x7mm_Pitch0.5mm" H 6995 2655 50  0001 R CNN
+F 3 "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00058181.pdf" H 7595 4055 50  0001 C CNN
+F 4 "C108516" H 7595 4055 50  0001 C CNN "LCSC PN"
+	1    7595 4055
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8195 4155 8340 4155
+Wire Wire Line
+	8340 4255 8195 4255
+Wire Wire Line
+	8340 4355 8195 4355
+Wire Wire Line
+	8340 4455 8195 4455
+Wire Wire Line
+	6620 3855 6895 3855
+Wire Wire Line
+	8340 4555 8195 4555
+Wire Wire Line
+	6620 3955 6895 3955
+Wire Wire Line
+	6620 4055 6895 4055
+Wire Wire Line
+	8340 5355 8195 5355
+NoConn ~ 8195 3855
+NoConn ~ 8195 3955
+NoConn ~ 8195 4055
 $EndSCHEMATC

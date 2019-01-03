@@ -4,4 +4,5 @@
   (lib (name Type-C)(type KiCad)(uri "$(KIPRJMOD)/lib/Type-C.pretty")(options "")(descr ""))
   (lib (name locallib)(type KiCad)(uri "$(KIPRJMOD)/lib/locallib.pretty")(options "")(descr ""))
   (lib (name digikey-footprints)(type KiCad)(uri "$(KIPRJMOD)/lib/digikey-kicad-library/digikey-footprints.pretty")(options "")(descr ""))
+  (lib (name SN74LV1T34DBVR)(type Legacy)(uri ${KIPRJMOD}/lib/SN74LV1T34DBVR.mod)(options "")(descr ""))
 )
