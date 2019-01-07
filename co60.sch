@@ -700,7 +700,7 @@ Wire Wire Line
 	4890 5835 4890 5195
 Text GLabel 8340 4655 2    60   Input ~ 0
 ROW0
-Text GLabel 6650 5255 0    60   Input ~ 0
+Text GLabel 8340 4055 2    60   Input ~ 0
 ROW1
 Text GLabel 6650 5155 0    60   Input ~ 0
 ROW2
@@ -1057,8 +1057,6 @@ Wire Wire Line
 Wire Wire Line
 	8195 4655 8340 4655
 Wire Wire Line
-	6650 5255 6895 5255
-Wire Wire Line
 	6650 5155 6895 5155
 Wire Wire Line
 	6620 4355 6895 4355
@@ -1101,5 +1099,7 @@ Wire Wire Line
 	8340 5355 8195 5355
 NoConn ~ 8195 3855
 NoConn ~ 8195 3955
-NoConn ~ 8195 4055
+NoConn ~ 6895 5255
+Wire Wire Line
+	8340 4055 8195 4055
 $EndSCHEMATC
