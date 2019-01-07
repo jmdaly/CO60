@@ -964,10 +964,8 @@ Wire Wire Line
 	8600 3500 8720 3500
 Wire Wire Line
 	8720 3500 8720 3650
-Text GLabel 8935 3300 2    50   Input ~ 0
+Text GLabel 9235 3300 2    50   Input ~ 0
 RGBLED
-Wire Wire Line
-	8600 3300 8935 3300
 Text GLabel 7640 3300 0    50   Input ~ 0
 RGBLED_3V3
 Wire Wire Line
@@ -987,4 +985,19 @@ Wire Wire Line
 Wire Wire Line
 	7900 1150 8300 1150
 NoConn ~ 5400 4600
+$Comp
+L co60-rescue:R RC9
+U 1 1 5C33F401
+P 8915 3300
+F 0 "RC9" V 8708 3300 50  0000 C CNN
+F 1 "500" V 8799 3300 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 8845 3300 50  0001 C CNN
+F 3 "" H 8915 3300 50  0001 C CNN
+	1    8915 3300
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	8600 3300 8765 3300
+Wire Wire Line
+	9065 3300 9235 3300
 $EndSCHEMATC
