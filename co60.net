@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/q_user/git/CO60/co60.sch)
-    (date "Mon 07 Jan 2019 10:16:41 PM UTC")
+    (date "Wed 09 Jan 2019 08:12:52 PM UTC")
     (tool "Eeschema 5.0.1-33cea8e~67~ubuntu16.04.1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -2068,8 +2068,10 @@
       (sheetpath (names /rgb_underglow/) (tstamps /5C2DC889/))
       (tstamp 5C2DFC20))
     (comp (ref RC9)
-      (value 500)
+      (value 470)
       (footprint Resistor_SMD:R_0603_1608Metric)
+      (fields
+        (field (name "LCSC PN") C114433))
       (libsource (lib co60-rescue) (part R) (description ""))
       (sheetpath (names /rgb_underglow/) (tstamps /5C2DC889/))
       (tstamp 5C33F401)))
