@@ -704,9 +704,9 @@ Text GLabel 8340 4055 2    60   Input ~ 0
 ROW1
 Text GLabel 6650 5155 0    60   Input ~ 0
 ROW2
-Text GLabel 6620 3955 0    60   Input ~ 0
-ROW3
 Text GLabel 6620 4055 0    60   Input ~ 0
+ROW3
+Text GLabel 6650 4855 0    60   Input ~ 0
 ROW4
 Text GLabel 8340 4755 2    60   Input ~ 0
 COL1
@@ -720,9 +720,9 @@ Text GLabel 8340 4355 2    60   Input ~ 0
 COL4
 Text GLabel 8340 4455 2    60   Input ~ 0
 COL5
-Text GLabel 8340 4555 2    60   Input ~ 0
-COL6
 Text GLabel 6620 3855 0    60   Input ~ 0
+COL6
+Text GLabel 6620 3955 0    60   Input ~ 0
 COL7
 Text GLabel 6620 4155 0    60   Input ~ 0
 COL9
@@ -766,7 +766,6 @@ COL13
 Text GLabel 6620 3655 0    60   Input ~ 0
 COL14
 NoConn ~ 6895 4755
-NoConn ~ 6895 4855
 NoConn ~ 6895 5055
 NoConn ~ 6895 4955
 $Comp
@@ -1046,10 +1045,8 @@ U 5C2DC889
 F0 "rgb_underglow" 50
 F1 "rgb_underglow.sch" 50
 $EndSheet
-Text GLabel 6650 5355 0    50   Input ~ 0
+Text GLabel 8340 4555 2    50   Input ~ 0
 RGBLED_3V3
-Wire Wire Line
-	6650 5355 6895 5355
 Wire Wire Line
 	8195 4755 8340 4755
 Wire Wire Line
@@ -1088,18 +1085,21 @@ Wire Wire Line
 Wire Wire Line
 	8340 4455 8195 4455
 Wire Wire Line
-	6620 3855 6895 3855
-Wire Wire Line
-	8340 4555 8195 4555
-Wire Wire Line
-	6620 3955 6895 3955
-Wire Wire Line
-	6620 4055 6895 4055
-Wire Wire Line
 	8340 5355 8195 5355
 NoConn ~ 8195 3855
 NoConn ~ 8195 3955
 NoConn ~ 6895 5255
 Wire Wire Line
 	8340 4055 8195 4055
+NoConn ~ 6895 5355
+Wire Wire Line
+	8195 4555 8340 4555
+Wire Wire Line
+	6620 3855 6895 3855
+Wire Wire Line
+	6620 3955 6895 3955
+Wire Wire Line
+	6620 4055 6895 4055
+Wire Wire Line
+	6650 4855 6895 4855
 $EndSCHEMATC
