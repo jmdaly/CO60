@@ -1,8 +1,8 @@
 (export (version D)
   (design
-    (source /home/q_user/git/CO60/co60.sch)
-    (date "Thu 10 Jan 2019 09:46:10 PM UTC")
-    (tool "Eeschema 5.0.1-33cea8e~67~ubuntu16.04.1")
+    (source /home/jmdaly/git/CO60/co60.sch)
+    (date "Thu 10 Jan 2019 10:48:40 PM EST")
+    (tool "Eeschema 5.0.2-bee76a0~70~ubuntu16.04.1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
         (title)
@@ -1850,6 +1850,8 @@
       (value WS2812B)
       (footprint LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm)
       (datasheet https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
+      (fields
+        (field (name "LCSC PN") C114585))
       (libsource (lib LED) (part WS2812B) (description "RGB LED with integrated controller"))
       (sheetpath (names /rgb_underglow/) (tstamps /5C2DC889/))
       (tstamp 5C2DC97B))
@@ -1857,6 +1859,8 @@
       (value WS2812B)
       (footprint LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm)
       (datasheet https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
+      (fields
+        (field (name "LCSC PN") C114585))
       (libsource (lib LED) (part WS2812B) (description "RGB LED with integrated controller"))
       (sheetpath (names /rgb_underglow/) (tstamps /5C2DC889/))
       (tstamp 5C2DCA0D))
@@ -1864,6 +1868,8 @@
       (value WS2812B)
       (footprint LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm)
       (datasheet https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
+      (fields
+        (field (name "LCSC PN") C114585))
       (libsource (lib LED) (part WS2812B) (description "RGB LED with integrated controller"))
       (sheetpath (names /rgb_underglow/) (tstamps /5C2DC889/))
       (tstamp 5C2DCA31))
@@ -1871,6 +1877,8 @@
       (value WS2812B)
       (footprint LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm)
       (datasheet https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
+      (fields
+        (field (name "LCSC PN") C114585))
       (libsource (lib LED) (part WS2812B) (description "RGB LED with integrated controller"))
       (sheetpath (names /rgb_underglow/) (tstamps /5C2DC889/))
       (tstamp 5C2DCA8C))
@@ -1878,6 +1886,8 @@
       (value WS2812B)
       (footprint LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm)
       (datasheet https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
+      (fields
+        (field (name "LCSC PN") C114585))
       (libsource (lib LED) (part WS2812B) (description "RGB LED with integrated controller"))
       (sheetpath (names /rgb_underglow/) (tstamps /5C2DC889/))
       (tstamp 5C2DCAB6))
@@ -1885,6 +1895,8 @@
       (value WS2812B)
       (footprint LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm)
       (datasheet https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
+      (fields
+        (field (name "LCSC PN") C114585))
       (libsource (lib LED) (part WS2812B) (description "RGB LED with integrated controller"))
       (sheetpath (names /rgb_underglow/) (tstamps /5C2DC889/))
       (tstamp 5C2DCB46))
@@ -1892,6 +1904,8 @@
       (value WS2812B)
       (footprint LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm)
       (datasheet https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
+      (fields
+        (field (name "LCSC PN") C114585))
       (libsource (lib LED) (part WS2812B) (description "RGB LED with integrated controller"))
       (sheetpath (names /rgb_underglow/) (tstamps /5C2DC889/))
       (tstamp 5C2DCB74))
@@ -1899,6 +1913,8 @@
       (value WS2812B)
       (footprint LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm)
       (datasheet https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
+      (fields
+        (field (name "LCSC PN") C114585))
       (libsource (lib LED) (part WS2812B) (description "RGB LED with integrated controller"))
       (sheetpath (names /rgb_underglow/) (tstamps /5C2DC889/))
       (tstamp 5C2DCBDE))
@@ -1906,6 +1922,8 @@
       (value WS2812B)
       (footprint LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm)
       (datasheet https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
+      (fields
+        (field (name "LCSC PN") C114585))
       (libsource (lib LED) (part WS2812B) (description "RGB LED with integrated controller"))
       (sheetpath (names /rgb_underglow/) (tstamps /5C2DC889/))
       (tstamp 5C2DCC12))
@@ -1913,6 +1931,8 @@
       (value WS2812B)
       (footprint LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm)
       (datasheet https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
+      (fields
+        (field (name "LCSC PN") C114585))
       (libsource (lib LED) (part WS2812B) (description "RGB LED with integrated controller"))
       (sheetpath (names /rgb_underglow/) (tstamps /5C2DC889/))
       (tstamp 5C2DCC42))
@@ -1920,6 +1940,8 @@
       (value WS2812B)
       (footprint LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm)
       (datasheet https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
+      (fields
+        (field (name "LCSC PN") C114585))
       (libsource (lib LED) (part WS2812B) (description "RGB LED with integrated controller"))
       (sheetpath (names /rgb_underglow/) (tstamps /5C2DC889/))
       (tstamp 5C2DCC94))
@@ -1927,6 +1949,8 @@
       (value WS2812B)
       (footprint LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm)
       (datasheet https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
+      (fields
+        (field (name "LCSC PN") C114585))
       (libsource (lib LED) (part WS2812B) (description "RGB LED with integrated controller"))
       (sheetpath (names /rgb_underglow/) (tstamps /5C2DC889/))
       (tstamp 5C2DCCD8))
@@ -1934,6 +1958,8 @@
       (value WS2812B)
       (footprint LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm)
       (datasheet https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
+      (fields
+        (field (name "LCSC PN") C114585))
       (libsource (lib LED) (part WS2812B) (description "RGB LED with integrated controller"))
       (sheetpath (names /rgb_underglow/) (tstamps /5C2DC889/))
       (tstamp 5C2DCD0E))
@@ -1941,6 +1967,8 @@
       (value WS2812B)
       (footprint LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm)
       (datasheet https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
+      (fields
+        (field (name "LCSC PN") C114585))
       (libsource (lib LED) (part WS2812B) (description "RGB LED with integrated controller"))
       (sheetpath (names /rgb_underglow/) (tstamps /5C2DC889/))
       (tstamp 5C2DCDC3))
@@ -1948,6 +1976,8 @@
       (value WS2812B)
       (footprint LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm)
       (datasheet https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
+      (fields
+        (field (name "LCSC PN") C114585))
       (libsource (lib LED) (part WS2812B) (description "RGB LED with integrated controller"))
       (sheetpath (names /rgb_underglow/) (tstamps /5C2DC889/))
       (tstamp 5C2DCE0B))
@@ -1955,6 +1985,8 @@
       (value WS2812B)
       (footprint LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm)
       (datasheet https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
+      (fields
+        (field (name "LCSC PN") C114585))
       (libsource (lib LED) (part WS2812B) (description "RGB LED with integrated controller"))
       (sheetpath (names /rgb_underglow/) (tstamps /5C2DC889/))
       (tstamp 5C2DCE5D))
@@ -2095,7 +2127,8 @@
         (field (name Field5) "Texas Instruments")
         (field (name Field6) "SOT-23 Texas Instruments")
         (field (name Field7) 296-37176-1-ND)
-        (field (name Field8) SN74LV1T34DBVR))
+        (field (name Field8) SN74LV1T34DBVR)
+        (field (name "LCSC PN") C100024))
       (libsource (lib SN74LV1T34DBVR) (part SN74LV1T34DBVR) (description ""))
       (sheetpath (names /rgb_underglow/) (tstamps /5C2DC889/))
       (tstamp 5C2DFC20))
@@ -2473,19 +2506,19 @@
     (library (logical MCU_ST_STM32F3)
       (uri /usr/share/kicad/library/MCU_ST_STM32F3.lib))
     (library (logical MX_Alps_Hybrids)
-      (uri "/home/q_user/git/CO60/lib/MX_Alps_Hybrid.pretty/Schematic Library/MX_Alps_Hybrids.lib"))
+      (uri "/home/jmdaly/git/CO60/lib/MX_Alps_Hybrid.pretty/Schematic Library/MX_Alps_Hybrids.lib"))
     (library (logical NUF2221W1T2G)
-      (uri /home/q_user/git/CO60/lib/NUF2221W1T2G.lib))
+      (uri /home/jmdaly/git/CO60/lib/NUF2221W1T2G.lib))
     (library (logical Regulator_Linear)
       (uri /usr/share/kicad/library/Regulator_Linear.lib))
     (library (logical SN74LV1T34DBVR)
-      (uri /home/q_user/git/CO60/lib/SN74LV1T34DBVR.lib))
+      (uri /home/jmdaly/git/CO60/lib/SN74LV1T34DBVR.lib))
     (library (logical Type-C)
-      (uri /home/q_user/git/CO60/lib/Type-C.pretty/Type-C.lib))
+      (uri /home/jmdaly/git/CO60/lib/Type-C.pretty/Type-C.lib))
     (library (logical co60-rescue)
-      (uri /home/q_user/git/CO60/co60-rescue.lib))
+      (uri /home/jmdaly/git/CO60/co60-rescue.lib))
     (library (logical dk_Transistors-Bipolar-BJT-Single)
-      (uri /home/q_user/git/CO60/lib/digikey-kicad-library/digikey-symbols/dk_Transistors-Bipolar-BJT-Single.lib)))
+      (uri /home/jmdaly/git/CO60/lib/digikey-kicad-library/digikey-symbols/dk_Transistors-Bipolar-BJT-Single.lib)))
   (nets
     (net (code 1) (name SWDIO)
       (node (ref J1) (pin 1))

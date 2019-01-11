@@ -13,10 +13,10 @@ RC8,R,10k,R_0603,1,P10KGCT-ND,https://industrial.panasonic.com/ww/products/resis
 RC1,R_Small,470,R_0603,1,,https://datasheet.lcsc.com/szlcsc/YAGEO-RC0603JR-07470RL_C114433.pdf,,C114433,RC0603JR-07470RL,,,,,,,,,,,,,,
 RC9,R,470,R_0603_1608Metric,1,,,,C114433,,,,,,,,,,,,,,,
 RC6 RC7,R,5.1k,R_0603,2,RMCF0603JT5K10CT-ND,https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf,,C14677,RMCF0603JT5K10,,,,,,,,,,,,,,
-RGB1 RGB2 RGB3 RGB4 RGB5 RGB6 RGB7 RGB8 RGB9 RGB10 RGB11 RGB12 RGB13 RGB14 RGB15 RGB16,WS2812B,WS2812B,LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm,16,,https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf,RGB LED with integrated controller,,,,,,,,,,,,,,,,
+RGB1 RGB2 RGB3 RGB4 RGB5 RGB6 RGB7 RGB8 RGB9 RGB10 RGB11 RGB12 RGB13 RGB14 RGB15 RGB16,WS2812B,WS2812B,LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm,16,,https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf,RGB LED with integrated controller,C114585,,,,,,,,,,,,,,,
 SW1,SW_Push,SW_Push,SW_SPST_TL3342,1,EG2531CT-ND,https://www.e-switch.com/system/asset/product_line/data_sheet/165/TL3342.pdf,,C92584,TL3342F160QG/TR,,,,,,,,,https://www.digikey.ca/product-detail/en/e-switch/TL3342F160QG-TR/EG2531CT-ND/379004,,,,,
 U3,NUF2221W1T2G,NUF2221W1T2G,SOT-363,1,,http://www.onsemi.com/pub/Collateral/NUF2221W1T2-D.PDF,,C274624,,,,,,,,,,,,,,,
-U4,SN74LV1T34DBVR,SN74LV1T34DBVR,SOT95P280X145-5N,1,,Single Power Supply BUFFER Logic Level Shifter _no enable_ 5-SOT-23 -40 to 125,,,,,,,,,,,,,SN74LV1T34DBVR,https://www.digikey.ca/product-detail/en/texas-instruments/SN74LV1T34DBVR/296-37176-1-ND/4555593?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol,296-37176-1-ND,SOT-23 Texas Instruments,Texas Instruments
+U4,SN74LV1T34DBVR,SN74LV1T34DBVR,SOT95P280X145-5N,1,,Single Power Supply BUFFER Logic Level Shifter _no enable_ 5-SOT-23 -40 to 125,,C100024,,,,,,,,,,,SN74LV1T34DBVR,https://www.digikey.ca/product-detail/en/texas-instruments/SN74LV1T34DBVR/296-37176-1-ND/4555593?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol,296-37176-1-ND,SOT-23 Texas Instruments,Texas Instruments
 U1,STM32F303CBTx,STM32F303CBTx,LQFP-48_7x7mm_Pitch0.5mm,1,,http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00058181.pdf,"ARM Cortex-M4 MCU, 128KB flash, 32KB RAM, 72MHz, 2-3.6V, 37 GPIO, LQFP-48",C108516,,,,,,,,,,,,,,,
 U2,TLV70233_SOT23-5,TLV70233_SOT23-5,SOT-23-5,1,,http://www.ti.com/lit/ds/symlink/tlv702.pdf,"300 mA Low Dropout Voltage Regulator, Fixed Output 3.3V, SOT-23-5",C26833,,,,,,,,,,,,,,,
 USB1,HRO-TYPE-C-31-M-12,HRO-TYPE-C-31-M-12,HRO-TYPE-C-31-M-12-Assembly,1,,https://datasheet.lcsc.com/szlcsc/Korean-Hroparts-Elec-TYPE-C-31-M-12_C165948.pdf,,C165948,,,,,,,,,,,,,,,
@@ -33,6 +33,6 @@ Number of PCBs:,1
 Total components:,193
 Schematic Version:,
 Schematic Date:,
-BoM Date:,Thu 10 Jan 2019 09:56:43 PM EST
+BoM Date:,Thu 10 Jan 2019 10:52:03 PM EST
 Schematic Source:,/home/jmdaly/git/CO60/co60.sch
 KiCad Version:,Eeschema 5.0.2-bee76a0~70~ubuntu16.04.1
