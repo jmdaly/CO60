@@ -20,7 +20,7 @@ U 1 1 5AAB499C
 P 4770 5445
 F 0 "C2" H 4795 5545 30  0000 L CNN
 F 1 "30p" H 4795 5345 30  0000 L CNN
-F 2 "Capacitors_SMD:C_0603" H 4808 5295 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 4808 5295 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL10C300JB8NNNC_C22397.pdf" H 4770 5445 50  0001 C CNN
 F 4 "CL10C300JB8NNNC" H 4770 5445 60  0001 C CNN "Product"
 F 5 "C22397" H 4770 5445 50  0001 C CNN "LCSC PN"
@@ -55,7 +55,7 @@ U 1 1 5AAB494D
 P 4220 5445
 F 0 "C1" H 4245 5545 30  0000 L CNN
 F 1 "30p" H 4245 5345 30  0000 L CNN
-F 2 "Capacitors_SMD:C_0603" H 4258 5295 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 4258 5295 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL10C300JB8NNNC_C22397.pdf" H 4220 5445 50  0001 C CNN
 F 4 "CL10C300JB8NNNC" H 4220 5445 60  0001 C CNN "Product"
 F 5 "C22397" H 4220 5445 60  0001 C CNN "LCSC PN"
@@ -426,7 +426,7 @@ U 1 1 5C0106A3
 P 975 1215
 F 0 "C6" H 1000 1315 50  0000 L CNN
 F 1 "1u" H 1000 1115 50  0000 L CNN
-F 2 "Capacitors_SMD:C_0603" H 1013 1065 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 1013 1065 50  0001 C CNN
 F 3 "https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_lowprofile_en.pdf" H 975 1215 50  0001 C CNN
 F 4 "CGB3B3JB1C105K055AB" H 975 1215 60  0001 C CNN "Product"
 F 5 "445-13234-1-ND" H 975 1215 60  0001 C CNN "Digi-Key_PN"
@@ -442,7 +442,7 @@ U 1 1 5C01AB02
 P 1235 1215
 F 0 "C7" H 1260 1315 50  0000 L CNN
 F 1 "10n" H 1260 1115 50  0000 L CNN
-F 2 "Capacitors_SMD:C_0603" H 1273 1065 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 1273 1065 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL10B103KB8NNNC_C1589.pdf" H 1235 1215 50  0001 C CNN
 F 4 "CL10B103KB8NNNC" H 1235 1215 50  0001 C CNN "Product"
 F 5 "C1589" H 1235 1215 50  0001 C CNN "LCSC PN"
@@ -537,7 +537,7 @@ U 1 1 5C0BC1F8
 P 2440 1215
 F 0 "C3" H 2465 1315 50  0000 L CNN
 F 1 "100n" H 2465 1115 50  0000 L CNN
-F 2 "Capacitors_SMD:C_0603" H 2478 1065 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 2478 1065 50  0001 C CNN
 F 3 "https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_hightemp_en.pdf" H 2440 1215 50  0001 C CNN
 F 4 "C1608X8R1E104K080AA" H 2440 1215 60  0001 C CNN "Product"
 F 5 "445-2500-1-ND" H 2440 1215 60  0001 C CNN "Digi-Key_PN"
@@ -551,7 +551,7 @@ U 1 1 5C0BC45A
 P 2170 1215
 F 0 "C4" H 2195 1315 50  0000 L CNN
 F 1 "100n" H 2195 1115 50  0000 L CNN
-F 2 "Capacitors_SMD:C_0603" H 2208 1065 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 2208 1065 50  0001 C CNN
 F 3 "https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_hightemp_en.pdf" H 2170 1215 50  0001 C CNN
 F 4 "C1608X8R1E104K080AA" H 2170 1215 60  0001 C CNN "Product"
 F 5 "445-2500-1-ND" H 2170 1215 60  0001 C CNN "Digi-Key_PN"
@@ -565,7 +565,7 @@ U 1 1 5C0BC50E
 P 1875 1215
 F 0 "C5" H 1900 1315 50  0000 L CNN
 F 1 "4.7u" H 1900 1115 50  0000 L CNN
-F 2 "Capacitors_SMD:C_0603" H 1913 1065 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 1913 1065 50  0001 C CNN
 F 3 "http://www.samsungsem.com/kr/support/product-search/mlcc/__icsFiles/afieldfile/2016/12/21/CL10A475KA8NQNC_161221.pdf" H 1875 1215 50  0001 C CNN
 F 4 "CL10A475KA8NQNC" H 1875 1215 60  0001 C CNN "Product"
 F 5 "1276-1900-1-ND" H 1875 1215 60  0001 C CNN "Digi-Key_PN"
@@ -629,7 +629,7 @@ U 1 1 5C13215C
 P 6400 2435
 F 0 "C9" H 6425 2535 50  0000 L CNN
 F 1 "100n" H 6425 2335 50  0000 L CNN
-F 2 "Capacitors_SMD:C_0603" H 6438 2285 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 6438 2285 50  0001 C CNN
 F 3 "https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_hightemp_en.pdf" H 6400 2435 50  0001 C CNN
 F 4 "C1608X8R1E104K080AA" H 6400 2435 60  0001 C CNN "Product"
 F 5 "445-2500-1-ND" H 6400 2435 60  0001 C CNN "Digi-Key_PN"
@@ -774,7 +774,7 @@ U 1 1 5C4F9DA5
 P 2695 1215
 F 0 "C8" H 2720 1315 50  0000 L CNN
 F 1 "100n" H 2720 1115 50  0000 L CNN
-F 2 "Capacitors_SMD:C_0603" H 2733 1065 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 2733 1065 50  0001 C CNN
 F 3 "https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_hightemp_en.pdf" H 2695 1215 50  0001 C CNN
 F 4 "C1608X8R1E104K080AA" H 2695 1215 60  0001 C CNN "Product"
 F 5 "445-2500-1-ND" H 2695 1215 60  0001 C CNN "Digi-Key_PN"
@@ -848,7 +848,7 @@ U 1 1 5D1198DF
 P 1400 6325
 F 0 "C10" H 1425 6425 50  0000 L CNN
 F 1 "1u" H 1425 6225 50  0000 L CNN
-F 2 "Capacitors_SMD:C_0603" H 1438 6175 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 1438 6175 50  0001 C CNN
 F 3 "https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_lowprofile_en.pdf" H 1400 6325 50  0001 C CNN
 F 4 "CGB3B3JB1C105K055AB" H 1400 6325 60  0001 C CNN "Product"
 F 5 "445-13234-1-ND" H 1400 6325 60  0001 C CNN "Digi-Key_PN"
@@ -862,7 +862,7 @@ U 1 1 5D119BC3
 P 2260 6325
 F 0 "C11" H 2285 6425 50  0000 L CNN
 F 1 "1u" H 2285 6225 50  0000 L CNN
-F 2 "Capacitors_SMD:C_0603" H 2298 6175 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 2298 6175 50  0001 C CNN
 F 3 "https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_lowprofile_en.pdf" H 2260 6325 50  0001 C CNN
 F 4 "CGB3B3JB1C105K055AB" H 2260 6325 60  0001 C CNN "Product"
 F 5 "445-13234-1-ND" H 2260 6325 60  0001 C CNN "Digi-Key_PN"

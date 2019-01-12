@@ -1,38 +1,37 @@
-References,Part,Value,Footprint,Quantity Per PCB,Digi-Key_PN,Datasheet,Description,LCSC PN,Product,Config,Category,Status,Family,MPN,DK_Datasheet_Link,DK_Detail_Page,Manufacturer,DigiKey Page,Field8,Field4,Field7,Field6,Field5
-C12 C13 C14 C15 C16 C17 C18 C19 C20 C21 C22 C23 C24 C25 C26 C27,C,100n,C_0603_1608Metric,16,,,,C1590,,,,,,,,,,,,,,,
-C3 C4 C8 C9,C,100n,C_0603,4,445-2500-1-ND,https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_hightemp_en.pdf,,C1590,C1608X8R1E104K080AA,,,,,,,,,,,,,,
-C7,C,10n,C_0603,1,,https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL10B103KB8NNNC_C1589.pdf,,C1589,CL10B103KB8NNNC,,,,,,,,,,,,,,
-C6 C10 C11,C,1u,C_0603,3,445-13234-1-ND,https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_lowprofile_en.pdf,,C59782,CGB3B3JB1C105K055AB,,,,,,,,,,,,,,
-C1 C2,C,30p,C_0603,2,,https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL10C300JB8NNNC_C22397.pdf,,C22397,CL10C300JB8NNNC,,,,,,,,,,,,,,
-C5,C,4.7u,C_0603,1,1276-1900-1-ND,http://www.samsungsem.com/kr/support/product-search/mlcc/__icsFiles/afieldfile/2016/12/21/CL10A475KA8NQNC_161221.pdf,,C19666,CL10A475KA8NQNC,,,,,,,,,,,,,,
-D1 D2 D3 D4 D5 D6 D7 D8 D9 D10 D11 D12 D13 D14 D15 D16 D17 D18 D19 D20 D21 D22 D23 D24 D25 D26 D27 D28 D29 D30 D31 D32 D33 D34 D35 D36 D37 D38 D39 D40 D41 D42 D43 D44 D45 D46 D47 D48 D49 D50 D51 D52 D53 D54 D55 D56 D57 D58 D59 D60 D61 D62 D63 D64 D65 D66 D67 D68,D_Small,D_Small,D_SOD-123,68,1N4148WTPMSCT-ND,http://www.mccsemi.com/up_pdf/1N4148W(SOD123).pdf,,C83528,1N4148W-TP,,,,,,,,,,,,,,
-F1,Polyfuse_Small,500mA,R_0805,1,F2772CT-ND,http://www.littelfuse.com/~/media/electronics/datasheets/resettable_ptcs/littelfuse_ptc_0805l_datasheet.pdf.pdf,,C66452,0805L050WR,,,,,,,,,,,,,,
-Q1,FMMT493TA,FMMT493TA,SOT-23-3,1,FMMT493CT-ND,https://www.diodes.com/assets/Datasheets/FMMT493.pdf,TRANS NPN 100V 1A SOT23-3,C47296,FMMT493TA,,Discrete Semiconductor Products,Active,Transistors - Bipolar (BJT) - Single,FMMT493TA,https://www.diodes.com/assets/Datasheets/FMMT493.pdf,/product-detail/en/diodes-incorporated/FMMT493TA/FMMT493CT-ND/92663,Diodes Incorporated,,,,,,
-R1 R2 R3 R4 R5 R6 R7 R8 R9 R10 R11 R12 R13 R14 R15 R16 R17 R18 R19 R20 R21 R22 R23 R24 R25 R26 R27 R28 R29 R30 R31 R32 R33 R34 R35 R36 R37 R38 R39 R40 R41 R42 R43 R44 R45 R46 R47 R48 R49 R50 R51 R52 R53 R54 R55 R56 R57 R58 R59 R60 R61 R62 R63 R64 R65 R66 R67 R68,R_Small,560,R_0603,68,MCT0603-560-CFCT-ND,https://www.mouser.ca/datasheet/2/427/mcx0x0xpro-223600.pdf,,C137619,MCT06030C5600FP500,,,,,,,,,,,,,,
-RC8,R,10k,R_0603,1,P10KGCT-ND,https://industrial.panasonic.com/ww/products/resistors/chip-resistors/general-purpose-chip-resistors/thick-film-chip-resistors/ERJ3GEYJ103V,,C98220,ERJ-3GEYJ103V,,,,,,,,,,,,,,
-RC1,R_Small,470,R_0603,1,,https://datasheet.lcsc.com/szlcsc/YAGEO-RC0603JR-07470RL_C114433.pdf,,C114433,RC0603JR-07470RL,,,,,,,,,,,,,,
-RC9,R,470,R_0603_1608Metric,1,,,,C114433,,,,,,,,,,,,,,,
-RC6 RC7,R,5.1k,R_0603,2,RMCF0603JT5K10CT-ND,https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf,,C14677,RMCF0603JT5K10,,,,,,,,,,,,,,
-RGB1 RGB2 RGB3 RGB4 RGB5 RGB6 RGB7 RGB8 RGB9 RGB10 RGB11 RGB12 RGB13 RGB14 RGB15 RGB16,WS2812B,WS2812B,LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm,16,,https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf,RGB LED with integrated controller,C114585,,,,,,,,,,,,,,,
-SW1,SW_Push,SW_Push,SW_SPST_TL3342,1,EG2531CT-ND,https://www.e-switch.com/system/asset/product_line/data_sheet/165/TL3342.pdf,,C92584,TL3342F160QG/TR,,,,,,,,,https://www.digikey.ca/product-detail/en/e-switch/TL3342F160QG-TR/EG2531CT-ND/379004,,,,,
-U3,NUF2221W1T2G,NUF2221W1T2G,SOT-363,1,,http://www.onsemi.com/pub/Collateral/NUF2221W1T2-D.PDF,,C274624,,,,,,,,,,,,,,,
-U4,SN74LV1T34DBVR,SN74LV1T34DBVR,SOT95P280X145-5N,1,,Single Power Supply BUFFER Logic Level Shifter _no enable_ 5-SOT-23 -40 to 125,,C100024,,,,,,,,,,,SN74LV1T34DBVR,https://www.digikey.ca/product-detail/en/texas-instruments/SN74LV1T34DBVR/296-37176-1-ND/4555593?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol,296-37176-1-ND,SOT-23 Texas Instruments,Texas Instruments
-U1,STM32F303CBTx,STM32F303CBTx,LQFP-48_7x7mm_Pitch0.5mm,1,,http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00058181.pdf,"ARM Cortex-M4 MCU, 128KB flash, 32KB RAM, 72MHz, 2-3.6V, 37 GPIO, LQFP-48",C108516,,,,,,,,,,,,,,,
-U2,TLV70233_SOT23-5,TLV70233_SOT23-5,SOT-23-5,1,,http://www.ti.com/lit/ds/symlink/tlv702.pdf,"300 mA Low Dropout Voltage Regulator, Fixed Output 3.3V, SOT-23-5",C26833,,,,,,,,,,,,,,,
-USB1,HRO-TYPE-C-31-M-12,HRO-TYPE-C-31-M-12,HRO-TYPE-C-31-M-12-Assembly,1,,https://datasheet.lcsc.com/szlcsc/Korean-Hroparts-Elec-TYPE-C-31-M-12_C165948.pdf,,C165948,,,,,,,,,,,,,,,
-Y1,Crystal_GND24,8MHz,Crystal_SMD_5032-4pin_5.0x3.2mm,1,,https://lcsc.com/product-detail/SMD-Crystals_SMD-5032-4P-8M-20pf-20ppm_C133333.html,,C133333,Zhejiang Abel Elec SMD-5032_4P8M20pf20ppm,,,,,,,,,,,,,,
+References,Part,Value,Footprint,Quantity Per PCB,Digi-Key_PN,Datasheet,Description,Product,LCSC PN,Config,Category,Status,Family,MPN,DK_Datasheet_Link,DK_Detail_Page,Manufacturer,DigiKey Page,Field8,Field4,Field7,Field6,Field5
+C3 C4 C8 C9 C12 C13 C14 C15 C16 C17 C18 C19 C20 C21 C22 C23 C24 C25 C26 C27,C,100n,C_0603_1608Metric,20,445-2500-1-ND,https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_hightemp_en.pdf,,C1608X8R1E104K080AA,C1590,,,,,,,,,,,,,,
+C7,C,10n,C_0603_1608Metric,1,,https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL10B103KB8NNNC_C1589.pdf,,CL10B103KB8NNNC,C1589,,,,,,,,,,,,,,
+C6 C10 C11,C,1u,C_0603_1608Metric,3,445-13234-1-ND,https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_lowprofile_en.pdf,,CGB3B3JB1C105K055AB,C59782,,,,,,,,,,,,,,
+C1 C2,C,30p,C_0603_1608Metric,2,,https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL10C300JB8NNNC_C22397.pdf,,CL10C300JB8NNNC,C22397,,,,,,,,,,,,,,
+C5,C,4.7u,C_0603_1608Metric,1,1276-1900-1-ND,http://www.samsungsem.com/kr/support/product-search/mlcc/__icsFiles/afieldfile/2016/12/21/CL10A475KA8NQNC_161221.pdf,,CL10A475KA8NQNC,C19666,,,,,,,,,,,,,,
+D1 D2 D3 D4 D5 D6 D7 D8 D9 D10 D11 D12 D13 D14 D15 D16 D17 D18 D19 D20 D21 D22 D23 D24 D25 D26 D27 D28 D29 D30 D31 D32 D33 D34 D35 D36 D37 D38 D39 D40 D41 D42 D43 D44 D45 D46 D47 D48 D49 D50 D51 D52 D53 D54 D55 D56 D57 D58 D59 D60 D61 D62 D63 D64 D65 D66 D67 D68,D_Small,D_Small,D_SOD-123,68,1N4148WTPMSCT-ND,http://www.mccsemi.com/up_pdf/1N4148W(SOD123).pdf,,1N4148W-TP,C83528,,,,,,,,,,,,,,
+F1,Polyfuse_Small,500mA,R_0805,1,F2772CT-ND,http://www.littelfuse.com/~/media/electronics/datasheets/resettable_ptcs/littelfuse_ptc_0805l_datasheet.pdf.pdf,,0805L050WR,C66452,,,,,,,,,,,,,,
+Q1,FMMT493TA,FMMT493TA,SOT-23-3,1,FMMT493CT-ND,https://www.diodes.com/assets/Datasheets/FMMT493.pdf,TRANS NPN 100V 1A SOT23-3,FMMT493TA,C47296,,Discrete Semiconductor Products,Active,Transistors - Bipolar (BJT) - Single,FMMT493TA,https://www.diodes.com/assets/Datasheets/FMMT493.pdf,/product-detail/en/diodes-incorporated/FMMT493TA/FMMT493CT-ND/92663,Diodes Incorporated,,,,,,
+R1 R2 R3 R4 R5 R6 R7 R8 R9 R10 R11 R12 R13 R14 R15 R16 R17 R18 R19 R20 R21 R22 R23 R24 R25 R26 R27 R28 R29 R30 R31 R32 R33 R34 R35 R36 R37 R38 R39 R40 R41 R42 R43 R44 R45 R46 R47 R48 R49 R50 R51 R52 R53 R54 R55 R56 R57 R58 R59 R60 R61 R62 R63 R64 R65 R66 R67 R68,R_Small,560,R_0603,68,MCT0603-560-CFCT-ND,https://www.mouser.ca/datasheet/2/427/mcx0x0xpro-223600.pdf,,MCT06030C5600FP500,C137619,,,,,,,,,,,,,,
+RC8,R,10k,R_0603,1,P10KGCT-ND,https://industrial.panasonic.com/ww/products/resistors/chip-resistors/general-purpose-chip-resistors/thick-film-chip-resistors/ERJ3GEYJ103V,,ERJ-3GEYJ103V,C98220,,,,,,,,,,,,,,
+RC1,R_Small,470,R_0603,1,,https://datasheet.lcsc.com/szlcsc/YAGEO-RC0603JR-07470RL_C114433.pdf,,RC0603JR-07470RL,C114433,,,,,,,,,,,,,,
+RC9,R,470,R_0603_1608Metric,1,,,,,C114433,,,,,,,,,,,,,,
+RC6 RC7,R,5.1k,R_0603,2,RMCF0603JT5K10CT-ND,https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf,,RMCF0603JT5K10,C14677,,,,,,,,,,,,,,
+RGB1 RGB2 RGB3 RGB4 RGB5 RGB6 RGB7 RGB8 RGB9 RGB10 RGB11 RGB12 RGB13 RGB14 RGB15 RGB16,WS2812B,WS2812B,LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm,16,,https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf,RGB LED with integrated controller,,C114585,,,,,,,,,,,,,,
+SW1,SW_Push,SW_Push,SW_SPST_TL3342,1,EG2531CT-ND,https://www.e-switch.com/system/asset/product_line/data_sheet/165/TL3342.pdf,,TL3342F160QG/TR,C92584,,,,,,,,,https://www.digikey.ca/product-detail/en/e-switch/TL3342F160QG-TR/EG2531CT-ND/379004,,,,,
+U3,NUF2221W1T2G,NUF2221W1T2G,SOT-363,1,,http://www.onsemi.com/pub/Collateral/NUF2221W1T2-D.PDF,,,C274624,,,,,,,,,,,,,,
+U4,SN74LV1T34DBVR,SN74LV1T34DBVR,SOT95P280X145-5N,1,,Single Power Supply BUFFER Logic Level Shifter _no enable_ 5-SOT-23 -40 to 125,,,C100024,,,,,,,,,,SN74LV1T34DBVR,https://www.digikey.ca/product-detail/en/texas-instruments/SN74LV1T34DBVR/296-37176-1-ND/4555593?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol,296-37176-1-ND,SOT-23 Texas Instruments,Texas Instruments
+U1,STM32F303CBTx,STM32F303CBTx,LQFP-48_7x7mm_Pitch0.5mm,1,,http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00058181.pdf,"ARM Cortex-M4 MCU, 128KB flash, 32KB RAM, 72MHz, 2-3.6V, 37 GPIO, LQFP-48",,C108516,,,,,,,,,,,,,,
+U2,TLV70233_SOT23-5,TLV70233_SOT23-5,SOT-23-5,1,,http://www.ti.com/lit/ds/symlink/tlv702.pdf,"300 mA Low Dropout Voltage Regulator, Fixed Output 3.3V, SOT-23-5",,C26833,,,,,,,,,,,,,,
+USB1,HRO-TYPE-C-31-M-12,HRO-TYPE-C-31-M-12,HRO-TYPE-C-31-M-12-Assembly,1,,https://datasheet.lcsc.com/szlcsc/Korean-Hroparts-Elec-TYPE-C-31-M-12_C165948.pdf,,,C165948,,,,,,,,,,,,,,
+Y1,Crystal_GND24,8MHz,Crystal_SMD_5032-4pin_5.0x3.2mm,1,,https://lcsc.com/product-detail/SMD-Crystals_SMD-5032-4P-8M-20pf-20ppm_C133333.html,,Zhejiang Abel Elec SMD-5032_4P8M20pf20ppm,C133333,,,,,,,,,,,,,,
 
 
 
 
 
-Component Groups:,40
+Component Groups:,39
 Component Count:,285
 Fitted Components:,193
 Number of PCBs:,1
 Total components:,193
 Schematic Version:,
 Schematic Date:,
-BoM Date:,Thu 10 Jan 2019 10:52:03 PM EST
-Schematic Source:,/home/jmdaly/git/CO60/co60.sch
-KiCad Version:,Eeschema 5.0.2-bee76a0~70~ubuntu16.04.1
+BoM Date:,Fri 11 Jan 2019 02:59:07 PM UTC
+Schematic Source:,/home/q_user/git/CO60/co60.sch
+KiCad Version:,Eeschema 5.0.1-33cea8e~67~ubuntu16.04.1

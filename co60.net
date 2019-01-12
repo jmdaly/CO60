@@ -1,8 +1,8 @@
 (export (version D)
   (design
-    (source /home/jmdaly/git/CO60/co60.sch)
-    (date "Thu 10 Jan 2019 10:48:40 PM EST")
-    (tool "Eeschema 5.0.2-bee76a0~70~ubuntu16.04.1")
+    (source /home/q_user/git/CO60/co60.sch)
+    (date "Fri 11 Jan 2019 02:55:53 PM UTC")
+    (tool "Eeschema 5.0.1-33cea8e~67~ubuntu16.04.1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
         (title)
@@ -39,7 +39,7 @@
   (components
     (comp (ref C2)
       (value 30p)
-      (footprint Capacitors_SMD:C_0603)
+      (footprint Capacitor_SMD:C_0603_1608Metric)
       (datasheet https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL10C300JB8NNNC_C22397.pdf)
       (fields
         (field (name "LCSC PN") C22397)
@@ -49,7 +49,7 @@
       (tstamp 5AAB499C))
     (comp (ref C1)
       (value 30p)
-      (footprint Capacitors_SMD:C_0603)
+      (footprint Capacitor_SMD:C_0603_1608Metric)
       (datasheet https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL10C300JB8NNNC_C22397.pdf)
       (fields
         (field (name "LCSC PN") C22397)
@@ -147,7 +147,7 @@
       (tstamp 5BC4AA7D))
     (comp (ref C6)
       (value 1u)
-      (footprint Capacitors_SMD:C_0603)
+      (footprint Capacitor_SMD:C_0603_1608Metric)
       (datasheet https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_lowprofile_en.pdf)
       (fields
         (field (name Digi-Key_PN) 445-13234-1-ND)
@@ -158,7 +158,7 @@
       (tstamp 5C0106A3))
     (comp (ref C7)
       (value 10n)
-      (footprint Capacitors_SMD:C_0603)
+      (footprint Capacitor_SMD:C_0603_1608Metric)
       (datasheet https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL10B103KB8NNNC_C1589.pdf)
       (fields
         (field (name "LCSC PN") C1589)
@@ -168,7 +168,7 @@
       (tstamp 5C01AB02))
     (comp (ref C3)
       (value 100n)
-      (footprint Capacitors_SMD:C_0603)
+      (footprint Capacitor_SMD:C_0603_1608Metric)
       (datasheet https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_hightemp_en.pdf)
       (fields
         (field (name Digi-Key_PN) 445-2500-1-ND)
@@ -179,7 +179,7 @@
       (tstamp 5C0BC1F8))
     (comp (ref C4)
       (value 100n)
-      (footprint Capacitors_SMD:C_0603)
+      (footprint Capacitor_SMD:C_0603_1608Metric)
       (datasheet https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_hightemp_en.pdf)
       (fields
         (field (name Digi-Key_PN) 445-2500-1-ND)
@@ -190,7 +190,7 @@
       (tstamp 5C0BC45A))
     (comp (ref C5)
       (value 4.7u)
-      (footprint Capacitors_SMD:C_0603)
+      (footprint Capacitor_SMD:C_0603_1608Metric)
       (datasheet http://www.samsungsem.com/kr/support/product-search/mlcc/__icsFiles/afieldfile/2016/12/21/CL10A475KA8NQNC_161221.pdf)
       (fields
         (field (name Digi-Key_PN) 1276-1900-1-ND)
@@ -213,7 +213,7 @@
       (tstamp 5C118DB4))
     (comp (ref C9)
       (value 100n)
-      (footprint Capacitors_SMD:C_0603)
+      (footprint Capacitor_SMD:C_0603_1608Metric)
       (datasheet https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_hightemp_en.pdf)
       (fields
         (field (name Digi-Key_PN) 445-2500-1-ND)
@@ -234,7 +234,7 @@
       (tstamp 5C10034A))
     (comp (ref C8)
       (value 100n)
-      (footprint Capacitors_SMD:C_0603)
+      (footprint Capacitor_SMD:C_0603_1608Metric)
       (datasheet https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_hightemp_en.pdf)
       (fields
         (field (name Digi-Key_PN) 445-2500-1-ND)
@@ -245,7 +245,7 @@
       (tstamp 5C4F9DA5))
     (comp (ref C10)
       (value 1u)
-      (footprint Capacitors_SMD:C_0603)
+      (footprint Capacitor_SMD:C_0603_1608Metric)
       (datasheet https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_lowprofile_en.pdf)
       (fields
         (field (name Digi-Key_PN) 445-13234-1-ND)
@@ -256,7 +256,7 @@
       (tstamp 5D1198DF))
     (comp (ref C11)
       (value 1u)
-      (footprint Capacitors_SMD:C_0603)
+      (footprint Capacitor_SMD:C_0603_1608Metric)
       (datasheet https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_lowprofile_en.pdf)
       (fields
         (field (name Digi-Key_PN) 445-13234-1-ND)
@@ -2506,19 +2506,19 @@
     (library (logical MCU_ST_STM32F3)
       (uri /usr/share/kicad/library/MCU_ST_STM32F3.lib))
     (library (logical MX_Alps_Hybrids)
-      (uri "/home/jmdaly/git/CO60/lib/MX_Alps_Hybrid.pretty/Schematic Library/MX_Alps_Hybrids.lib"))
+      (uri "/home/q_user/git/CO60/lib/MX_Alps_Hybrid.pretty/Schematic Library/MX_Alps_Hybrids.lib"))
     (library (logical NUF2221W1T2G)
-      (uri /home/jmdaly/git/CO60/lib/NUF2221W1T2G.lib))
+      (uri /home/q_user/git/CO60/lib/NUF2221W1T2G.lib))
     (library (logical Regulator_Linear)
       (uri /usr/share/kicad/library/Regulator_Linear.lib))
     (library (logical SN74LV1T34DBVR)
-      (uri /home/jmdaly/git/CO60/lib/SN74LV1T34DBVR.lib))
+      (uri /home/q_user/git/CO60/lib/SN74LV1T34DBVR.lib))
     (library (logical Type-C)
-      (uri /home/jmdaly/git/CO60/lib/Type-C.pretty/Type-C.lib))
+      (uri /home/q_user/git/CO60/lib/Type-C.pretty/Type-C.lib))
     (library (logical co60-rescue)
-      (uri /home/jmdaly/git/CO60/co60-rescue.lib))
+      (uri /home/q_user/git/CO60/co60-rescue.lib))
     (library (logical dk_Transistors-Bipolar-BJT-Single)
-      (uri /home/jmdaly/git/CO60/lib/digikey-kicad-library/digikey-symbols/dk_Transistors-Bipolar-BJT-Single.lib)))
+      (uri /home/q_user/git/CO60/lib/digikey-kicad-library/digikey-symbols/dk_Transistors-Bipolar-BJT-Single.lib)))
   (nets
     (net (code 1) (name SWDIO)
       (node (ref J1) (pin 1))
