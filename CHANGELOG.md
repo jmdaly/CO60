@@ -3,6 +3,22 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## [Rev. 7] - 2019-01-17
+
+### Changed
+- This revision adds 16 RGB LEDs to the bottom of the PCB
+  to be used as underglow. Note that, in order to add the RGB
+  LEDs, I had to re-route significant portions of the PCB. As
+  a result, the matrix layout has changed. Rev. 7 firmware is
+  incompatible with Rev. 6 firmware.
+
+## [Rev. 6] - 2018-11-19
+
+### Changed
+- This revision of the PCB now uses an STM32F303 microcontroller
+  instead of an Atmega 32u4. The layouts remain the same, but
+  the firmware for Rev. 6 is incompatible with previous revisions.
+
 ## [Rev. 5] - 2018-08-28
 
 ### Changed
@@ -67,7 +83,9 @@ All notable changes to this project will be documented in this file.
 - Tag to note the first completed revision. This is the version that
   was sent to JLCPCB for initial prototyping.
 
-[Unreleased]: https://github.com/jmdaly/CO60/compare/Rev.4...HEAD
+[Unreleased]: https://github.com/jmdaly/CO60/compare/Rev.7...HEAD
+[Rev. 7]: https://github.com/jmdaly/CO60/compare/Rev.6...Rev.7
+[Rev. 6]: https://github.com/jmdaly/CO60/compare/Rev.5...Rev.6
 [Rev. 5]: https://github.com/jmdaly/CO60/compare/Rev.4...Rev.5
 [Rev. 4]: https://github.com/jmdaly/CO60/compare/Rev.3...Rev.4
 [Rev. 3]: https://github.com/jmdaly/CO60/compare/Rev.2...Rev.3
