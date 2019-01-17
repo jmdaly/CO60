@@ -4,7 +4,7 @@ EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 2
+Sheet 1 3
 Title ""
 Date ""
 Rev ""
@@ -20,7 +20,7 @@ U 1 1 5AAB499C
 P 4770 5445
 F 0 "C2" H 4795 5545 30  0000 L CNN
 F 1 "30p" H 4795 5345 30  0000 L CNN
-F 2 "Capacitors_SMD:C_0603" H 4808 5295 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 4808 5295 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL10C300JB8NNNC_C22397.pdf" H 4770 5445 50  0001 C CNN
 F 4 "CL10C300JB8NNNC" H 4770 5445 60  0001 C CNN "Product"
 F 5 "C22397" H 4770 5445 50  0001 C CNN "LCSC PN"
@@ -55,7 +55,7 @@ U 1 1 5AAB494D
 P 4220 5445
 F 0 "C1" H 4245 5545 30  0000 L CNN
 F 1 "30p" H 4245 5345 30  0000 L CNN
-F 2 "Capacitors_SMD:C_0603" H 4258 5295 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 4258 5295 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL10C300JB8NNNC_C22397.pdf" H 4220 5445 50  0001 C CNN
 F 4 "CL10C300JB8NNNC" H 4220 5445 60  0001 C CNN "Product"
 F 5 "C22397" H 4220 5445 60  0001 C CNN "LCSC PN"
@@ -100,7 +100,7 @@ U 1 1 5AC284AA
 P 4365 1080
 F 0 "RC1" H 4395 1100 50  0000 L CNN
 F 1 "470" H 4395 1040 50  0000 L CNN
-F 2 "Resistors_SMD:R_0603" H 4365 1080 50  0001 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 4365 1080 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/YAGEO-RC0603JR-07470RL_C114433.pdf" H 4365 1080 50  0001 C CNN
 F 4 "RC0603JR-07470RL" H 4365 1080 60  0001 C CNN "Product"
 F 5 "C114433" H 4365 1080 50  0001 C CNN "LCSC PN"
@@ -294,18 +294,6 @@ Wire Wire Line
 	1805 3485 1925 3485
 Connection ~ 2005 3485
 $Comp
-L MCU_ST_STM32F3:STM32F303CBTx U1
-U 1 1 5BC4A90A
-P 7595 4055
-F 0 "U1" H 7545 2469 50  0000 C CNN
-F 1 "STM32F303CBTx" H 7545 2378 50  0000 C CNN
-F 2 "Housings_QFP:LQFP-48_7x7mm_Pitch0.5mm" H 6995 2655 50  0001 R CNN
-F 3 "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00058181.pdf" H 7595 4055 50  0001 C CNN
-F 4 "C108516" H 7595 4055 50  0001 C CNN "LCSC PN"
-	1    7595 4055
-	1    0    0    -1  
-$EndComp
-$Comp
 L Regulator_Linear:TLV70233_SOT23-5 U2
 U 1 1 5BC4AA7D
 P 1795 5905
@@ -438,7 +426,7 @@ U 1 1 5C0106A3
 P 975 1215
 F 0 "C6" H 1000 1315 50  0000 L CNN
 F 1 "1u" H 1000 1115 50  0000 L CNN
-F 2 "Capacitors_SMD:C_0603" H 1013 1065 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 1013 1065 50  0001 C CNN
 F 3 "https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_lowprofile_en.pdf" H 975 1215 50  0001 C CNN
 F 4 "CGB3B3JB1C105K055AB" H 975 1215 60  0001 C CNN "Product"
 F 5 "445-13234-1-ND" H 975 1215 60  0001 C CNN "Digi-Key_PN"
@@ -454,7 +442,7 @@ U 1 1 5C01AB02
 P 1235 1215
 F 0 "C7" H 1260 1315 50  0000 L CNN
 F 1 "10n" H 1260 1115 50  0000 L CNN
-F 2 "Capacitors_SMD:C_0603" H 1273 1065 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 1273 1065 50  0001 C CNN
 F 3 "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL10B103KB8NNNC_C1589.pdf" H 1235 1215 50  0001 C CNN
 F 4 "CL10B103KB8NNNC" H 1235 1215 50  0001 C CNN "Product"
 F 5 "C1589" H 1235 1215 50  0001 C CNN "LCSC PN"
@@ -549,7 +537,7 @@ U 1 1 5C0BC1F8
 P 2440 1215
 F 0 "C3" H 2465 1315 50  0000 L CNN
 F 1 "100n" H 2465 1115 50  0000 L CNN
-F 2 "Capacitors_SMD:C_0603" H 2478 1065 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 2478 1065 50  0001 C CNN
 F 3 "https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_hightemp_en.pdf" H 2440 1215 50  0001 C CNN
 F 4 "C1608X8R1E104K080AA" H 2440 1215 60  0001 C CNN "Product"
 F 5 "445-2500-1-ND" H 2440 1215 60  0001 C CNN "Digi-Key_PN"
@@ -563,7 +551,7 @@ U 1 1 5C0BC45A
 P 2170 1215
 F 0 "C4" H 2195 1315 50  0000 L CNN
 F 1 "100n" H 2195 1115 50  0000 L CNN
-F 2 "Capacitors_SMD:C_0603" H 2208 1065 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 2208 1065 50  0001 C CNN
 F 3 "https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_hightemp_en.pdf" H 2170 1215 50  0001 C CNN
 F 4 "C1608X8R1E104K080AA" H 2170 1215 60  0001 C CNN "Product"
 F 5 "445-2500-1-ND" H 2170 1215 60  0001 C CNN "Digi-Key_PN"
@@ -577,7 +565,7 @@ U 1 1 5C0BC50E
 P 1875 1215
 F 0 "C5" H 1900 1315 50  0000 L CNN
 F 1 "4.7u" H 1900 1115 50  0000 L CNN
-F 2 "Capacitors_SMD:C_0603" H 1913 1065 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 1913 1065 50  0001 C CNN
 F 3 "http://www.samsungsem.com/kr/support/product-search/mlcc/__icsFiles/afieldfile/2016/12/21/CL10A475KA8NQNC_161221.pdf" H 1875 1215 50  0001 C CNN
 F 4 "CL10A475KA8NQNC" H 1875 1215 60  0001 C CNN "Product"
 F 5 "1276-1900-1-ND" H 1875 1215 60  0001 C CNN "Digi-Key_PN"
@@ -641,7 +629,7 @@ U 1 1 5C13215C
 P 6400 2435
 F 0 "C9" H 6425 2535 50  0000 L CNN
 F 1 "100n" H 6425 2335 50  0000 L CNN
-F 2 "Capacitors_SMD:C_0603" H 6438 2285 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 6438 2285 50  0001 C CNN
 F 3 "https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_hightemp_en.pdf" H 6400 2435 50  0001 C CNN
 F 4 "C1608X8R1E104K080AA" H 6400 2435 60  0001 C CNN "Product"
 F 5 "445-2500-1-ND" H 6400 2435 60  0001 C CNN "Digi-Key_PN"
@@ -710,58 +698,38 @@ Wire Wire Line
 	4020 5835 4890 5835
 Wire Wire Line
 	4890 5835 4890 5195
-Text GLabel 6620 3855 0    60   Input ~ 0
-ROW0
-Text GLabel 6620 3955 0    60   Input ~ 0
-ROW1
-Text GLabel 6620 4055 0    60   Input ~ 0
-ROW2
-Text GLabel 8340 5355 2    60   Input ~ 0
-ROW3
-Wire Wire Line
-	8195 5355 8340 5355
-Text GLabel 8335 4855 2    60   Input ~ 0
-ROW4
-Wire Wire Line
-	8195 4855 8335 4855
-Text GLabel 8340 4055 2    60   Input ~ 0
-COL0
-Wire Wire Line
-	8195 4055 8340 4055
-Text GLabel 8340 4155 2    60   Input ~ 0
-COL1
-Wire Wire Line
-	8340 4155 8195 4155
-Text GLabel 8340 4455 2    60   Input ~ 0
-COL2
-Wire Wire Line
-	8340 4455 8195 4455
-Text GLabel 6650 5255 0    60   Input ~ 0
-COL3
-Wire Wire Line
-	6650 5255 6895 5255
-Text GLabel 6650 5355 0    60   Input ~ 0
-COL4
-Wire Wire Line
-	6650 5355 6895 5355
 Text GLabel 8340 4655 2    60   Input ~ 0
+ROW0
+Text GLabel 8340 4055 2    60   Input ~ 0
+ROW1
+Text GLabel 6650 5155 0    60   Input ~ 0
+ROW2
+Text GLabel 6620 4055 0    60   Input ~ 0
+ROW3
+Text GLabel 6650 4855 0    60   Input ~ 0
+ROW4
+Text GLabel 8340 4755 2    60   Input ~ 0
+COL1
+Text GLabel 8340 4855 2    60   Input ~ 0
+COL0
+Text GLabel 8340 4155 2    60   Input ~ 0
+COL2
+Text GLabel 8340 4255 2    60   Input ~ 0
+COL3
+Text GLabel 8340 4355 2    60   Input ~ 0
+COL4
+Text GLabel 8340 4455 2    60   Input ~ 0
 COL5
-Wire Wire Line
-	8195 4655 8340 4655
-Text GLabel 8345 4755 2    60   Input ~ 0
+Text GLabel 6620 3855 0    60   Input ~ 0
 COL6
-Wire Wire Line
-	8345 4755 8195 4755
-Text GLabel 8340 4555 2    60   Input ~ 0
+Text GLabel 6620 3955 0    60   Input ~ 0
 COL7
-Wire Wire Line
-	8340 4555 8195 4555
 Text GLabel 6620 4155 0    60   Input ~ 0
-COL8
-Text GLabel 6620 4255 0    60   Input ~ 0
 COL9
-Text GLabel 6620 3555 0    60   Input ~ 0
+Text GLabel 6620 4255 0    60   Input ~ 0
 COL10
+Text GLabel 6620 4355 0    60   Input ~ 0
+COL11
 Text GLabel 6550 3155 0    50   Input ~ 0
 OSC_IN
 Text GLabel 6550 3255 0    50   Input ~ 0
@@ -785,50 +753,28 @@ Wire Wire Line
 Wire Wire Line
 	5810 2915 5735 2915
 Connection ~ 5735 2915
-Wire Wire Line
-	6620 3555 6895 3555
-Text GLabel 6620 3655 0    60   Input ~ 0
-COL11
-Wire Wire Line
-	6620 3655 6895 3655
+Text GLabel 8340 5355 2    60   Input ~ 0
+COL8
 Text GLabel 6620 3455 0    60   Input ~ 0
 COL12
-Wire Wire Line
-	6620 3455 6895 3455
-Wire Wire Line
-	6620 3855 6895 3855
-Wire Wire Line
-	6620 3955 6895 3955
-Wire Wire Line
-	6620 4055 6895 4055
 Wire Wire Line
 	6620 4155 6895 4155
 Wire Wire Line
 	6620 4255 6895 4255
-Text GLabel 6620 4355 0    60   Input ~ 0
+Text GLabel 6620 3555 0    60   Input ~ 0
 COL13
-Wire Wire Line
-	6620 4355 6895 4355
-Text GLabel 6620 4455 0    60   Input ~ 0
+Text GLabel 6620 3655 0    60   Input ~ 0
 COL14
-Wire Wire Line
-	6620 4455 6895 4455
-NoConn ~ 8195 3855
-NoConn ~ 8195 3955
-NoConn ~ 8195 4255
-NoConn ~ 8195 4355
 NoConn ~ 6895 4755
-NoConn ~ 6895 4855
 NoConn ~ 6895 5055
 NoConn ~ 6895 4955
-NoConn ~ 6895 5155
 $Comp
 L co60-rescue:C C8
 U 1 1 5C4F9DA5
 P 2695 1215
 F 0 "C8" H 2720 1315 50  0000 L CNN
 F 1 "100n" H 2720 1115 50  0000 L CNN
-F 2 "Capacitors_SMD:C_0603" H 2733 1065 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 2733 1065 50  0001 C CNN
 F 3 "https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_hightemp_en.pdf" H 2695 1215 50  0001 C CNN
 F 4 "C1608X8R1E104K080AA" H 2695 1215 60  0001 C CNN "Product"
 F 5 "445-2500-1-ND" H 2695 1215 60  0001 C CNN "Digi-Key_PN"
@@ -902,7 +848,7 @@ U 1 1 5D1198DF
 P 1400 6325
 F 0 "C10" H 1425 6425 50  0000 L CNN
 F 1 "1u" H 1425 6225 50  0000 L CNN
-F 2 "Capacitors_SMD:C_0603" H 1438 6175 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 1438 6175 50  0001 C CNN
 F 3 "https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_lowprofile_en.pdf" H 1400 6325 50  0001 C CNN
 F 4 "CGB3B3JB1C105K055AB" H 1400 6325 60  0001 C CNN "Product"
 F 5 "445-13234-1-ND" H 1400 6325 60  0001 C CNN "Digi-Key_PN"
@@ -916,7 +862,7 @@ U 1 1 5D119BC3
 P 2260 6325
 F 0 "C11" H 2285 6425 50  0000 L CNN
 F 1 "1u" H 2285 6225 50  0000 L CNN
-F 2 "Capacitors_SMD:C_0603" H 2298 6175 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 2298 6175 50  0001 C CNN
 F 3 "https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_lowprofile_en.pdf" H 2260 6325 50  0001 C CNN
 F 4 "CGB3B3JB1C105K055AB" H 2260 6325 60  0001 C CNN "Product"
 F 5 "445-13234-1-ND" H 2260 6325 60  0001 C CNN "Digi-Key_PN"
@@ -1025,7 +971,7 @@ U 1 1 5BE5208F
 P 3700 2250
 F 0 "U3" H 3700 2250 50  0001 L BNN
 F 1 "NUF2221W1T2G" H 3700 2250 50  0001 L BNN
-F 2 "SOT-363" H 3700 2250 50  0001 L BNN
+F 2 "digikey-footprints:SOT-363" H 3700 2250 50  0001 L BNN
 F 3 "http://www.onsemi.com/pub/Collateral/NUF2221W1T2-D.PDF" H 3700 2250 50  0001 L BNN
 F 4 "C274624" H 3700 2250 50  0001 C CNN "LCSC PN"
 	1    3700 2250
@@ -1093,4 +1039,67 @@ Wire Wire Line
 	1920 4075 1920 4085
 Wire Wire Line
 	2135 4585 2135 4695
+$Sheet
+S 7570 1015 1285 745 
+U 5C2DC889
+F0 "rgb_underglow" 50
+F1 "rgb_underglow.sch" 50
+$EndSheet
+Text GLabel 8340 4555 2    50   Input ~ 0
+RGBLED_3V3
+Wire Wire Line
+	8195 4755 8340 4755
+Wire Wire Line
+	8195 4855 8340 4855
+Wire Wire Line
+	8195 4655 8340 4655
+Wire Wire Line
+	6650 5155 6895 5155
+Wire Wire Line
+	6620 4355 6895 4355
+Wire Wire Line
+	6620 3655 6895 3655
+Wire Wire Line
+	6620 3455 6895 3455
+Wire Wire Line
+	6620 3555 6895 3555
+NoConn ~ 6895 4455
+$Comp
+L MCU_ST_STM32F3:STM32F303CBTx U1
+U 1 1 5BC4A90A
+P 7595 4055
+F 0 "U1" H 7545 2469 50  0000 C CNN
+F 1 "STM32F303CBTx" H 7545 2378 50  0000 C CNN
+F 2 "Housings_QFP:LQFP-48_7x7mm_Pitch0.5mm" H 6995 2655 50  0001 R CNN
+F 3 "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00058181.pdf" H 7595 4055 50  0001 C CNN
+F 4 "C108516" H 7595 4055 50  0001 C CNN "LCSC PN"
+	1    7595 4055
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8195 4155 8340 4155
+Wire Wire Line
+	8340 4255 8195 4255
+Wire Wire Line
+	8340 4355 8195 4355
+Wire Wire Line
+	8340 4455 8195 4455
+Wire Wire Line
+	8340 5355 8195 5355
+NoConn ~ 8195 3855
+NoConn ~ 8195 3955
+NoConn ~ 6895 5255
+Wire Wire Line
+	8340 4055 8195 4055
+NoConn ~ 6895 5355
+Wire Wire Line
+	8195 4555 8340 4555
+Wire Wire Line
+	6620 3855 6895 3855
+Wire Wire Line
+	6620 3955 6895 3955
+Wire Wire Line
+	6620 4055 6895 4055
+Wire Wire Line
+	6650 4855 6895 4855
 $EndSCHEMATC

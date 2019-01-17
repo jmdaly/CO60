@@ -7,4 +7,6 @@
   (lib (name Type-C)(type Legacy)(uri ${KIPRJMOD}/lib/Type-C.pretty/Type-C.lib)(options "")(descr ""))
   (lib (name dk_Transistors-Bipolar-BJT-Single)(type Legacy)(uri ${KIPRJMOD}/lib/digikey-kicad-library/digikey-symbols/dk_Transistors-Bipolar-BJT-Single.lib)(options "")(descr ""))
   (lib (name NUF2221W1T2G)(type Legacy)(uri ${KIPRJMOD}/lib/NUF2221W1T2G.lib)(options "")(descr ""))
+  (lib (name SN74LV1T34DBVR)(type Legacy)(uri ${KIPRJMOD}/lib/SN74LV1T34DBVR.lib)(options "")(descr ""))
+  (lib (name 74LVC1G34)(type Legacy)(uri ${KIPRJMOD}/lib/74LVC1G34.lib)(options "")(descr ""))
 )
