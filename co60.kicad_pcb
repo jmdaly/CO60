@@ -11711,7 +11711,7 @@
     (arrow2b (pts (xy 73.66 51.562) (xy 74.246421 52.688504)))
   )
   (gr_line (start 77.343 51.562) (end 70.104 51.562) (angle 90) (layer Dwgs.User) (width 0.2))
-  (gr_text "CO60 PCB - Rev. 7. Design by jmdaly with help from the MechKeys & QMK Discords\n" (at 179.1208 110.3376) (layer F.SilkS)
+  (gr_text "CO60 PCB - Rev. 7.1. Design by jmdaly with help from the MechKeys & QMK Discords\n" (at 179.1208 110.3376) (layer F.SilkS)
     (effects (font (size 2 2) (thickness 0.3)))
   )
   (dimension 18.1991 (width 0.3) (layer Dwgs.User)
