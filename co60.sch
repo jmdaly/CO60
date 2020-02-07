@@ -1,6 +1,5 @@
 EESchema Schematic File Version 4
-LIBS:co60-cache
-EELAYER 26 0
+EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -294,7 +293,7 @@ Wire Wire Line
 	1805 3485 1925 3485
 Connection ~ 2005 3485
 $Comp
-L Regulator_Linear:TLV70233_SOT23-5 U2
+L co60-rescue:TLV70233_SOT23-5-Regulator_Linear U2
 U 1 1 5BC4AA7D
 P 1795 5905
 F 0 "U2" H 1795 6247 50  0000 C CNN
